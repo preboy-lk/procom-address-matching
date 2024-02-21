@@ -1,0 +1,969 @@
+id,numero,rep,TypeVoie,NomVoieReste,code_postal,nom_commune,x,y,IdentifiantImmeuble,NumeroVoieImmeuble,ComplementNumeroVoieImmeuble,TypeVoieImmeuble,NomVoieImmeuble,CodePostalImmeuble,CommuneImmeuble,CoordonneeImmeubleX,CoordonneeImmeubleY,Label
+12065_0062_00035,46,bis,Avenue,de l'hôte,98120,Pary,122621.11,1240779.56,IMB/12065/X/0087,46,,Rue,de l'hôtel,98120,Pary,122621.11,1240779.56,0
+12065_0062_00036,54,C,Place,de l'herbier,88120,Castelnau,142621.11,1440779.56,IMB/12065/X/0088,54,C,Place,de l'herbe,88120,Castelnau,142621.11,1440779.56,0
+12065_0062_00031,33,ter,Route,de Pary,78120,Castres,162621.11,1640779.56,IMB/12065/X/0083,33,T,Route,de Paris,78120,Castres,162521.11,1640379.56,0
+12065_0062_00033,6,,Impasse,de Saint Thomas,58120,Ile d'Ieux,362621.11,3640779.56,IMB/12065/X/0085,6,,Ruelle,de St-Tomas,58120,Ile d'Ieux,352621.11,3540779.56,0
+12140_b267_03121,3121,,route,de marroule,12200,Martiel,611103.36,6366597.37,IMB/12208/X/003V,522,,avenue,de Millau,12400,St-Affrique,692138.433,6316572.726,0
+12287_jxal1a_00217,217,,impasse,du Mas de Maury,12200,Vailhourles,611897.48,6356657.04,IMB/12287/X/006S,217,,impasse,du Mas de Maury,12200,Vailhourles,611885.6136,6356651.746,1
+12140_xc3g2o_00017,17,,place,du caquet,12200,Martiel,613396.44,6361076.4,IMB/12223/X/009G,1,,rue,des Orgues,12420,Argences en Aubrac,687241.686,6411059.604,0
+12140_7ttzrw_00195,195,,rue,de salelles,12200,Martiel,613540.08,6364590.03,IMB/12140/X/0083,195,,rue,de Salelles,12200,Martiel,613527.9647,6364585.542,1
+12140_ochipt_00012,12,,route,des dolmens,12200,Martiel,613957.42,6364964.38,IMB/12140/X/00EG,12,,route,des Dolmens,12200,Martiel,613951.717,6364976.066,1
+12140_u2jrbu_00046,46,,impasse,émile gasc,12200,Martiel,613984.39,6364885.69,IMB/12203/X/007G,1,,rue,des Cardonilles,12250,Roquefort-sur-Soulzon,696676.7924,6319047.691,0
+12140_hb3ayu_00081,81,,place,des artisans,12200,Martiel,614123.35,6364733.58,IMB/12084/X/00I9,24,,rue,des Baumèles,12100,Creissels,703990.3338,6331267.166,0
+12140_hb3ayu_00059,59,,place,des artisans,12200,Martiel,614137.37,6364721.61,IMB/12044/X/006Y,27,,,Grand Rue,12360,Camarès,690187.4307,6302622.819,0
+12140_s64usw_00016,16,,place,de la tour,12200,Martiel,614226.16,6364699.29,IMB/12140/X/009A,16,,place,de la Tour,12200,Martiel,614222.1244,6364711.682,1
+12053_0160_00674,674,,route,de Graves,12260,La Capelle-Balaguier,614779.35,6370982.89,IMB/12175/X/002G,117,,impasse,de Brengou,12260,Ols-et-Rinhodes,617003.0576,6374336.409,0
+12140_gvysc8_00031,31,,chemin,de l'allée verte,12200,Martiel,614990.7,6364597.37,IMB/12140/X/000C,31,,chemin,de l'Allée Verte,12200,Martiel,614986.9142,6364609.761,1
+12287_qnptok_00446,446,,route,des Granges,12200,Vailhourles,615282.84,6359659.06,IMB/12287/X/00FT,446,,route,des Granges,12200,Vailhourles,615290.0219,6359648.275,1
+12217_rcr09q_02218,2218,,route,de margues,12260,Sainte-Croix,616489.59,6367897.4,IMB/12217/X/00AN,2218,,route,de Margues,12260,Ste-Croix,616487.8347,6367910.196,1
+12205_sti5l2_02183,2183,,route,du Mas de la Borie,12200,La Rouquette,616711.68,6354548.66,IMB/12045/X/000A,37,,route,des Croix,12160,Camboulazet,656413.8208,6351132.341,0
+12205_hv8tbb_00264,264,,rue,des Buis,12200,La Rouquette,617594.96,6360524.19,IMB/12171/X/004X,77,,chemin,des Amoriers,12330,Nauviale,656896.258,6380518.174,0
+12217_0330_00372,372,,route,de fréjaviole,12260,Sainte-Croix,618273.24,6369181.7,IMB/12217/X/0031,372,,route,de Frejaviole,12260,Ste-Croix,618260.3116,6369182.936,1
+12167_0096_00006,6,,rue,de la Roque,12270,Najac,618475.86,6347349.44,IMB/12198/X/00JT,5,,chemin,de la Bade,12240,Rieupeyroux,639204.8142,6356462.951,0
+12167_0096_00004,4,,rue,de la Roque,12270,Najac,618479.14,6347350.07,IMB/12203/X/009C,2,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696884.3244,6319529.257,0
+12167_0096_00002,2,,rue,de la Roque,12270,Najac,618483.46,6347350.45,IMB/12168/X/00JB,19,,rue,du Faubourg Haut,12230,Nant,724005.2697,6324933.506,0
+12167_0096_00001,1,,rue,de la Roque,12270,Najac,618484.31,6347347.67,IMB/12084/X/0054,2,,avenue,Jean Monnet,12100,Creissels,703557.6921,6331547.835,0
+12217_0130_00269,269,,chemin,buissonier,12260,Sainte-Croix,618502.2,6366794.33,IMB/12199/X/00J2,6,,rue,du Prince Noir,12390,Rignac,643464.436,6368102.943,0
+12217_2qfav9_00243,243,,route,de lagarrigue,12260,Sainte-Croix,618515.99,6367225.21,IMB/12033/X/01IA,5,,rue,Henri Canonge,12340,Bozouls,678383.3021,6375089.498,0
+12217_0760_00244,244,,route,de la valette,12260,Sainte-Croix,618613.05,6366588.92,IMB/12217/X/0013,244,,route,de la Valette,12260,Ste-Croix,618610.9316,6366601.676,1
+12217_0760_00086,86,,route,de la valette,12260,Sainte-Croix,618760.67,6366657.33,IMB/12157/X/00EW,125,,route,du Château,12630,Montrozier,675572.2385,6366620.995,0
+12167_0060_00020,20,,avenue,de la Gare,12270,Najac,618921.86,6347336.14,IMB/12013/X/023K,19,,lieu dit,Tramons Bas,12110,Aubin,643374.9332,6383745.075,0
+12167_0060_00028,28,,avenue,de la Gare,12270,Najac,618921.86,6347336.14,IMB/12006/X/00GL,1,,route,de la Sarradelle,12430,Alrance,672958.3336,6339987.061,0
+12217_0440_00561,561,,route,du mas de fournier,12260,Sainte-Croix,618956.28,6368786.79,IMB/12105/X/009X,9,,rue,de la Fontaine,12270,La Fouillade,623479.6697,6348420.269,0
+12150_0205_01065,1065,,chemin,des Tempourets,12200,Monteils,619235.87,6354548.02,IMB/12300/X/0281,3,,impasse,Louis Caussanel,12200,Villefranche-de-Rouergue,623711.8637,6362457.705,0
+12281_0320_00247,247,,rue,de Lacaze,12200,Toulonjac,619704.75,6365425.67,IMB/12281/X/008E,247,,rue,de Lacaze,12200,Toulonjac,619703.6158,6365412.703,1
+12150_xnswft_00829,829,,lotissement,Lacapelle,12200,Monteils,620115.31,6353257.44,IMB/12150/X/0079,829,,lotissement,Lacapelle,12200,Monteils,620103.524,6353252.063,1
+12205_jl4fwj_00101,101,,chemin,de la Source,12200,La Rouquette,620244.83,6358453.67,IMB/12208/X/00HI,19,,boulevard,de Verdun,12400,St-Affrique,690376.0896,6317625.763,0
+12281_blm296_00118,118,,allee,Beausoleil,12200,Toulonjac,620314.48,6364783.77,IMB/12065/X/004L,32,,rue,du Barri,12120,Centrès,652642.4651,6340776.956,0
+12150_0130_00706,706,,chemin,de Lafage,12200,Monteils,620525.97,6354284.3,IMB/12168/X/00JG,8,,rue,du Faubourg Haut,12230,Nant,724060.3202,6324908.266,0
+12205_racde7_00073,73,,route,de la Sicardie,12200,La Rouquette,621085.32,6357922.68,IMB/12205/X/00PL,73,,route,de la Sicardié,12200,La Rouquette,621092.0057,6357933.792,1
+12205_racde7_00181,181,,route,de la Sicardie,12200,La Rouquette,621098.88,6357826.85,IMB/12205/X/00A6,181,,route,de la Sicardié,12200,La Rouquette,621111.8601,6357825.733,1
+12300_1990_00100,100,,route,de Montauban,12200,Villefranche-de-Rouergue,621144.65,6362892.94,IMB/12168/X/00JW,13,,rue,du Faubourg Haut,12230,Nant,724006.4482,6324890.91,0
+12210_w92o4z_00948,948,,route,du Pradel,12270,Saint-André-de-Najac,621527.32,6344020.38,IMB/12210/X/007B,948,,route,du Pradel,12270,St-André-de-Najac,621529.881,6344033.038,1
+12300_2470_00100,100,,avenue,du Quercy,12200,Villefranche-de-Rouergue,621690.61,6362871.79,IMB/12203/X/008Z,13,,rue,du Ségala,12250,Roquefort-sur-Soulzon,696686.1028,6318794.102,0
+12300_a100_00028,28,,,Les Mas du Plantou,12200,Villefranche-de-Rouergue,622106.51,6363432.13,IMB/12300/X/07EJ,28,,,les Mas du Plantou,12200,Villefranche-de-Rouergue,622119.3455,6363433.781,1
+12300_1141_00038,38,,avenue,de Fondies,12200,Villefranche-de-Rouergue,622336.29,6361159.29,IMB/12050/X/000D,24,,place,de la Lande,12290,Canet-de-Salars,680405.2796,6348485.344,0
+12300_3085_00045,45,,avenue,de Verdun,12200,Villefranche-de-Rouergue,622377.22,6361633.52,IMB/12300/X/00QB,45,,avenue,de Verdun,12200,Villefranche-de-Rouergue,621381.105,6363140.141,1
+12300_0608_00067,67,,avenue,du Champ Rouget,12200,Villefranche-de-Rouergue,622379.27,6363344.21,IMB/12063/X/001J,2,,avenue,du Général de Gaulle,12230,La Cavalerie,712323.0399,6323404.734,0
+12300_0608_00064,64,,avenue,du Champ Rouget,12200,Villefranche-de-Rouergue,622385.33,6363350.8,IMB/12225/X/009G,11,,route,de Linas,12100,St-Georges-de-Luzençon,699004.2311,6330496.563,0
+12300_0608_00039,39,,avenue,du Champ Rouget,12200,Villefranche-de-Rouergue,622399.23,6363321.08,IMB/12301/X/00KY,18,,rue,des Condamines,12260,Villeneuve,622913.6936,6371149.88,0
+12300_0608_00042,42,,avenue,du Champ Rouget,12200,Villefranche-de-Rouergue,622406.46,6363326.32,IMB/12169/X/00AD,7,,avenue,de Sauveterre de Rouergue,12800,Naucelle,647059.6263,6345015.057,0
+12300_3000_00027,27,,chemin,des 13 Pierres,12200,Villefranche-de-Rouergue,622408.88,6362494.15,IMB/12244/X/00F3,98,,rue,des Cyprès,12490,St-Rome-de-Tarn,692340.6119,6327279.987,0
+12300_3085_00027,27,,avenue,de Verdun,12200,Villefranche-de-Rouergue,622482.08,6361746.1,IMB/12300/X/00QC,27,,avenue,de Verdun,12200,Villefranche-de-Rouergue,621353.6307,6363131.61,1
+12300_1141_00001,1,,avenue,de Fondies,12200,Villefranche-de-Rouergue,622543.18,6361373.39,IMB/12300/X/08SP,20,,chemin,des Planques,12200,Villefranche-de-Rouergue,621007.9014,6362421.631,0
+12300_1141_00001,1,,avenue,de Fondies,12200,Villefranche-de-Rouergue,622543.18,6361373.39,IMB/12119/X/00DT,46,,route,de l'Aubrac,12210,Laguiole,688532.8192,6398494.489,0
+12242_0040_00002,2,,route,de la Combe,12200,Saint-Rémy,622574.43,6367167.82,IMB/12300/X/079E,55,,avenue,du Ségala,12200,Villefranche-de-Rouergue,623350.4867,6360696.762,0
+12242_0040_00001,1,,route,de la Combe,12200,Saint-Rémy,622574.43,6367167.82,IMB/12006/X/0059,1,,route,de la Parranelle,12430,Alrance,673375.8425,6339897.925,0
+12300_2470_00059_bis,59,bis,Avenue,du Quercy,12200,Villefranche-de-Rouergue,622604.24,6362150.01,IMB/12300/X/00XE,59,B,Avenue,du Quercy,12200,Villefranche-de-Rouergue,622598.7439,6362153.2,1
+12300_1215_00011,11,,rue,Frédéric Mistral,12200,Villefranche-de-Rouergue,622614.62,6362689.6,IMB/12300/X/03ET,11,,rue,Frédéric Mistral,12200,Villefranche-de-Rouergue,622617.2997,6362702.341,1
+12300_2470_00059_ter,59,ter,Avenue,du Quercy,12200,Villefranche-de-Rouergue,622621.12,6362129.47,IMB/12300/X/00YI,59,T,Avenue,du Quercy,12200,Villefranche-de-Rouergue,622595.4777,6362158.033,1
+12300_2390_00035,35,,rue,des Potiers,12200,Villefranche-de-Rouergue,622621.54,6361423.86,IMB/12052/X/004T,5,,avenue,Pasteur,12700,Capdenac-Gare,627308.0386,6386706.719,0
+12300_1215_00008,8,,rue,Frédéric Mistral,12200,Villefranche-de-Rouergue,622622.43,6362689.84,IMB/12287/X/000P,202,,route,du Tourron,12200,Vailhourles,612680.9049,6356913.544,0
+12300_3140_00027,27,,avenue,Vincent Cibiel,12200,Villefranche-de-Rouergue,622642.23,6362361.63,IMB/12300/X/0177,27,,avenue,Vincent Cibiel,12200,Villefranche-de-Rouergue,622630.5822,6362355.943,1
+12300_0590_00070,70,,avenue,Joseph Caylet,12200,Villefranche-de-Rouergue,622830.28,6360880.13,IMB/12057/X/00AE,1,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662276.3683,6341212.075,0
+12300_0590_00104,104,,avenue,Joseph Caylet,12200,Villefranche-de-Rouergue,622830.28,6360880.13,IMB/12168/X/00IU,27,,rue,du Faubourg Bas,12230,Nant,724370.4378,6324719.505,0
+12300_0590_00075,75,,avenue,Joseph Caylet,12200,Villefranche-de-Rouergue,622844.59,6360928.84,IMB/12013/X/023L,17,,lieu dit,Tramons Bas,12110,Aubin,643362.7032,6383731.527,0
+12300_0590_00004,4,,avenue,Joseph Caylet,12200,Villefranche-de-Rouergue,622855.14,6361053.92,IMB/12056/X/00DY,80,,avenue,de Marengo,12160,Baraqueville,654473.2585,6353350.394,0
+12300_0114_00005,5,,rue,Antonin Perbosc,12200,Villefranche-de-Rouergue,622933.98,6362830.45,IMB/12300/X/02LW,5,,rue,Antonin Perbosc,12200,Villefranche-de-Rouergue,622931.7854,6362817.719,1
+12300_0114_00004,4,,rue,Antonin Perbosc,12200,Villefranche-de-Rouergue,622994.98,6362826.48,IMB/12300/X/02LV,4,,rue,Antonin Perbosc,12200,Villefranche-de-Rouergue,623004.9174,6362818.246,1
+12105_0090_00020,20,,rue,du Cavagnal,12270,La Fouillade,623046.9,6348070.88,IMB/12105/X/00AA,20,,rue,du Cavagnal,12270,La Fouillade,623047.0318,6348083.804,1
+12300_1584_00011,11,,rue,Jean Boudou,12200,Villefranche-de-Rouergue,623076.11,6362838.71,IMB/12300/X/03GS,11,,rue,Jean Boudou,12200,Villefranche-de-Rouergue,623064.1626,6362843.764,1
+12300_1584_00008,8,,rue,Jean Boudou,12200,Villefranche-de-Rouergue,623097.68,6362784.11,IMB/12194/X/000U,740,,route,de la Mothe,12800,Quins,653590.6904,6347786.316,0
+12300_1070_00019,19,,avenue,de Félix,12200,Villefranche-de-Rouergue,623136.54,6360939.82,IMB/12164/X/0036,3,,,Grand Rue,12600,Mur-de-Barrez,673159.6698,6416169.763,0
+12300_0145_00006,6,,rue,Auguste Bénazet,12200,Villefranche-de-Rouergue,623156.01,6361046.13,IMB/12043/X/00W0,246,,rue,des Sources,12450,Calmont,663397.7052,6352711.926,0
+12300_1240_00001,1,,rue,des Gantiers,12200,Villefranche-de-Rouergue,623159.08,6362022.55,IMB/12168/X/00JJ,17,,rue,du Faubourg Haut,12230,Nant,724004.863,6324917.296,0
+12300_1240_00003,3,,rue,des Gantiers,12200,Villefranche-de-Rouergue,623160.84,6362029.09,IMB/12208/X/00JN,61,,boulevard,Émile Borel,12400,St-Affrique,691415.673,6317341.317,0
+12300_1240_00005,5,,rue,des Gantiers,12200,Villefranche-de-Rouergue,623161.37,6362033.75,IMB/12058/X/0021,1,,route,de la Bancalerie,12210,Cassuéjouls,686211.9203,6402492.271,0
+12300_1240_00007,7,,rue,des Gantiers,12200,Villefranche-de-Rouergue,623162.31,6362038.4,IMB/12033/X/00EL,4,,rue,Marc André Fabre,12340,Bozouls,677780.9436,6374769.806,0
+12301_0030_00008,8,,rue,des Condamines,12260,Villeneuve,623191.79,6371064.2,IMB/12168/X/00JQ,33,,rue,du Faubourg Haut,12230,Nant,723951.4965,6324930.195,0
+12301_0030_00009,9,,rue,des Condamines,12260,Villeneuve,623197.59,6371063.68,IMB/12168/X/00IW,33,,rue,du Faubourg Bas,12230,Nant,724384.6494,6324707.217,0
+12301_0030_00012,12,,rue,des Condamines,12260,Villeneuve,623214.93,6371062.14,IMB/12021/X/00DZ,2,,moulin,Blanc,12240,Le Bas Ségala,634441.306,6352827.854,0
+12301_0030_00013,13,,rue,des Condamines,12260,Villeneuve,623220.73,6371061.62,IMB/12300/X/02G3,110,,route,de Montauban,12200,Villefranche-de-Rouergue,621573.5204,6362963.123,0
+12300_3020_00002,2,,rue,de la Trésorerie,12200,Villefranche-de-Rouergue,623235.77,6361813.19,IMB/12300/X/02X0,2,,rue,de la Trésorerie,12200,Villefranche-de-Rouergue,623225.5257,6361805.33,1
+12300_a110_00022,22,,mas,de Sainte Marguerite,12200,Villefranche-de-Rouergue,623238.09,6362853.5,IMB/12300/X/02B2,22,,mas,Sainte-Marguerite,12200,Villefranche-de-Rouergue,623250.0683,6362848.52,1
+12105_0205_00005,5,,rue,des Pyrenees,12270,La Fouillade,623350.29,6348573.61,IMB/12105/X/00AP,5,,rue,des Pyrénées,12270,La Fouillade,623349.2993,6348560.705,1
+12300_0030_00015,15,,rue,Agnes Savignac,12200,Villefranche-de-Rouergue,623354.68,6362458.57,IMB/12300/X/02JH,15,,rue,Agnès Savignac,12200,Villefranche-de-Rouergue,623343.4606,6362465.077,1
+12300_2420_00004,4,,place,du Présidial,12200,Villefranche-de-Rouergue,623375.73,6361693.28,IMB/12083/X/005S,11,,rue,Pavée,12110,Cransac,643134.2114,6380879.1,0
+12300_0800_00017,17,,rue,de la Côte Pavée,12200,Villefranche-de-Rouergue,623381.08,6361373.24,IMB/12300/X/02RX,17,,rue,de la Côte Pavée,12200,Villefranche-de-Rouergue,623391.8775,6361380.367,1
+12105_0205_00001,1,,rue,des Pyrenees,12270,La Fouillade,623399.52,6348582.02,IMB/12076/X/00V0,4,,route,de la Combarelle,12320,Conques-en-Rouergue,652677.3888,6388081.383,0
+12300_1040_00039,39,,avenue,Étienne Soulié,12200,Villefranche-de-Rouergue,623405.93,6362478.5,IMB/12300/X/011S,39,,avenue,Étienne Soulié,12200,Villefranche-de-Rouergue,623394.6355,6362484.829,1
+12301_a050_00018,18,,lotissement,la Marelle,12260,Villeneuve,623481.88,6371321.29,IMB/12280/X/0065,8,,village,de Nigresserre,12600,Thérondels,676445.4611,6420077.4,0
+12242_0120_00027,27,,rue,de la Mairie,12200,Saint-Rémy,623530.97,6366835.49,IMB/12242/X/004N,27,,rue,de la Mairie,12200,St-Rémy,623539.8705,6366844.916,1
+12242_0120_00006,6,,rue,de la Mairie,12200,Saint-Rémy,623536.72,6367040.18,IMB/12300/X/03BC,29,,rue,du Sénéchal,12200,Villefranche-de-Rouergue,623395.0618,6361750.973,0
+12300_1605_00015,15,,avenue,Jean Gazave,12200,Villefranche-de-Rouergue,623576.26,6361985.59,IMB/12300/X/012W,15,,avenue,Jean Gazave,12200,Villefranche-de-Rouergue,623586.836,6361978.089,1
+12300_1024_00003,3,,impasse,de l’Ensoleillé,12200,Villefranche-de-Rouergue,623582.39,6362621.23,IMB/12169/X/00BV,36,,avenue,de l'Étang,12800,Naucelle,647469.9251,6344005.943,0
+12300_1005_00001,1,,rue,des Églantiers,12200,Villefranche-de-Rouergue,623625.4,6362381.95,IMB/12203/X/009F,7,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696988.6966,6319404.704,0
+12300_1005_00003,3,,rue,des Églantiers,12200,Villefranche-de-Rouergue,623633.5,6362379.52,IMB/12076/X/00PE,1,,chemin,de Servols,12320,Conques-en-Rouergue,652225.3554,6383936.288,0
+12300_1005_00005,5,,rue,des Églantiers,12200,Villefranche-de-Rouergue,623643.1,6362376.29,IMB/12057/X/005W,25,,avenue,de Lodève,12120,Cassagnes-Bégonhès,662306.3538,6340977.429,0
+12300_1005_00007,7,,rue,des Églantiers,12200,Villefranche-de-Rouergue,623654.37,6362372.38,IMB/12290/X/006G,298,,impasse,du Moulin de Rayssac,12220,Vaureilles,633762.5926,6374814.173,0
+12300_0265_00005,5,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623666.29,6362533.33,IMB/12232/X/001A,119,,rue,de la Lavogne,12250,St-Jean-et-St-Paul,700173.2289,6315859.992,0
+12300_2560_03069,3069,,route,de Rieupeyroux,12200,Villefranche-de-Rouergue,623724.03,6360983,IMB/12300/X/078O,3069,,route,de Rieupeyroux,12200,Villefranche-de-Rouergue,625035.0426,6359880.856,1
+12300_0265_00048,48,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623768.19,6362450.43,IMB/12001/X/006V,6,,impasse,Daude de Prades,12630,Agen-d'Aveyron,673718.4831,6362065.494,0
+12300_1503_00022,22,,avenue,Hugues Panassié,12200,Villefranche-de-Rouergue,623809.99,6362229.39,IMB/12299/X/00AT,3,,rue,de la Boule d'Or,12430,Villefranche-de-Panat,676462.0042,6331284.601,0
+12300_0265_00064,64,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623846.31,6362450.93,IMB/12300/X/00VS,64,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623834.9064,6362457.074,1
+12300_0265_00059,59,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623898,6362447.42,IMB/12300/X/00VP,59,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623887.6083,6362455.184,1
+12300_0265_00102,102,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623943.92,6362348.87,IMB/12300/X/00WF,102,,avenue,du Belvédère,12200,Villefranche-de-Rouergue,623931.4547,6362352.598,1
+12300_1305_00042,42,,route,de la Gasse,12200,Villefranche-de-Rouergue,624008.96,6361107.21,IMB/12300/X/07D8,42,,route,de la Gasse,12200,Villefranche-de-Rouergue,623998.1362,6361100.121,1
+12210_t53xyn_00764,764,,route,de Bel Air,12270,Saint-André-de-Najac,624352.3,6345328.63,IMB/12210/X/0057,764,,route,de Bel Air,12270,St-André-de-Najac,624339.3851,6345328.899,1
+12227_a76aps_00010,10,,chemin,des vergers,12260,Saint-Igest,625799.16,6373629.71,IMB/12227/X/002O,10,,chemin,des Vergers,12260,St-Igest,625805.9952,6373640.776,1
+12301_byol3w_00022,22,,chemin,de Subretesque,12260,Villeneuve,625948.42,6376266.98,IMB/12106/X/000B,218,,route,de Ceyrac le Haut,12340,Gabriac,686077.5048,6373181.226,0
+12136_0025_00010,10,,impasse,des Chataigniers,12350,Maleville,626006.98,6366974.74,IMB/12033/X/00A1,14,,route,de Saint-Julien,12340,Bozouls,677475.5541,6375077.775,0
+12136_0005_00010,10,,rue,des Acacias,12350,Maleville,626392.38,6367053.54,IMB/12136/X/00FN,10,,rue,des Acacias,12350,Maleville,626400.9647,6367063.198,1
+12170_0340_00404,404,,chemin,des Genevriers,12700,Naussac,626408.5,6380971.54,IMB/12170/X/004C,404,,chemin,des Genévriers,12700,Naussac,626414.8332,6380960.165,1
+12052_1115_00001,1,,rue,du Ruisseau,12700,Capdenac-Gare,626464.37,6384773.39,IMB/12102/X/00L2,13,,rue,du Prat Long,12450,Flavin,668542.0965,6354867.281,0
+12052_0172_00003,3,,ruelle,du Cantou,12700,Capdenac-Gare,626490,6384730.77,IMB/12300/X/014B,92,,avenue,Joseph Caylet,12200,Villefranche-de-Rouergue,622896.9443,6360118.02,0
+12052_a090_00013,13,,clos,Bardet,12700,Capdenac-Gare,626710.76,6385637,IMB/12048/X/001B,79,,rue,Beausoleil,12460,Campouriez,666791.6636,6397069.78,0
+12052_0800_00004,4,,rue,Michel Fournier,12700,Capdenac-Gare,626715.62,6386337.92,IMB/12052/X/01GF,4,,rue,Michel Fournier,12700,Capdenac-Gare,626708.925,6386326.754,1
+12052_0500_00002,2,,rue,Jean Jaurès,12700,Capdenac-Gare,626716.78,6386702.39,IMB/12052/X/017E,2,,rue,Jean Jaurès,12700,Capdenac-Gare,626707.8051,6386711.758,1
+12052_0800_00003,3,,rue,Michel Fournier,12700,Capdenac-Gare,626730.34,6386347.41,IMB/12131/X/00M2,1231,,route,des Deux-Ponts,12740,La Loubière,673480.0162,6364000.586,0
+12052_0020_00004,4,,rue,Albert Andrieu,12700,Capdenac-Gare,626801.4,6386462.22,IMB/12052/X/00OY,4,,rue,Albert Andrieu,12700,Capdenac-Gare,626788.7075,6386465.09,1
+12052_0030_00041,41,,avenue,Albert Thomas,12700,Capdenac-Gare,626802.2,6385843.67,IMB/12043/X/01NJ,1441,,route,de Milhac,12450,Calmont,660850.8281,6348181.992,0
+12227_n99vml_00055,55,,route,de couderc-batut,12260,Saint-Igest,626964,6371833.77,IMB/12227/X/001L,55,,route,de Couderc Batut,12260,St-Igest,626958.0897,6371822.182,1
+12052_0030_00001,1,,avenue,Albert Thomas,12700,Capdenac-Gare,626993.14,6386535.53,IMB/12052/X/000B,1,,avenue,Albert Thomas,12700,Capdenac-Gare,626997.072,6386523.186,1
+12252_ltuwdm_00052,52,,route,de Maillergues,12260,Salles-Courbatiès,627167.34,6376402.81,IMB/12252/X/001Y,52,,route,de Maillergues,12260,Salles-Courbatiès,627159.0152,6376412.777,1
+12052_1255_00030,30,,rue,Vincent Auriol,12700,Capdenac-Gare,627210.1,6385730.83,IMB/12028/X/004Q,5,b,lotissement,les Placettes,12300,Boisse-Penchot,637039.3767,6388087.161,0
+12052_a015_00021,21,,lotissement,le Ségala,12700,Capdenac-Gare,627340.22,6385926.28,IMB/12052/X/00MF,21,,lotissement,le Ségala,12700,Capdenac-Gare,627344.6249,6385914.084,1
+12052_0365_00040,40,,rue,des Fauvettes,12700,Capdenac-Gare,627469.17,6386110.2,IMB/12052/X/00WD,40,,rue,des Fauvettes,12700,Capdenac-Gare,627474.6517,6386121.941,1
+12159_0066_00345,345,,impasse,de Maligorse,12200,Morlhon-le-Haut,627475.3,6357029.48,IMB/12013/X/023G,21,,lieu dit,Tramons Bas,12110,Aubin,643405.4886,6383716.462,0
+12052_0465_00032,32,,rue,des Grives,12700,Capdenac-Gare,627539.07,6386077.62,IMB/12065/X/009P,1756,,route,de Taurines,12120,Centrès,657412.5815,6340572.243,0
+12052_0790_00009,9,,rue,Maurice Lagarrigue,12700,Capdenac-Gare,627546.64,6386643.19,IMB/12197/X/00RR,3,,route,de Sonnac,12170,Réquista,662933.1378,6326407.546,0
+12029_7x8nn3_00148,148,,rue,des Vignes,12270,Bor-et-Bar,627575.17,6344083.19,IMB/12029/X/002V,148,,rue,des Vignes,12270,Bor-et-Bar,627567.8958,6344093.982,1
+12052_0465_00016,16,,rue,des Grives,12700,Capdenac-Gare,627615.77,6386283.13,IMB/12052/X/00Y2,16,,rue,des Grives,12700,Capdenac-Gare,627628.0392,6386278.941,1
+12052_0060_00052,52,,rue,Arsène Lugan,12700,Capdenac-Gare,627683.05,6387028.54,IMB/12234/X/00D6,131,,rue,des Agoustes Basses,12120,Ste-Juliette-sur-Viaur,661489.8888,6346447.843,0
+12052_0920_00056,56,,avenue,Pasteur,12700,Capdenac-Gare,627693.51,6386840.79,IMB/12217/X/007N,118,,route,du Gouzou,12260,Ste-Croix,617912.446,6369949.146,0
+12029_rn6gaf_02157,2157,,route,de Laurelie,12270,Bor-et-Bar,627728.65,6344026.65,IMB/12029/X/001Z,2157,,route,de Laurelie,12270,Bor-et-Bar,627723.8559,6344038.759,1
+12052_0920_00051,51,,avenue,Pasteur,12700,Capdenac-Gare,627743.95,6386883.76,IMB/12223/X/0098,7,,rue,des Caminades,12420,Argences en Aubrac,686837.9496,6410709.502,0
+12034_d7fsxz_01865,1865,,route,de Lanuejouls,12350,Brandonnet,631588.5,6367338.6,IMB/12034/X/004X,1865,,route,de Lanuejouls,12350,Brandonnet,631586.5915,6367351.441,1
+12012_j7y8bu_00006,6,,Lotissement,Beau Soleil,12700,Asprières,631705.13,6383388.95,IMB/12012/X/007F,6,,Lotissement,Beau Soleil,12700,Asprières,631705.1337,6383389.235,1
+12012_j7y8bu_00007,7,,Lotissement,Beau Soleil,12700,Asprières,631719.69,6383406.01,IMB/12012/X/007G,7,,Lotissement,Beau Soleil,12700,Asprières,631719.6894,6383405.916,1
+12012_j7y8bu_00008,8,,Lotissement,Beau Soleil,12700,Asprières,631735.05,6383423.51,IMB/12012/X/007K,8,,Lotissement,Beau Soleil,12700,Asprières,631735.0618,6383423.48,1
+12012_j7y8bu_00005,5,,Lotissement,Beau Soleil,12700,Asprières,631748.53,6383370.04,IMB/12012/X/007A,5,,Lotissement,Beau Soleil,12700,Asprières,631748.5787,6383369.859,1
+12012_j7y8bu_00004,4,,Lotissement,Beau Soleil,12700,Asprières,631767.86,6383365.05,IMB/12012/X/007B,4,,Lotissement,Beau Soleil,12700,Asprières,631767.8587,6383364.952,1
+12012_j7y8bu_00009,9,,Lotissement,Beau Soleil,12700,Asprières,631772.71,6383401.99,IMB/12012/X/006T,9,,Lotissement,Beau Soleil,12700,Asprières,631772.7564,6383402.185,1
+12012_j7y8bu_00010,10,,Lotissement,Beau Soleil,12700,Asprières,631795.4,6383413.52,IMB/12012/X/006S,10,,Lotissement,Beau Soleil,12700,Asprières,631795.4399,6383413.583,1
+12012_j7y8bu_00003,3,,Lotissement,Beau Soleil,12700,Asprières,631797.17,6383363.95,IMB/12012/X/007C,3,,Lotissement,Beau Soleil,12700,Asprières,631797.203,6383364.107,1
+12012_j7y8bu_00002,2,,Lotissement,Beau Soleil,12700,Asprières,631815.21,6383379.98,IMB/12012/X/007E,2,,Lotissement,Beau Soleil,12700,Asprières,631815.2772,6383379.82,1
+12012_j7y8bu_00001,1,,Lotissement,Beau Soleil,12700,Asprières,631845.16,6383386.98,IMB/12012/X/007D,1,,Lotissement,Beau Soleil,12700,Asprières,631845.1063,6383386.752,1
+12065_0062_00034,12,ter,Chemin,d'Haze,98100,Château Louis XII,632621.11,6940779.56,IMB/12065/X/0086,12,ter,Chemin,d'Haze,98080,Château Charles X,632621.11,6940779.56,0
+12054_2ual6z_00002,2,,lieu dit, Montloubet,12240,La Capelle-Bleys,632908.59,6355623.5,IMB/12168/X/00JM,21,,rue,du Faubourg Haut,12230,Nant,723993.1279,6324922.37,0
+12121_0200_00473,473,,avenue,du Rouergue,12350,Lanuéjouls,633037.39,6369871.08,IMB/12076/X/00FW,1,,chemin,de Timon,12320,Conques-en-Rouergue,649180.7926,6381876.316,0
+12030_0012_00002,2,,avenue,des Cambous,12300,Bouillac,633422.47,6386377.53,IMB/12030/X/0006,2,,avenue,des Cambous,12300,Bouillac,634062.9541,6385123.038,1
+12030_0092_00001,1,,rue,du Port Haut,12300,Bouillac,633520.29,6386504.68,IMB/12225/X/00FR,2,,rue,des Reyllous,12100,St-Georges-de-Luzençon,699034.3418,6329817.857,0
+12030_0012_00006,6,,avenue,des Cambous,12300,Bouillac,633589.42,6386344.54,IMB/12030/X/0004,6,,avenue,des Cambous,12300,Bouillac,635147.4622,6385907.572,1
+12121_0200_01195,1195,,avenue,du Rouergue,12350,Lanuéjouls,633682.59,6370166.75,IMB/12121/X/000W,1195,,avenue,du Rouergue,12350,Lanuéjouls,632693.2565,6369469.965,1
+12290_74dv6v_00565,565,,route,de la Montanie,12220,Vaureilles,633841.48,6373280.02,IMB/12290/X/006U,565,,route,de la Montanie,12220,Vaureilles,633832.5373,6373289.374,1
+12191_912lv0_00720,720,,,Le Bournhou,12350,Privezac,634145.05,6367651.48,IMB/12191/X/001N,720,,,le Bournhou,12350,Privezac,634145.0524,6367651.375,1
+12191_912lv0_01040,1040,,,Le Bournhou,12350,Privezac,634158.46,6367867.75,IMB/12191/X/0027,1040,,,le Bournhou,12350,Privezac,634163.9946,6367875.485,1
+12191_912lv0_00710,710,,,Le Bournhou,12350,Privezac,634158.84,6367668,IMB/12191/X/001M,710,,,le Bournhou,12350,Privezac,634158.83,6367668.193,1
+12191_912lv0_00700,700,,,Le Bournhou,12350,Privezac,634182.02,6367652.98,IMB/12191/X/001L,700,,,le Bournhou,12350,Privezac,634181.9779,6367652.804,1
+12191_912lv0_00680,680,,,Le Bournhou,12350,Privezac,634229.47,6367552.5,IMB/12191/X/001K,680,,,le Bournhou,12350,Privezac,634229.5309,6367552.704,1
+12003_80dbgx_01165,1165,,route,de la Cau,12220,Les Albres,634407.1,6384003.31,IMB/12003/X/0020,1165,,route,de la Cau,12220,Les Albres,634407.1901,6384016.278,1
+12003_tmxlcd_00041,41,,rue,du Barry,12220,Les Albres,634442.31,6382553.8,IMB/12187/X/0037,4224,,route,de l'Aubrac,12470,Prades-d'Aubrac,695137.8918,6381609.209,0
+12191_912lv0_00240,240,,,Le Bournhou,12350,Privezac,634537.68,6367353.53,IMB/12191/X/00GV,240,,,le Bournhou,12350,Privezac,634537.6962,6367353.674,1
+12191_912lv0_00230,230,,,Le Bournhou,12350,Privezac,634548.85,6367370.52,IMB/12191/X/00GU,230,,,le Bournhou,12350,Privezac,634548.827,6367370.564,1
+12003_7ydr9r_01234,1234,,route,de la Chapelette.,12220,Les Albres,634614.04,6383783.86,IMB/12003/X/001X,1234,,route,de la Chapelette,12220,Les Albres,634625.1412,6383777.212,1
+12258_twqvdm_00001,1,,,Leruech,12440,La Salvetat-Peyralès,634957.04,6344961.98,IMB/12168/X/00JO,27,,rue,du Faubourg Haut,12230,Nant,723967.7028,6324925.802,0
+12003_ndiesm_00718,718,,route,des Parras,12220,Les Albres,635263.65,6383812.34,IMB/12003/X/002G,718,,route,des Parras,12220,Les Albres,635251.7995,6383806.934,1
+12130_0070_00260,260,,avenue,des Gabariers,12300,Livinhac-le-Haut,635672.31,6387493.34,IMB/12130/X/001L,260,,avenue,des Gabariers,12300,Livinhac-le-Haut,635667.4969,6387505.363,1
+12290_ds0qd2_00082,82,,rue,de la Mairie,12220,Vaureilles,636038.92,6372995.42,IMB/12089/X/01PB,20,,rue,Prosper Alfaric,12300,Decazeville,640792.5978,6386024.516,0
+12258_0025_00010,10,,rue,de la Douve,12440,La Salvetat-Peyralès,636234.78,6347153.71,IMB/12258/X/00BW,10,,rue,de la Douve,12440,La Salvetat-Peyralès,636225.0571,6347162.388,1
+12258_0047_00001,1,,rue,de la Lande,12440,La Salvetat-Peyralès,636296.29,6346946.99,IMB/12258/X/00DK,1,,rue,de la Lande,12440,La Salvetat-Peyralès,636305.9798,6346955.566,1
+12258_0007_00011,11,,rue,des Bruyères,12440,La Salvetat-Peyralès,636301.02,6347003.94,IMB/12277/X/00BM,1911,,chemin,des Pèlerins,12600,Taussac,667575.0853,6409374.498,0
+12258_20lyiy_00001,1,,,Blauzac,12440,La Salvetat-Peyralès,636360.79,6343548.51,IMB/12305/X/00IC,62,,avenue,Jean Jaurès,12110,Viviez,637875.3685,6383859.06,0
+12258_20lyiy_00001,1,,,Blauzac,12440,La Salvetat-Peyralès,636360.79,6343548.51,IMB/12168/X/00IT,23,,rue,du Faubourg Bas,12230,Nant,724361.1217,6324735.398,0
+12258_bwzn0h_00012,12,,route,de Carmaux,12440,La Salvetat-Peyralès,636448.18,6347073.34,IMB/12102/X/00BV,16,,cite,de la Landette,12450,Flavin,668378.8511,6354123.886,0
+12190_zpou8z_00281,281,,route,des Cretes,12350,Prévinquières,636551.88,6366167.94,IMB/12185/X/007J,41,,cite,Beausoleil,12290,Pont-de-Salars,677485.886,6354132.353,0
+12258_20lyiy_00003,3,,,Blauzac,12440,La Salvetat-Peyralès,636972.64,6343071.5,IMB/12021/X/00GX,1,,bois,du Bruel,12240,Le Bas Ségala,632323.921,6351181.158,0
+12258_20lyiy_00004,4,,,Blauzac,12440,La Salvetat-Peyralès,636977.03,6343118.46,IMB/12223/X/00VW,5,,chemin,d'Ordunes,12420,Argences en Aubrac,679880.1064,6412891.315,0
+12258_20lyiy_00004,4,,,Blauzac,12440,La Salvetat-Peyralès,636977.03,6343118.46,IMB/12280/X/006Z,18,,village,de Laussac,12600,Thérondels,681830.1955,6417352.708,0
+12258_20lyiy_00004,4,,,Blauzac,12440,La Salvetat-Peyralès,636977.03,6343118.46,IMB/12038/X/005I,0,,,Nouals,12480,Brousse-le-Château,672040.0255,6323671.533,0
+12258_20lyiy_00002,2,,,Blauzac,12440,La Salvetat-Peyralès,637002.08,6343064.99,IMB/12199/X/00VA,2,,lotissement,les Landes,12390,Rignac,644249.4342,6367625.9,0
+12028_a013_00012,12,,lotissement,Comby,12300,Boisse-Penchot,637050.56,6388478.9,IMB/12253/X/003P,29,,route,de Saint-Affrique,12410,Salles-Curan,689360.0705,6339217.839,0
+12305_a030_00008,8,,lotissement,des Jardins du Chateau,12110,Viviez,637477.38,6384228.01,IMB/12305/X/00AP,8,,lotissement,des Jardins du Château,12110,Viviez,637472.2593,6384239.973,1
+12305_a030_00004,4,,lotissement,des Jardins du Chateau,12110,Viviez,637513.21,6384236.87,IMB/12003/X/0014,85,,route,de Rodez,12220,Les Albres,634361.2938,6382314.654,0
+12289_0250_00044,44,,chemin,de Plantevigne,12220,Valzergues,638085.22,6378772.64,IMB/12242/X/000Q,22,,,Farrou,12200,St-Rémy,623651.1861,6365638.655,0
+12198_h5zqzj_00001,1,,hameau,la Guionie,12240,Rieupeyroux,638111.81,6351698.03,IMB/12028/X/003C,11,,cite,des Tannins,12300,Boisse-Penchot,637072.1075,6386438.79,0
+12289_0090_00032,32,,chemin,de l’Ecole,12220,Valzergues,638180.98,6377937.75,IMB/12305/X/000C,13,,allee,de Sincay,12110,Viviez,638705.4435,6384810.064,0
+12148_nmjlxe_00028,28,,cite,Beausoleil,12220,Montbazens,638360.08,6375398.24,IMB/12148/X/006W,28,,cite,Beausoleil,12220,Montbazens,638347.4286,6375395.157,1
+12305_0362_00002,2,,rue,des Troènes,12110,Viviez,638447.43,6384904.71,IMB/12305/X/00GJ,2,,rue,des Troènes,12110,Viviez,638453.082,6384916.379,1
+12148_0040_00004,4,,route,de Pachins,12220,Montbazens,638486.29,6375249.58,IMB/12282/X/006R,17,,rue,Française,12250,Tournemire,701450.6104,6318930.126,0
+12148_0045_00004,4,,route,de Peyrusse,12220,Montbazens,638521.98,6375507.52,IMB/12252/X/006D,153,,impasse,du Champ,12260,Salles-Courbatiès,626235.9909,6375167.797,0
+12206_vbo530_00173,173,,route,de la Draye,12220,Roussennac,638548.43,6371859.34,IMB/12208/X/01VJ,4,,rue,de la République,12400,St-Affrique,690914.5675,6317721.663,0
+12013_0033_00009,9,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638597.51,6382646.94,IMB/12013/X/000W,9,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638593.7014,6382638.61,1
+12278_k00e5v_00179,179,,chemin,Dels Aucels,12440,Tayrac,638608.15,6344766.75,IMB/12278/X/002P,179,,chemin,Dels Aucels,12440,Tayrac,638596.0549,6344771.331,1
+12013_0033_00007,7,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638613.57,6382623.23,IMB/12013/X/000U,46,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638579.801,6382839.431,0
+12148_0050_00006,6,,rue,de la Piscine,12220,Montbazens,638616.13,6375586.58,IMB/12111/X/002U,97,,impasse,de la Roque,12390,Goutrens,652327.1044,6371111.816,0
+12289_0080_00167,167,,impasse,de Durou,12220,Valzergues,638665.27,6377693.49,IMB/12289/X/001Y,167,,impasse,de Durou,12220,Valzergues,638668.2365,6377706.138,1
+12013_0033_00005,5,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638686.54,6382504.88,IMB/12013/X/000R,50,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638521.0684,6382843.01,0
+12148_0100_00024,24,,avenue,du Ségala,12220,Montbazens,638709.01,6375616.45,IMB/12148/X/001T,24,,avenue,du Ségala,12220,Montbazens,638699.3535,6375625.057,1
+12278_twnret_00103,103,,place,du Bourg,12440,Tayrac,638756.54,6345100.62,IMB/12278/X/002S,103,,place,du Bourg,12440,Tayrac,638749.9288,6345111.767,1
+12013_0033_00020_bis,20,b,avenue,Antoine de Saint Exupéry,12110,Aubin,638759.78,6382365.41,IMB/12225/X/00I7,25,,rue,du Belvèze,12100,St-Georges-de-Luzençon,698490.6022,6329677.928,0
+12013_0033_00008,8,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638779.03,6382197.04,IMB/12013/X/000V,48,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638555.9875,6382882.698,0
+12013_0033_00006,6,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638782.97,6382184.89,IMB/12013/X/000S,44,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638522.2573,6382810.862,0
+12013_0033_00004,4,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638796.96,6382145.43,IMB/12013/X/000Q,52,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638504.0015,6382867.6,0
+12013_0033_00002,2,,Avenue,Antoine de Saint Exupéry,12110,Aubin,638812.98,6382125.05,IMB/12013/X/000P,58,,Avenue,Antoine de Saint-Exupéry,12110,Aubin,638459.1651,6382942.623,0
+12305_o5vuez_00031,31,,rue,des Tuileries,12110,Viviez,638831.08,6384819.64,IMB/12057/X/000M,6,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662279.6334,6341272.497,0
+12130_a200_00125,125,,lotissement,la Ramondie,12300,Livinhac-le-Haut,638891.04,6388509.12,IMB/12169/X/0041,58,,avenue,de Rodez,12800,Naucelle,647928.744,6344788.951,0
+12198_0258_00004,4,,rue,Saint Martial,12240,Rieupeyroux,638949.03,6356739.39,IMB/12052/X/00TC,22,,rue,de la République,12700,Capdenac-Gare,626929.7117,6386764.536,0
+12130_0020_00160,160,,rue,Camille Couderc,12300,Livinhac-le-Haut,638959.92,6387953.02,IMB/12027/X/000P,88,,impasse,d'Armagnac,12500,Bessuéjouls,678339.944,6380709.501,0
+12130_0057_00187,187,,rue,des Esplagnes,12300,Livinhac-le-Haut,639042.07,6388751.92,IMB/12052/X/01N5,17,,rue,Vincent Auriol,12700,Capdenac-Gare,626914.7922,6385986.658,0
+12130_0057_00183,183,,rue,des Esplagnes,12300,Livinhac-le-Haut,639048.16,6388708.65,IMB/12223/X/017D,1,,route,des Bessières,12420,Argences en Aubrac,682305.0057,6411250.376,0
+12305_0105_00013,13,,rue,Chante Fauvette,12110,Viviez,639079.93,6384756.45,IMB/12305/X/00BU,13,,rue,Chante Fauvette,12110,Viviez,639081.7185,6384743.57,1
+12198_0020_00011,11,,rue,du Balat,12240,Rieupeyroux,639088.46,6356761.7,IMB/12198/X/000D,11,,rue,du Balat,12240,Rieupeyroux,639081.1262,6356751.033,1
+12198_0270_00010,10,,rue,du Tour de Ville,12240,Rieupeyroux,639114.77,6356602.8,IMB/12056/X/01KL,20,,rue,du Clos,12160,Baraqueville,653919.0367,6351684.656,0
+12198_0250_00056,56,,avenue,du Rouergue,12240,Rieupeyroux,639233.81,6357207.25,IMB/12198/X/00GQ,56,,avenue,du Rouergue,12240,Rieupeyroux,639233.4437,6357220.167,1
+12130_0015_00044,44,,impasse,des Bouvreuils,12300,Livinhac-le-Haut,639261.89,6388133.38,IMB/12076/X/0204,2,,route,de Noailhac à Saint-Cyprien,12320,Conques-en-Rouergue,652304.3892,6383679.424,0
+12305_0105_00002,2,,rue,Chante Fauvette,12110,Viviez,639276.86,6384744.55,IMB/12305/X/00BP,2,,rue,Chante Fauvette,12110,Viviez,639285.4097,6384754.249,1
+12013_0455_00018,18,,avenue,Edmond Ginestet,12110,Aubin,639294.68,6381489.06,IMB/12013/X/00AB,18,,avenue,Edmond Ginestet,12110,Aubin,639307.637,6381489.578,1
+12198_iz7jtw_00012,12,,allee,des 4 Vents,12240,Rieupeyroux,639384.81,6357662.19,IMB/12049/X/0035,6,,route,de Villecomtal,12580,Campuac,664184.2965,6386056.306,0
+12198_0250_00015,15,,avenue,du Rouergue,12240,Rieupeyroux,639396.13,6357090.04,IMB/12198/X/00H0,15,,avenue,du Rouergue,12240,Rieupeyroux,639383.3151,6357088.03,1
+12198_0190_00008,8,,route,de Prèvinquières,12240,Rieupeyroux,639432.4,6357426.87,IMB/12013/X/0196,16,,rue,Alphonse Daudet,12110,Aubin,640432.977,6382788.76,0
+12089_1002_00615,615,,route,de Saint-roch,12300,Decazeville,639462.11,6386705.54,IMB/12208/X/01EU,5,,place,de la Liberté,12400,St-Affrique,690877.2926,6317774.653,0
+12013_0455_00010,10,,avenue,Edmond Ginestet,12110,Aubin,639497.09,6381275.59,IMB/12234/X/008C,1460,,route,de Canitrot,12120,Ste-Juliette-sur-Viaur,657553.0351,6346752.213,0
+12013_0767_00022,22,,avenue,du Lycée,12110,Aubin,639507.77,6381584.09,IMB/12065/X/004O,61,,rue,du Cap Del Loc,12120,Centrès,652569.9934,6340843.018,0
+12198_0262_00010,10,,route,de Séverou,12240,Rieupeyroux,639703.52,6357100.31,IMB/12300/X/01IO,46,,chemin,de la Combe de la Najague,12200,Villefranche-de-Rouergue,621934.6463,6361602.604,0
+12198_0262_00010,10,,route,de Séverou,12240,Rieupeyroux,639703.52,6357100.31,IMB/12168/X/00JL,23,,rue,du Faubourg Haut,12230,Nant,723986.9706,6324919.585,0
+12198_0262_00010,10,,route,de Séverou,12240,Rieupeyroux,639703.52,6357100.31,IMB/12076/X/00FX,1,,chemin,de Timon,12320,Conques-en-Rouergue,649211.3348,6381864.661,0
+12013_0950_00012,12,,avenue,Paul Vaillant Couturier,12110,Aubin,639824.57,6381226.12,IMB/12013/X/00D6,12,,avenue,Paul Vaillant-Couturier,12110,Aubin,639819.6251,6381238.085,1
+12198_0042_00042,42,,rue,de la Croix Rouge,12240,Rieupeyroux,639834.88,6356688.98,IMB/12198/X/01IT,42,,rue,de la Croix Rouge,12240,Rieupeyroux,639846.6971,6356683.482,1
+12013_0840_00001,1,,place,Monteil,12110,Aubin,639903.78,6381323.34,IMB/12111/X/0070,188,,impasse,de l'Aureillet,12390,Goutrens,646911.6367,6371240.511,0
+12189_5bttrn_00432,432,,route,du Liort,12240,Pradinas,639921.75,6349335.48,IMB/12221/X/003D,128,,rue,du Renouveau,12320,St-Félix-de-Lunel,663370.0637,6384875.517,0
+12013_0892_00022,22,,Allée,du Musée,12110,Aubin,640076.5,6381135.95,IMB/12013/X/004C,2,,Allée,du Musée,12110,Aubin,640007.6533,6381157.325,0
+12013_0892_00024,24,,Allée,du Musée,12110,Aubin,640097.9,6381138.19,IMB/12013/X/004D,4,,Allée,du Musée,12110,Aubin,640016.9525,6381157.127,0
+12013_0892_00026,26,,Allée,du Musée,12110,Aubin,640126.47,6381134.25,IMB/12013/X/004E,6,,Allée,du Musée,12110,Aubin,640024.6334,6381154.545,0
+12013_0892_00028,28,,Allée,du Musée,12110,Aubin,640141.71,6381132.22,IMB/12013/X/004F,8,,Allée,du Musée,12110,Aubin,640027.9606,6381149.842,0
+12013_0892_00030,30,,Allée,du Musée,12110,Aubin,640148.77,6381131.04,IMB/12013/X/004G,10,,Allée,du Musée,12110,Aubin,640035.5322,6381146.152,0
+12013_0892_00032,32,,Allée,du Musée,12110,Aubin,640155.67,6381129.97,IMB/12013/X/004H,12,,Allée,du Musée,12110,Aubin,640043.4743,6381148.513,0
+12013_0892_00034,34,,Allée,du Musée,12110,Aubin,640167.51,6381129.42,IMB/12013/X/004I,14,,Allée,du Musée,12110,Aubin,640050.0342,6381140.925,0
+12013_0892_00036,36,,Allée,du Musée,12110,Aubin,640179.11,6381129.53,IMB/12013/X/004J,18,,Allée,du Musée,12110,Aubin,640062.8207,6381138.43,0
+12013_0892_00036_bis,36,b,allee,du Musée,12110,Aubin,640185.48,6381130.24,IMB/12013/X/004T,36,b,allee,du Musée,12110,Aubin,640190.7477,6381118.425,1
+12013_0892_00038,38,,Allée,du Musée,12110,Aubin,640194.81,6381134.04,IMB/12013/X/004K,20,,Allée,du Musée,12110,Aubin,640070.3202,6381136.859,0
+12089_1100_00002,2,,avenue,Victor Hugo,12300,Decazeville,640257.31,6385166.37,IMB/12089/X/01GC,39,b,rue,Émile Nègre,12300,Decazeville,641055.7388,6384940.532,0
+12206_npnp0r_00026,26,,impasse,des Pouchios,12220,Roussennac,640263.57,6373213.12,IMB/12206/X/00PC,26,,impasse,des Pouchios,12220,Roussennac,640263.1698,6373200.181,1
+12089_0297_00250,250,,chemin,de Conquet,12300,Decazeville,640264.68,6386665.29,IMB/12254/X/0073,540,,rue,de Puechoules,12330,Salles-la-Source,667017.5861,6373181.642,0
+12013_0656_00031,31,,rue,Jean Mermoz,12110,Aubin,640294.28,6383460.94,IMB/12013/X/01I3,31,,rue,Jean Mermoz,12110,Aubin,640303.1795,6383451.593,1
+12013_0656_00020,20,,rue,Jean Mermoz,12110,Aubin,640305.54,6383558.15,IMB/12013/X/01HW,20,,rue,Jean Mermoz,12110,Aubin,640306.2299,6383571.091,1
+12089_0110_01280,1280,,route,de Bonissard,12300,Decazeville,640325.8,6384895,IMB/12270/X/002S,30,,avenue,de Paris,12150,Sévérac d'Aveyron,705200.4517,6358824.106,0
+12206_7y770w_00280,280,,route,de Montbazens,12220,Roussennac,640367.2,6373249.8,IMB/12106/X/003G,181,,rue,du Riou,12340,Gabriac,683502.7359,6372424.483,0
+12013_0007_00014,14,,rue,Alphonse Daudet,12110,Aubin,640395.54,6382797.01,IMB/12013/X/0195,14,,rue,Alphonse Daudet,12110,Aubin,640391.9718,6382784.569,1
+12089_0600_00019,19,,avenue,de Laromiguiere,12300,Decazeville,640397.49,6385577.05,IMB/12100/X/00CH,13,,rue,de Cantagrel,12300,Firmi,644469.0325,6382951.063,0
+12089_0880_00009,9,,rue,de la 4e Republique,12300,Decazeville,640448.58,6384768.3,IMB/12068/X/0013,150,,rue,du Pré Grand,12240,Colombiès,647275.2224,6360733.2,0
+12101_0185_00157,157,,route,de la Prade,12300,Flagnac,640459.96,6390070.2,IMB/12101/X/00AE,157,,route,de la Prade,12300,Flagnac,640447.4863,6390066.725,1
+12089_0430_00048,48,,avenue,de Fareyres,12300,Decazeville,640589.5,6385483.58,IMB/12198/X/00JV,3,,chemin,de la Bade,12240,Rieupeyroux,639202.0354,6356436.561,0
+12089_0430_00050,50,,avenue,de Fareyres,12300,Decazeville,640591.1,6385484.79,IMB/12100/X/00NB,73,,avenue,du 10 Août,12300,Firmi,646770.5786,6381012.547,0
+12089_0870_00024_bis,24,bis,Rue,du 4 Septembre,12300,Decazeville,640594.4,6385221.04,IMB/12089/X/01D1,24,B,Rue,du 4 Septembre,12300,Decazeville,640594.4022,6385220.843,1
+12089_0870_00018_bis,18,bis,Rue,du 4 Septembre,12300,Decazeville,640650.68,6385168.52,IMB/12089/X/01D4,18,B,Rue,du 4 Septembre,12300,Decazeville,640640.734,6385199.045,1
+12206_2nt1r6_00226,226,,route,de Lissart,12220,Roussennac,640651.8,6371908.55,IMB/12206/X/0036,226,,route,de Lissart,12220,Roussennac,640664.8234,6371908.256,1
+12089_0870_00009_bis,9,bis,Rue,du 4 Septembre,12300,Decazeville,640666.79,6385082.5,IMB/12089/X/01DP,9,B,Rue,du 4 Septembre,12300,Decazeville,640666.7788,6385082.36,1
+12089_0870_00007_bis,7,bis,Rue,du 4 Septembre,12300,Decazeville,640671.01,6385076.01,IMB/12089/X/01DQ,7,B,Rue,du 4 Septembre,12300,Decazeville,640667.5203,6385052.853,1
+12089_0870_00009,9,,Rue,du 4 Septembre,12300,Decazeville,640688.31,6385116.4,IMB/12089/X/01DB,9,,Rue,du 4 Septembre,12300,Decazeville,640682.2925,6385109.614,1
+12089_0870_00005,5,,Rue,du 4 Septembre,12300,Decazeville,640699.79,6385070.63,IMB/12089/X/01D9,5,,Rue,du 4 Septembre,12300,Decazeville,640705.9543,6385083.99,1
+12089_0870_00007,7,,Rue,du 4 Septembre,12300,Decazeville,640704.1,6385098.36,IMB/12089/X/01DA,7,,Rue,du 4 Septembre,12300,Decazeville,640695.9932,6385096.991,1
+12089_0870_00001,1,,Rue,du 4 Septembre,12300,Decazeville,640708.38,6385013.56,IMB/12089/X/00QQ,1,,Place,du 4 Septembre,12300,Decazeville,640702.2206,6385030.713,1
+12089_0870_00010,10,,Rue,du 4 Septembre,12300,Decazeville,640711.72,6385097.4,IMB/12089/X/01DR,10,,Rue,du 4 Septembre,12300,Decazeville,640716.3595,6385104.872,1
+12089_0870_00003,3,,Rue,du 4 Septembre,12300,Decazeville,640717.6,6385081.13,IMB/12089/X/01D8,3,,Rue,du 4 Septembre,12300,Decazeville,640714.8266,6385078.151,1
+12089_0870_00008,8,,Rue,du 4 Septembre,12300,Decazeville,640719.09,6385087.67,IMB/12089/X/01DH,8,,Rue,du 4 Septembre,12300,Decazeville,640724.0041,6385097.965,1
+12089_0870_00006,6,,Rue,du 4 Septembre,12300,Decazeville,640726.01,6385080.38,IMB/12089/X/01DG,6,,Rue,du 4 Septembre,12300,Decazeville,640731.2378,6385087.344,1
+12089_0870_00004,4,,Rue,du 4 Septembre,12300,Decazeville,640733.01,6385072.65,IMB/12089/X/00QR,4,,Place,du 4 Septembre,12300,Decazeville,640719.1573,6385052.54,1
+12089_0017_00190,190,,route,de l'Albrespic,12300,Decazeville,640773.43,6385232.23,IMB/12301/X/018Y,20,,faubourg,du Grès,12260,Villeneuve,623231.8485,6371197.366,0
+12206_v3zx0v_00050,50,,chemin,de la Chapelle,12220,Roussennac,640778.59,6372804.87,IMB/12206/X/007D,50,,chemin,de la Chapelle,12220,Roussennac,640773.814,6372792.78,1
+12089_0640_00023,23,,avenue,Léon Jouhaux,12300,Decazeville,640785.73,6385827.87,IMB/12134/X/002C,37,,chemin,de la Traverse,12220,Lugan,641301.3905,6374341.418,0
+12206_5ps98z_00055,55,,rue,du Pigeonnier,12220,Roussennac,640823.53,6373081.84,IMB/12206/X/0012,12,,route,de la Croix de Gineste,12220,Roussennac,638345.0042,6371971.162,0
+12134_ytyf24_00357,357,,route,du Mas de Labro,12220,Lugan,640940.18,6376473.24,IMB/12134/X/003K,357,,route,du Mas de Labro,12220,Lugan,640932.2286,6376462.926,1
+12246_0030_00030,30,,route,de Decazeville,12300,Saint-Santin,640978.5,6394778.46,IMB/12089/X/002V,42,,avenue,de Laromiguière,12300,Decazeville,640363.2103,6385465.326,0
+12089_0390_00041,41,,rue,Emile Nègre,12300,Decazeville,641035.43,6384886.06,IMB/12089/X/01HN,41,,rue,Émile Nègre,12300,Decazeville,641044.2825,6384895.582,1
+12008_0040_00008,8,,route,de la Bonaurie,12390,Anglars-Saint-Félix,641094.2,6369783.75,IMB/12008/X/0032,8,,route,de la Bonaurie,12390,Anglars-St-Félix,641098.8373,6369795.891,1
+12008_0060_00002,2,,Chemin,de la Carrière,12390,Anglars-Saint-Félix,641345.3,6369750.51,IMB/12008/X/0002,2,,Chemin,de la Carrière,12390,Anglars-St-Félix,641353.2644,6369745.624,1
+12008_0045_00001,1,,Chemin,des Bosquets,12390,Anglars-Saint-Félix,641467.02,6369919.68,IMB/12008/X/000H,1,,Chemin,des Bosquets,12390,Anglars-St-Félix,641455.5307,6369919.124,1
+12008_qv78kc_00002,2,,route,du Moulin,12390,Anglars-Saint-Félix,641599.42,6368592.22,IMB/12021/X/009P,2,,bois,du Bruel,12240,Le Bas Ségala,632335.5736,6351273.418,0
+12013_0770_00020,20,,rue,Martial Pleinecassagne,12110,Aubin,641717.19,6381424.43,IMB/12001/X/0043,18,,chemin,de la Loubière,12630,Agen-d'Aveyron,673660.2192,6362264.787,0
+12013_0565_00012,12,,avenue,François Cogné,12110,Aubin,641737.22,6381100.2,IMB/12013/X/00AO,12,,avenue,François Cogne,12110,Aubin,641744.8545,6381110.722,1
+12134_6ykkbc_00968,968,,route,de Marsol la Favarie,12220,Lugan,642171.87,6376090.73,IMB/12134/X/0039,968,,route,de Marsol la Favarie,12220,Lugan,642174.4881,6376078.061,1
+12013_b162_00005,5,,lieu dit, Tramons Bas,12110,Aubin,642950.72,6384133.17,IMB/12013/X/0245,5,,lieu dit,Tramons Bas,12110,Aubin,642962.2257,6384139.117,1
+12101_t9v9bb_01132,1132,,route,de Saint Jacques,12300,Flagnac,642990.87,6385701.35,IMB/12101/X/00BA,1132,,route,de Saint-Jacques,12300,Flagnac,642986.8614,6385713.731,1
+12013_1420_00010,10,,avenue,Voltaire,12110,Aubin,643014.79,6382914.41,IMB/12083/X/004K,8,,avenue,Jean Jaurès,12110,Cransac,643089.5437,6380972.993,0
+12013_0233_00003,3,,avenue,Chateaubriand,12110,Aubin,643092.29,6382839.95,IMB/12013/X/005L,3,,avenue,Chateaubriand,12110,Aubin,643105.1458,6382838.361,1
+12068_29a3rz_00033,33,,route,de Mirabel,12240,Colombiès,643208.25,6363993.4,IMB/12068/X/00E5,33,,route,de Mirabel,12240,Colombiès,643220.7695,6363989.914,1
+12199_0080_00003,3,,avenue,de Villefranche,12390,Rignac,643312.08,6368164.95,IMB/12100/X/00U5,54,,rue,du Mas Del Bosc,12300,Firmi,645899.6264,6381495.36,0
+12083_o02zer_00007,7,,rue,Pasteur,12110,Cransac,643654.55,6380514.7,IMB/12168/X/00IP,15,,rue,du Faubourg Bas,12230,Nant,724339.4443,6324755.551,0
+12059_6sq3to_00005,5,,place,du Tilleul,12240,Castanet,643748.56,6354572.37,IMB/12059/X/0026,5,,place,du Tilleul,12240,Castanet,643753.7161,6354584.31,1
+12013_a053_00019,19,,cite,de Ruau,12110,Aubin,644035.12,6383441.44,IMB/12013/X/00H9,19,,cite,de Ruau,12110,Aubin,644047.0061,6383446.636,1
+12199_a013_00028,28,,lotissement,de l’Etang,12390,Rignac,644117.68,6367694.25,IMB/12199/X/00HD,28,,lotissement,de l'Étang,12390,Rignac,644105.5608,6367689.536,1
+12031_0265_00047,47,,route,de Caldecoste,12390,Bournazel,644240.43,6373807,IMB/12031/X/001S,47,,route,de Caldecoste,12390,Bournazel,644239.2142,6373819.876,1
+12100_0110_00038,38,,rue,Paul Gauguin,12300,Firmi,644516.98,6382640.23,IMB/12100/X/00F6,38,,rue,Paul Gauguin,12300,Firmi,644503.9863,6382639.339,1
+12100_0110_00048,48,,rue,Paul Gauguin,12300,Firmi,644590.97,6382606.91,IMB/12013/X/005T,15,,avenue,Chateaubriand,12110,Aubin,643314.3151,6382726.853,0
+12100_0011_00001,1,,avenue,de Decazeville,12300,Firmi,644918.73,6382719.67,IMB/12100/X/005O,1,,avenue,de Decazeville,12300,Firmi,644906.153,6382716.352,1
+12276_s68bqs_00867,867,,route,du Peyronenq,12800,Tauriac-de-Naucelle,644925.21,6337426.88,IMB/12276/X/002W,867,,route,du Peyronenq,12800,Tauriac-de-Naucelle,644936.1079,6337433.849,1
+12100_0057_00016,16,,avenue,Paul Ramadier,12300,Firmi,645099.61,6382671.87,IMB/12303/X/001R,95,,route,d'Agues,12310,Vimenet,694517.2013,6366601.764,0
+12100_0057_00022,22,,avenue,Paul Ramadier,12300,Firmi,645133.88,6382666.02,IMB/12002/X/007O,11,,rue,de la Gare,12520,Aguessac,707871.9659,6339281.007,0
+12100_0054_00020,20,,rue,de la Peyre,12300,Firmi,645308.32,6382470.65,IMB/12002/X/008M,8,,rue,des 4 Vents,12520,Aguessac,707735.9978,6339595.309,0
+12276_chnv3v_00048,48,,route,de la Martinie,12800,Tauriac-de-Naucelle,645640.91,6340623.57,IMB/12161/X/00EH,4325,,route,du Dourdou,12330,Mouret,661681.6046,6380921.56,0
+12100_0005_00008,8,,allee,Beau-soleil,12300,Firmi,645717.62,6382532.3,IMB/12100/X/00GH,8,,allee,Beau Soleil,12300,Firmi,645712.7585,6382520.32,1
+12059_f8jdrx_00019,19,,ruelle,des Plots,12240,Castanet,645723.96,6355444.51,IMB/12059/X/004E,19,,ruelle,des Plots,12240,Castanet,645717.9819,6355456.01,1
+12100_0005_00010,10,,allee,Beau-soleil,12300,Firmi,645744.12,6382508.85,IMB/12100/X/00GI,10,,allee,Beau Soleil,12300,Firmi,645732.3801,6382503.414,1
+12100_0039_00013,13,,rue,Jean Jaurès,12300,Firmi,646027.16,6382107.5,IMB/12286/X/00B5,3,,rue,des Condamines,12400,Vabres-l'Abbaye,686463.5533,6316032.979,0
+12100_0039_00017_bis,17,b,rue,Jean Jaurès,12300,Firmi,646054.07,6382085.38,IMB/12216/X/00K9,28,,rue,des Ginestes,12500,St-Côme-d'Olt,685971.6366,6379576.559,0
+12100_0040_00044,44,,rue,Jean Moulin,12300,Firmi,646079.5,6381734.68,IMB/12056/X/01SE,137,,rue,du Lavoir,12160,Baraqueville,655901.6953,6354569.518,0
+12111_vupdej_00752,752,,route,de l’Aurial,12390,Goutrens,646775.03,6371379.68,IMB/12052/X/0174,19,,rue,Jean Jaurès,12700,Capdenac-Gare,626670.1141,6386518.882,0
+12068_0090_00049,49,,route,de la Croix Longue,12240,Colombiès,646969.36,6360842.02,IMB/12068/X/00C7,49,,route,de la Croix Longue,12240,Colombiès,646982.2424,6360840.226,1
+12068_0290_00118,118,,rue,du Seigle,12240,Colombiès,647028.77,6360398.46,IMB/12068/X/001M,118,,rue,du Seigle,12240,Colombiès,647023.3186,6360410.217,1
+12169_0415_00012,12,,rue,des Jardins,12800,Naucelle,647099.31,6344454.1,IMB/12169/X/00QF,12,,rue,des Jardins,12800,Naucelle,647104.1789,6344466.104,1
+12068_0255_00188,188,,rue,du Pre Grand,12240,Colombiès,647300.53,6360766.24,IMB/12068/X/0012,188,,rue,du Pré Grand,12240,Colombiès,647291.7134,6360756.678,1
+12169_0080_00005,5,,rue,du Barral,12800,Naucelle,647489.53,6344703.49,IMB/12169/X/007Z,5,,rue,du Barral,12800,Naucelle,647480.363,6344712.655,1
+12169_0258_00040,40,,avenue,de l’Etang,12800,Naucelle,647496.48,6343973.03,IMB/12169/X/00BX,40,,avenue,de l'Étang,12800,Naucelle,647483.5715,6343971.443,1
+12169_0310_00012,12,,rue,de la Fontanelle,12800,Naucelle,647699.17,6344566.76,IMB/12169/X/00O9,12,,rue,de la Fontanelle,12800,Naucelle,647686.3844,6344564.882,1
+12095_0015_00100,100,,route,de la Meridienne,12390,Escandolières,647800.24,6376157.73,IMB/12084/X/00IB,27,,rue,des Baumèles,12100,Creissels,703981.9928,6331295.658,0
+12169_0112_00026,26,,rue,du Cap de l’Estang,12800,Naucelle,647876.74,6343981.54,IMB/12013/X/023J,18,,lieu dit,Tramons Bas,12110,Aubin,643378.722,6383709.37,0
+12076_clzls5_00008,8,,chemin,des Pelies,12320,Conques-en-Rouergue,647890.57,6393359.81,IMB/12076/X/005A,8,,chemin,des Pelies,12320,Conques-en-Rouergue,647889.1227,6393372.703,1
+12111_yrpe4f_00313,313,,route,du Bruel,12390,Goutrens,648984.19,6370689.81,IMB/12062/X/0028,2546,,route,de Bouloc,12620,Castelnau-Pégayrols,693469.2538,6339721.939,0
+12169_0507_00001,1,,place,de l’Occitanie,12800,Naucelle,649210.97,6343306.49,IMB/12061/X/0073,112,,route,de Mandailles,12500,Castelnau-de-Mandailles,688652.9585,6379128.728,0
+12169_0507_00010,10,,place,de l’Occitanie,12800,Naucelle,649245.67,6343326.65,IMB/12169/X/00KM,10,,place,de l'Occitanie,12800,Naucelle,649253.8691,6343336.724,1
+12076_ahk0j8_00002,2,,chemin,de la Roque Basse,12320,Conques-en-Rouergue,649295.98,6393614.31,IMB/12076/X/001A,2,,chemin,de la Roque Haute,12320,Conques-en-Rouergue,650830.7377,6393610.962,1
+12169_0520_00003,3,,rue,des Peupliers,12800,Naucelle,649335.93,6343117.16,IMB/12124/X/0044,78,,route,du Baldunes,12500,Lassouts,687444.9518,6375766.697,0
+12142_a010_00012,12,,lotissement,Bois de Madame,12390,Mayran,649336.26,6366074.74,IMB/12142/X/003L,12,,lotissement,Bois de Madame,12390,Mayran,649349.0722,6366076.793,1
+12142_0090_00001,1,,route,des Places,12390,Mayran,649345.87,6365774.71,IMB/12142/X/006W,1,,route,des Prades,12390,Mayran,650796.5831,6366556.413,1
+12113_0160_00127,127,,rue,Saint Dominique,12160,Gramond,649354.95,6352022.97,IMB/12113/X/005D,127,,rue,Saint-Dominique,12160,Gramond,649356.225,6352035.84,1
+12113_0055_00045,45,,impasse,du Clos,12160,Gramond,649355.62,6351717.99,IMB/12113/X/001P,45,,impasse,du Clos,12160,Gramond,649342.6123,6351717.392,1
+12169_0060_00002,2,,route,d'Argent,12800,Naucelle,649407.29,6343462.45,IMB/12057/X/00DG,14,b,avenue,de Lodève,12120,Cassagnes-Bégonhès,662452.0264,6341167.492,0
+12076_itym8b_00002,2,,chemin,de la Broussette,12320,Conques-en-Rouergue,649474.35,6380830.06,IMB/12076/X/00AX,2,,chemin,de la Brousse,12320,Conques-en-Rouergue,650030.6543,6382489.296,1
+12194_nvuju7_00450,450,,route,des Placettes,12800,Quins,649509.61,6345579.39,IMB/12194/X/004H,450,,route,des Placettes,12800,Quins,649514.6759,6345591.378,1
+12032_s0likh_00431,431,,route,de Grandsagnes,12160,Boussac,649997.27,6356402.8,IMB/12032/X/0009,431,,route,de Grandsagnes,12160,Boussac,650009.0699,6356397.385,1
+12076_7sysor_00002,2,,chemin,de la Brousse,12320,Conques-en-Rouergue,650041.03,6382484.38,IMB/12076/X/00B2,2,,chemin,de la Brousse,12320,Conques-en-Rouergue,649479.4947,6380830.807,1
+12076_yqncsw_00003,3,,route,des Costes Basses,12320,Conques-en-Rouergue,650049.07,6378931.42,IMB/12076/X/01WG,3,,route,des Costes Basses,12320,Conques-en-Rouergue,650043.8716,6378919.529,1
+12046_ilbcph_00055,55,,route,de Resselves,12800,Camjac,650136.58,6340632.58,IMB/12031/X/00AX,33,,route,de Rulhe,12390,Bournazel,644155.4478,6373805.743,0
+12046_udwlzc_00061,61,,place,de la Mairie,12800,Camjac,650397.88,6342028.23,IMB/12184/X/0034,82,,rue,de la Fontaine de Capi,12130,Pomayrols,706421.3392,6374382.02,0
+12194_27jtqk_00073,73,,impasse,de la Bessiere,12800,Quins,650486.47,6346368.48,IMB/12234/X/000C,124,,route,de Guisouneng,12120,Ste-Juliette-sur-Viaur,663063.1378,6348302.568,0
+12032_0216_04202,4202,,route,du Rouergue,12160,Boussac,650541.21,6356342.74,IMB/12056/X/001G,77,,rue,du Soleil,12160,Baraqueville,658723.77,6356207.493,0
+12046_ewc4yp_00056,56,,route,de la Grezatte,12800,Camjac,650541.7,6341748.67,IMB/12254/X/00DT,46,,rue,du Couderc,12330,Salles-la-Source,658477.4226,6370273.858,0
+12032_0180_00386,386,,impasse,de la Sarrade,12160,Boussac,650556.49,6355524.49,IMB/12130/X/00FM,5,,rue,du Stade,12300,Livinhac-le-Haut,639333.6058,6388283.59,0
+12032_0166_00073,73,,impasse,de l’Ort,12160,Boussac,650649.71,6354019.93,IMB/12260/X/004Q,3,,route,du Caussanel,12230,Sauclières,729518.4241,6319933.586,0
+12076_2js9i6_00002,2,,chemin,de la Roque Haute,12320,Conques-en-Rouergue,650834.73,6393564.83,IMB/12076/X/000K,2,,chemin,de la Roque Basse,12320,Conques-en-Rouergue,649290.1884,6393618.072,1
+12113_ffcwqu_00088,88,,impasse,des Hauts de la Galdeyrie,12160,Gramond,650877.66,6351808.94,IMB/12113/X/001L,88,,impasse,des Hauts de la Galdeyrie,12160,Gramond,650864.7896,6351809.896,1
+12162_yovrtm_00104,104,,ruelle,du Tisserand,12160,Moyrazès,651245.07,6362011.39,IMB/12052/X/00XY,12,,rue,des Grives,12700,Capdenac-Gare,627603.5961,6386260.235,0
+12162_utdknc_00020,20,,place,du Lenhier,12160,Moyrazès,651335.08,6361973.03,IMB/12162/X/00E7,20,,place,du Lenhier,12160,Moyrazès,651336.6228,6361985.906,1
+12032_0152_02538,2538,,route,de Boussac,12160,Boussac,651447.67,6353845.64,IMB/12032/X/005D,2538,,route,de Boussac,12160,Boussac,651446.4686,6353858.503,1
+12032_0154_00253,253,,route,de Boutescurou,12160,Boussac,651457.07,6355739.69,IMB/12036/X/003K,328,,route,de la Cadène,12600,Brommat,676410.8654,6412248.126,0
+12076_q86yge_00001,1,,chemin,de la Capelette,12320,Conques-en-Rouergue,652083.59,6389133.63,IMB/12076/X/01VA,1,,chemin,de la Capelle,12320,Conques-en-Rouergue,651867.3641,6390831.752,1
+12065_0042_00483,483,,route,de Meljac,12120,Centrès,652185.51,6338395.62,IMB/12001/X/009T,2,,chemin,de Moumberte,12630,Agen-d'Aveyron,674810.7268,6361269.534,0
+12076_vwrgvi_00001,1,,chemin,de Frayssines,12320,Conques-en-Rouergue,652233.39,6390908.48,IMB/12076/X/000C,1,,chemin,de Frayssines,12320,Conques-en-Rouergue,652223.4135,6390900.123,1
+12066_0084_00001,1,,route,de Garillac,12330,Clairvaux-d'Aveyron,652481.1,6365217.44,IMB/12168/X/00J8,8,,rue,du Faubourg Bas,12230,Nant,724372.3312,6324684.674,0
+12065_0062_00027,27,,Rue,du Barri,12120,Centrès,652621.11,6340779.56,IMB/12065/X/0079,27,,Rue,du Barri,12120,Centrès,652614.6815,6340782.713,1
+12065_0091_00092,92,,route,du Segala,12120,Centrès,652651.32,6340691,IMB/12300/X/018F,78,,avenue,Vincent Cibiel,12200,Villefranche-de-Rouergue,622481.0257,6362692.912,0
+12065_0091_00108,108,,route,du Segala,12120,Centrès,652667.3,6340688.99,IMB/12065/X/006Y,108,,route,du Ségala,12120,Centrès,652674.9447,6340678.502,1
+12111_8drh39_00057,57,,place,du Puech de Cassagnes Comtaux,12390,Goutrens,652681.69,6371342.31,IMB/12111/X/008K,57,,place,du Puech de Cassagnes Comtaux,12390,Goutrens,652682.7111,6371355.297,1
+12171_z49q91_00188,188,,route,de Cabrespine,12330,Nauviale,652758.13,6380670.84,IMB/12171/X/0044,188,,route,de Cabrespine,12330,Nauviale,652751.3651,6380681.843,1
+12111_q2392r_00116,116,,impasse,de l’Eglise Saint Vincent,12390,Goutrens,652890.22,6371195,IMB/12111/X/002M,116,,impasse,de l'Église Saint-Vincent,12390,Goutrens,652878.4679,6371200.594,1
+12065_0060_00066,66,,Rue,des Pommiers,12120,Centrès,652901.78,6340579.58,IMB/12065/X/004D,66,,Rue,des Pommiers,12120,Centrès,652895.2582,6340576.832,1
+12076_0070_00004,4,,rue,des Artisans,12320,Conques-en-Rouergue,653014.03,6382560.16,IMB/12258/X/007W,2,,,Leruech,12440,La Salvetat-Peyralès,635237.0852,6344152.781,0
+12076_0081_00006,6,,impasse,des Jardins,12320,Conques-en-Rouergue,653188.08,6383302.47,IMB/12076/X/00AJ,6,,impasse,des Jardins,12320,Conques-en-Rouergue,653186.063,6383289.673,1
+12056_0036_00035,35,,impasse,de la Gardette,12160,Baraqueville,653712.69,6351482.85,IMB/12056/X/01L6,35,,impasse,de la Gardette,12160,Baraqueville,653708.9353,6351470.407,1
+12066_eoar3z_00005,5,,place,du Liadou,12330,Clairvaux-d'Aveyron,653844.53,6368376.76,IMB/12011/X/003Q,290,,route,de la Retenue,12120,Arvieu,676630.2795,6345330.402,0
+12056_0015_00177,177,,rue,des Cazalets,12160,Baraqueville,654092.7,6352519.96,IMB/12056/X/00I4,177,,rue,des Cazalets,12160,Baraqueville,654091.616,6352532.889,1
+12194_hjxze6_02950,2950,,route,de la Mothe,12800,Quins,654303.22,6347827.66,IMB/12194/X/005E,2950,,route,de la Mothe,12800,Quins,654311.123,6347837.957,1
+12056_afxe55_00179,179,,chemin,des Grelous,12160,Baraqueville,654305.33,6351468.19,IMB/12203/X/009H,9,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696900.0074,6319395.252,0
+12076_01y38i_00008,8,,chemin,de la Salle,12320,Conques-en-Rouergue,654309.94,6382608.35,IMB/12076/X/00CC,8,,chemin,de la Salle,12320,Conques-en-Rouergue,654304.1373,6382596.799,1
+12288_0002_00001,1,,place,de l’Eglise,12330,Valady,654384.64,6373047.84,IMB/12288/X/00EY,1,,place,de l'Église,12330,Valady,655672.4023,6371572.168,1
+12065_0014_00357,357,,Rue,de l'Igal,12120,Centrès,654425.86,6341553.01,IMB/12065/X/005C,357,,Rue,de l'Igal,12120,Centrès,654402.3401,6341574.607,1
+12056_mk3wuo_00053,53,,impasse,des Moulieres,12160,Baraqueville,654475.99,6352966.35,IMB/12056/X/00CG,53,,impasse,des Moulières,12160,Baraqueville,654462.9769,6352966.004,1
+12171_oakbae_00096,96,,rue,des Oliviers,12330,Nauviale,654485.26,6380075.1,IMB/12171/X/0092,96,,rue,des Oliviers,12330,Nauviale,654482.2681,6380087.692,1
+12171_e6s01u_00423,423,,avenue,Pierre Soulages,12330,Nauviale,654598.61,6379989.85,IMB/12206/X/0061,46,,impasse,du Mas d'Oustry,12220,Roussennac,640619.3227,6372910.292,0
+12127_kdlbl6_00025,25,,route,du Ségayrenq,12170,Lédergues,654602.9,6330109.19,IMB/12307/X/0057,2516,,route,de Montels,12410,Curan,686502.8288,6345210.818,0
+12056_0006_00019,19,,impasse,du Bosquet,12160,Baraqueville,654845.46,6352595.18,IMB/12056/X/00BE,19,,impasse,du Bosquet,12160,Baraqueville,654857.2704,6352600.514,1
+12288_6ld49e_00006,6,,chemin,des Garrigues,12330,Valady,654868.96,6373556.13,IMB/12136/X/00JW,1,,impasse,des Cerisiers,12350,Maleville,625714.4328,6367199.131,0
+12288_6ld49e_00004,4,,chemin,des Garrigues,12330,Valady,654868.96,6373556.13,IMB/12224/X/0100,33,,rue,Riviè,12130,St-Geniez-d'Olt-et-d'Aubrac,698028.2108,6374266.181,0
+12162_2knfbz_00004,4,,rue,des Tuileries,12160,Moyrazès,655040.61,6360672.54,IMB/12162/X/005E,4,,rue,des Tuileries,12160,Moyrazès,655038.0983,6360685.269,1
+12127_0e3y81_00015,15,,rue,du Pesquié,12170,Lédergues,655056.3,6332066.05,IMB/12127/X/00H6,15,,rue,du Pesquié,12170,Lédergues,655051.8061,6332078.174,1
+12288_a015_00047,47,,lotissement,le Chene,12330,Valady,655226.02,6371712.04,IMB/12198/X/01KP,3,,,les Pissades,12240,Rieupeyroux,636459.3303,6354116.589,0
+12162_6s513a_00021,21,,rue,de la Crouzette,12160,Moyrazès,655253.26,6359968.79,IMB/12157/X/00OL,1,,lotissement,Hélios V,12630,Montrozier,675428.9976,6366951.945,0
+12056_0082_00252,252,,rue,du Soulicou,12160,Baraqueville,655271.29,6352892,IMB/12208/X/02NB,4,,rue,Réaumur,12400,St-Affrique,688975.9345,6318108.618,0
+12162_t6jmtu_00003,3,,rue,de la Lande,12160,Moyrazès,655280.45,6360047.26,IMB/12162/X/008F,3,,rue,de la Lande,12160,Moyrazès,655282.7839,6360034.527,1
+12065_0044_00976,976,,route,de Montalrat,12120,Centrès,655312.91,6340499.5,IMB/12015/X/001O,9,,placette,du Presbytère,12120,Auriac-Lagast,666449.4457,6338728.529,0
+12162_nr80s8_00004,4,,impasse,des Colombes,12160,Moyrazès,655320.19,6360310.16,IMB/12200/X/00GD,2,,rue,de la Planquette,12640,Rivière-sur-Tarn,710584.0047,6343263.709,0
+12076_nwcw6k_00001,1,,chemin,de Catech,12320,Conques-en-Rouergue,655427.89,6384627.5,IMB/12076/X/00RG,1,,chemin,de Catech,12320,Conques-en-Rouergue,655438.6942,6384620.317,1
+12056_pyqq6m_00044,44,,impasse,du Segala,12160,Baraqueville,655447.43,6353091.4,IMB/12013/X/01OR,16,,rue,Martial Pleinecassagne,12110,Aubin,641761.1638,6381410.223,0
+12045_0042_00304,304,,route,de Versailles,12160,Camboulazet,655530.54,6346513.45,IMB/12131/X/00G0,233,,cote,de la Brave,12740,La Loubière,672221.9232,6367008.908,0
+12288_0009_00020,20,,route,de Fijaguet,12330,Valady,655673.56,6371401.15,IMB/12288/X/00GA,20,,route,de Fijaguet,12330,Valady,655668.2685,6371413.06,1
+12288_0009_00023,23,,route,de Fijaguet,12330,Valady,655682.3,6371398.98,IMB/12288/X/00GC,23,,route,de Fijaguet,12330,Valady,655691.9989,6371407.566,1
+12171_swroy3_00234,234,,route,des Combes,12330,Nauviale,655687.95,6377982.61,IMB/12171/X/006N,234,,route,des Combes,12330,Nauviale,655676.0022,6377987.56,1
+12288_0002_00003,3,,place,de l’Eglise,12330,Valady,655707.18,6371563.22,IMB/12288/X/00F1,3,,place,de l'Église,12330,Valady,654384.4288,6372994.599,1
+12056_0153_00165,165,,rue,des Caves,12160,Baraqueville,655876.24,6354746.41,IMB/12102/X/00YL,3,,rue,Longuelouche,12450,Flavin,668728.0958,6354291.709,0
+12056_0074_00877,877,,avenue,de Rodez,12160,Baraqueville,655890.65,6353258.93,IMB/12203/X/009O,15,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696812.4467,6319146.395,0
+12127_v02gua_01849,1849,,route,du Theil,12170,Lédergues,655913.86,6329996.48,IMB/12100/X/00CB,13,b,rue,de Borredon,12300,Firmi,645047.9304,6383063.462,0
+12065_0067_02020,2020,,route,du Cassagnol,12120,Centrès,656028.54,6341103.78,IMB/12065/X/008G,2020,,route,du Cassagnol,12120,Centrès,656031.8566,6341116.286,1
+12065_0001_00041,41,,route,Coste Dreche,12120,Centrès,656140.93,6343467.52,IMB/12065/X/0066,41,,route,Coste Drèche,12120,Centrès,656143.3539,6343480.302,1
+12162_l1k6wt_00016,16,,rue,des Buis,12160,Moyrazès,656309.69,6355410.64,IMB/12162/X/008J,16,,rue,des Buis,12160,Moyrazès,656298.3891,6355404.22,1
+12045_0030_00060,60,,route,de la Nauze,12160,Camboulazet,656312.66,6350391.52,IMB/12105/X/009N,7,,rue,du Cavagnal,12270,La Fouillade,623203.558,6348109.216,0
+12288_pec4sb_00008,8,,route,de Nuces,12330,Valady,656465.33,6371587.91,IMB/12168/X/00JD,14,,rue,du Faubourg Haut,12230,Nant,724038.0247,6324921.481,0
+12288_pec4sb_00006,6,,route,de Nuces,12330,Valady,656501.28,6371572.11,IMB/12138/X/009M,5,,avenue,de Malviès,12330,Marcillac-Vallon,657609.9367,6375107.401,0
+12288_pec4sb_00003,3,,route,de Nuces,12330,Valady,656529.61,6371548.59,IMB/12168/X/00JS,29,,rue,du Faubourg Haut,12230,Nant,723961.2948,6324925.267,0
+12288_pec4sb_00004,4,,route,de Nuces,12330,Valady,656536.97,6371555.42,IMB/12094/X/00JG,1,,rue,du Moulinet,12140,Entraygues-sur-Truyère,665682.0765,6394528.323,0
+12288_pec4sb_00002,2,,route,de Nuces,12330,Valady,656593.39,6371530.04,IMB/12288/X/005X,8,,chemin,des Garrigues,12330,Valady,654548.1235,6373203.417,0
+12065_0036_00044,44,,rue,de la Salle des Fetes,12120,Centrès,656965.75,6344014.36,IMB/12168/X/0084,4,,,le Trouzil,12230,Nant,723621.7446,6324872.573,0
+12065_0051_00054,54,,Rue,des Anglais,12120,Centrès,657138.56,6344389.49,IMB/12065/X/0006,1511,,Route,de Veynac,12120,Centrès,657945.1284,6340294.384,0
+12065_0049_00765,765,,route,de Tayac,12120,Centrès,657138.76,6344171.83,IMB/12065/X/002G,765,,route,de Tayac,12120,Centrès,657126.2014,6344175.308,1
+12138_0118_00003,3,,rue,de la Mairie,12330,Marcillac-Vallon,657295.23,6375142.51,IMB/12138/X/00LL,3,,rue,de la Mairie,12330,Marcillac-Vallon,657299.0318,6375154.969,1
+12065_0003_00523,523,,route,de Baraqueville,12120,Centrès,657332.81,6344876.69,IMB/12200/X/00GG,6,,rue,de la Volte,12640,Rivière-sur-Tarn,710681.7174,6343211.726,0
+12065_0048_02069,2069,,route,de Taurines,12120,Centrès,657345.74,6340295.46,IMB/12065/X/008T,2069,,route,de Taurines,12120,Centrès,657348.872,6340282.87,1
+12138_0038_00017,17,,rue,du Calvaire,12330,Marcillac-Vallon,657393.23,6375378.02,IMB/12225/X/00JW,22,,rue,du Mas de Guillou,12100,St-Georges-de-Luzençon,698633.6937,6329389.633,0
+12138_0148_00011,11,,cite,Roquevert,12330,Marcillac-Vallon,657553.4,6374785.61,IMB/12300/X/07KZ,750,,chemin,de Malirat,12200,Villefranche-de-Rouergue,621724.0295,6364180.775,0
+12138_0148_00013,13,,cite,Roquevert,12330,Marcillac-Vallon,657572.83,6374776.7,IMB/12148/X/00L4,3,,lieu dit,les Cabanous,12220,Montbazens,638944.8554,6373600.654,0
+12138_0148_00018,18,,cite,Roquevert,12330,Marcillac-Vallon,657597.97,6374730.88,IMB/12168/X/00JE,16,,rue,du Faubourg Haut,12230,Nant,724027.8994,6324925.543,0
+12138_0148_00020,20,,cite,Roquevert,12330,Marcillac-Vallon,657621.24,6374690.4,IMB/12138/X/009L,3,b,avenue,de Malviès,12330,Marcillac-Vallon,657607.0478,6375083.409,0
+12065_0050_01633,1633,,Route,de Veynac,12120,Centrès,657853.66,6340396.04,IMB/12065/X/0007,1633,,Route,de Veynac,12120,Centrès,657860.953,6340385.919,1
+12065_0050_01634,1633,,Route,de Veynac,12120,Centrès,657853.66,6340396.04,IMB/12065/X/0008,1633,,Route,de Veynac,12120,Centrès,657844.578,6340402.381,1
+12162_jxixnw_02558,2558,,route,de Recoules,12160,Moyrazès,657906.51,6356980.9,IMB/12194/X/00C0,36,,rue,des Forges,12800,Quins,647187.6006,6349692.535,0
+12254_9a79lk_00021,21,,rue,de la Taupene,12330,Salles-la-Source,658147.39,6370226.07,IMB/12254/X/00CE,21,,rue,de la Taupene,12330,Salles-la-Source,658135.1527,6370230.219,1
+12137_0142_00003,3,,route,de Montbetou,12160,Manhac,658337.3,6352302.5,IMB/12137/X/001U,3,,route,de Montbetou,12160,Manhac,657696.6781,6350758.866,1
+12065_0005_00860,860,,Route,de Cassagnes,12120,Centrès,658525.18,6342903.99,IMB/12065/X/007H,860,,Route,de Cassagnes,12120,Centrès,658474.6501,6342929.629,1
+12056_0074_03889,3889,,avenue,de Rodez,12160,Baraqueville,658615.3,6354178.23,IMB/12094/X/009D,580,,lieu dit,le Merle,12140,Entraygues-sur-Truyère,669366.3299,6394915.069,0
+12268_6ngf3h_00132,132,,chemin,de Longueviale,12320,Sénergues,658637.29,6392288.54,IMB/12239/X/00GQ,5,,impasse,des Condamines,12130,St-Martin-de-Lenne,697128.1319,6370804.61,0
+12268_2rgryv_00099,99,,route,des Landes,12320,Sénergues,658835.37,6389645.27,IMB/12268/X/002C,99,,route,des Landes,12320,Sénergues,658823.2369,6389649.724,1
+12268_2rgryv_00083,83,,route,des Landes,12320,Sénergues,658840.32,6389625.8,IMB/12268/X/002D,83,,route,des Landes,12320,Sénergues,658827.7683,6389629.016,1
+12268_xbz16w_00140,140,,route,de Saint Cyprien,12320,Sénergues,658958.86,6389633.91,IMB/12268/X/002T,140,,route,de Saint-Cyprien,12320,Sénergues,658954.3186,6389646.035,1
+12254_mxjtvj_00094,94,,rue,du Four,12330,Salles-la-Source,658998.91,6370361.88,IMB/12045/X/006E,288,,route,de Combecalde,12160,Camboulazet,654628.8744,6345259.43,0
+12268_0002_00035,35,,route,de Conques,12320,Sénergues,659045.4,6389688.88,IMB/12223/X/00YV,1,,route,des Bessières,12420,Argences en Aubrac,682298.6496,6410876.357,0
+12234_4lc1ml_00107,107,,impasse,des Barrieres,12120,Sainte-Juliette-sur-Viaur,659064.6,6346403.31,IMB/12105/X/00IU,14,,rue,des Mésanges,12270,La Fouillade,622599.7814,6348900.975,0
+12065_0005_00090,90,,Route,de Cassagnes,12120,Centrès,659236.33,6342607.16,IMB/12065/X/007G,90,,Route,de Cassagnes,12120,Centrès,659256.5892,6342631.821,1
+12221_pa6ctu_00100,100,,rue,de l’Eglise,12320,Saint-Félix-de-Lunel,659402.13,6384250.04,IMB/12221/X/006Z,100,,rue,de l'Église,12320,St-Félix-de-Lunel,659413.2712,6384243.389,1
+12056_my11oi_00153,153,,impasse,des Frenes,12160,Baraqueville,659417.3,6357514.92,IMB/12056/X/01HB,153,,impasse,des Frênes,12160,Baraqueville,659426.96,6357523.549,1
+12056_nydhng_00606,606,,route,des Fenials,12160,Baraqueville,659603.92,6358081.86,IMB/12089/X/006F,451,,avenue,du Maréchal Joffre,12300,Decazeville,641051.7623,6385052.417,0
+12137_0118_00012,12,,impasse,la Lande Haute,12160,Manhac,659632.93,6353969.43,IMB/12208/X/00ES,21,b,boulevard,Charles de Gaulle,12400,St-Affrique,690858.3283,6317762.356,0
+12137_0120_00724,724,,route,de Lavernhe,12160,Manhac,659648.29,6353725.91,IMB/12137/X/002X,724,,route,de Lavernhe,12160,Manhac,659636.5328,6353731.302,1
+12043_0320_00042,42,,rue,de la Verderie,12450,Calmont,659728.67,6349954.37,IMB/12043/X/00FI,42,,rue,de la Verderie,12450,Calmont,659717.6793,6349961.254,1
+12056_sqhhyc_00281,281,,impasse,de Fourcade,12160,Baraqueville,659793.39,6357076.78,IMB/12056/X/02OP,281,,impasse,de Fourcade,12160,Baraqueville,659798.5622,6357064.86,1
+12193_tgsank_00182,182,,rue,du Claux,12320,Pruines,660628.1,6381268.82,IMB/12193/X/003F,182,,rue,du Claux,12320,Pruines,660640.6041,6381265.401,1
+12133_0205_00854,854,,allee,des Espagnols,12450,Luc-la-Primaube,661155.58,6354601.56,IMB/12133/X/01TD,854,,allee,des Espagnols,12450,Luc-la-Primaube,661155.6587,6354614.563,1
+12234_gexq5c_00220,220,,rue,de l’Espaillou,12120,Sainte-Juliette-sur-Viaur,661299.48,6346225.56,IMB/12234/X/006A,220,,rue,de l'Espaillou,12120,Ste-Juliette-sur-Viaur,661286.9843,6346222.246,1
+12254_ydqiv3_00201,201,,rue,de la Source,12330,Salles-la-Source,661359.23,6371123.33,IMB/12258/X/00BV,8,,rue,de la Douve,12440,La Salvetat-Peyralès,636230.4006,6347159.875,0
+12221_cc34l1_02294,2294,,route,de Villecomtal,12320,Saint-Félix-de-Lunel,661463.89,6383726.16,IMB/12221/X/0083,2294,,route,de Villecomtal,12320,St-Félix-de-Lunel,661472.019,6383736.326,1
+12254_vqebvy_00039,39,,impasse,des Jardins du Mas,12330,Salles-la-Source,661568.19,6367964.2,IMB/12169/X/006X,15,,avenue,Jean Henri Fabre,12800,Naucelle,647624.4921,6344983.253,0
+12254_v1a0fm_00029,29,,rue,Cantemerle,12330,Salles-la-Source,661616.69,6368082.21,IMB/12254/X/00P6,29,,rue,Cantemerle,12330,Salles-la-Source,661618.1827,6368069.311,1
+12254_p1qaq8_00122,122,,rue,du Mas de Souyri,12330,Salles-la-Source,661645.75,6368042.27,IMB/12262/X/00CV,6,,rue,des Forgerons,12800,Sauveterre-de-Rouergue,645594.4378,6347079.117,0
+12043_0301_00004,4,,impasse,du Hetre,12450,Calmont,661715.8,6352527.93,IMB/12248/X/00B1,7,,rue,Haute,12380,St-Sernin-sur-Rance,668091.1675,6309414.407,0
+12254_rjeo3d_00207,207,,rue,des Poujades,12330,Salles-la-Source,661746.7,6367803.25,IMB/12221/X/000A,2560,,route,de Conduches,12320,St-Félix-de-Lunel,662276.8215,6386403.217,0
+12234_9gnup1_00063,63,,route,de Rodez,12120,Sainte-Juliette-sur-Viaur,661750.4,6346450.56,IMB/12200/X/00B1,2,,lotissement,des Gorges du Tarn,12640,Rivière-sur-Tarn,711217.7177,6343515.722,0
+12043_0090_00110,110,,rue,du Plantie,12450,Calmont,661794.56,6352774.09,IMB/12043/X/00JU,110,,rue,du Plantié,12450,Calmont,661803.9737,6352783.035,1
+12197_0318_00005,5,,avenue,de la Fontblanche,12170,Réquista,662134.47,6327216.52,IMB/12258/X/00CM,15,b,route,de Carmaux,12440,La Salvetat-Peyralès,636510.0543,6347045.992,0
+12197_0318_00003,3,,avenue,de la Fontblanche,12170,Réquista,662134.47,6327216.52,IMB/12168/X/00JR,31,,rue,du Faubourg Haut,12230,Nant,723956.9868,6324926.162,0
+12043_0197_00003,3,,allee,de l’Estang,12450,Calmont,662151.79,6352630.95,IMB/12190/X/000V,5,,place,de l'Ancien Château,12350,Prévinquières,638642.0352,6364259.528,0
+12057_0001_00014,14,,cite,Beauregard,12120,Cassagnes-Bégonhès,662184.59,6341286.68,IMB/12198/X/00JU,7,,chemin,de la Bade,12240,Rieupeyroux,639224.4622,6356525.385,0
+12043_0160_00191,191,,impasse,de la Calquiere,12450,Calmont,662256.16,6353357.57,IMB/12157/X/00GY,65,,rue,de la Garenne,12630,Montrozier,675677.1056,6366762.352,0
+12197_a021_00017,17,,cite,Kennedy,12170,Réquista,662332.31,6326185.22,IMB/12073/X/002S,1,,rue,des Lacs,12120,Comps-la-Grand-Ville,665474.2188,6348111.8,0
+12057_0008_00023,23,,rue,du Centre,12120,Cassagnes-Bégonhès,662362.82,6341135.73,IMB/12057/X/006O,23,,rue,du Centre,12120,Cassagnes-Bégonhès,662364.8895,6341122.97,1
+12197_0543_00003,3,,rue,des Rosiers,12170,Réquista,662526.69,6326454.85,IMB/12197/X/00X5,3,,rue,des Rosiers,12170,Réquista,662530.15,6326442.292,1
+12197_0383_00008,8,,rue,de la Lande,12170,Réquista,662590.51,6326511.47,IMB/12197/X/00UE,8,,rue,de la Lande,12170,Réquista,662603.3699,6326512.924,1
+12065_0062_00028,12,bis,Place,de l'hôtel,98120,Castres,662621.11,6640779.56,IMB/12065/X/0080,12,,Route,de l'hôtel,98120,Castres,682621.11,6940779.56,0
+12065_0062_00030,7,bis,Rue,de l'hôstel,92120,Castres,662621.11,6640779.56,IMB/12065/X/0082,7,,Rue,de l'hôstel,92120,Castres,662621.06,6640779.5,0
+12065_0062_00032,12,bis,Place,de l'hôtel,98120,Castres,662621.11,6640779.56,IMB/12065/X/0084,12,B,Place,de l'hôtel,98120,Castresse,562621.11,5640779.56,0
+12197_0540_00039,39,,avenue,de Rodez,12170,Réquista,662644.77,6326605.49,IMB/12225/X/00HQ,5,,rue,du Belvèze,12100,St-Georges-de-Luzençon,698450.8534,6329490.834,0
+12197_0540_00029,29,,avenue,de Rodez,12170,Réquista,662732.48,6326377.41,IMB/12062/X/00G9,16,,impasse,des Frênes,12620,Castelnau-Pégayrols,694255.3403,6336746.807,0
+12197_0368_00003,3,,rue,des Hauts du Riou Sec,12170,Réquista,662927.46,6326343.93,IMB/12048/X/003H,2780,,route,des Coustoubis,12460,Campouriez,666709.0588,6398364.346,0
+12197_0400_00032,32,,avenue,de Millau,12170,Réquista,662952.68,6325926.67,IMB/12138/X/007T,30,,avenue,des Prades,12330,Marcillac-Vallon,657735.6364,6375243.321,0
+12197_0605_00005,5,,route,de Sonnac,12170,Réquista,662954.51,6326404.55,IMB/12011/X/00D4,81,,chemin,des Hortilles,12120,Arvieu,672947.6825,6343703.503,0
+12197_0460_00013,13,,place,Paul Gasc,12170,Réquista,663138.42,6325914.14,IMB/12197/X/00PR,13,,place,Paul Gasc,12170,Réquista,663144.3282,6325925.67,1
+12197_0400_00080,80,,avenue,de Millau,12170,Réquista,663165.7,6325863.65,IMB/12197/X/004Y,80,,avenue,de Millau,12170,Réquista,663156.0423,6325855.083,1
+12043_0309_00007,7,,rue,des Sources,12450,Calmont,663241.26,6352550.62,IMB/12236/X/000Q,44,,chemin,de la Laiterie,12620,St-Laurent-de-Lévézou,696827.4522,6345510.516,0
+12043_0184_00121,121,,rue,de la Croix Blanche,12450,Calmont,663372.72,6350433.65,IMB/12043/X/00PN,121,,rue,de la Croix Blanche,12450,Calmont,663364.2114,6350443.524,1
+12043_0278_00064,64,,allee,des Pyrenees,12450,Calmont,663377.9,6350156.1,IMB/12103/X/008K,266,,route,de la Sagne,12140,Florentin-la-Capelle,671038.0808,6392051.126,0
+12043_0083_00059,59,,rue,des Pionniers,12450,Calmont,663458.31,6350003.65,IMB/12043/X/00M8,59,,rue,des Pionniers,12450,Calmont,663457.2185,6349990.744,1
+12183_0030_00010,10,,route,de Curvalle,12550,Plaisance,663542.21,6314315.02,IMB/12183/X/003N,10,,route,de Curvalle,12550,Plaisance,663533.188,6314324.261,1
+12043_0061_00076,76,,rue,Joan Petit,12450,Calmont,663708.89,6349709.01,IMB/12089/X/00AF,17,b,avenue,Victor Hugo,12300,Decazeville,640119.9425,6385196.801,0
+12043_0062_00039,39,,impasse,Leontie,12450,Calmont,663723.05,6349754.92,IMB/12043/X/00RI,39,,impasse,Leontie,12450,Calmont,663714.4787,6349764.645,1
+12161_jnwe6e_00125,125,,impasse,des Azagadoux,12330,Mouret,663869.58,6382325.17,IMB/12161/X/00BS,125,,impasse,des Azagadoux,12330,Mouret,663880.9497,6382331.498,1
+12254_yffa67_00560,560,,route,des Casernes de Ferals,12330,Salles-la-Source,663876.65,6376096,IMB/12265/X/001H,1,,lieu dit,Majorac,12190,Sébrazac,672598.1879,6383017.351,0
+12254_65o7j1_00285,285,,rue,du Cres,12330,Salles-la-Source,664009.1,6368336.24,IMB/12254/X/00N9,285,,rue,du Crès,12330,Salles-la-Source,664017.6803,6368326.569,1
+12161_hos2m7_01075,1075,,route,du Dourdou,12330,Mouret,664220.19,6382283.06,IMB/12102/X/00QQ,18,,cite,la Croix de Laumet,12450,Flavin,668012.7897,6354359.542,0
+12094_0625_02140,2140,,route,de Villecomtal,12140,Entraygues-sur-Truyère,664362.74,6393538.99,IMB/12094/X/0073,2140,,route,de Villecomtal,12140,Entraygues-sur-Truyère,664357.101,6393550.669,1
+12161_q6y878_00020,20,,impasse,de la Gaillardie,12330,Mouret,665244.79,6380450.4,IMB/12105/X/00BD,25,,route,du Ségala,12270,La Fouillade,623701.5808,6348403.974,0
+12255_9ldiiw_00198,198,,rue,du Couchant,12120,Salmiech,665366.73,6343054.4,IMB/12255/X/00I6,198,,rue,du Couchant,12120,Salmiech,665365.9017,6343041.487,1
+12255_9ldiiw_00021,21,,Rue,du Couchant,12120,Salmiech,665407.32,6343021.63,IMB/12177/X/00NW,170,,Impasse,du Soleil Couchant,12310,Palmas d'Aveyron,687292.7262,6365630.708,0
+12255_9ldiiw_00036,36,,Rue,du Couchant,12120,Salmiech,665410.29,6343038.61,IMB/48002/X/006F,31,,Rue,du Couchant,48200,Albaret-Ste-Marie,719471.0282,6419984.648,0
+12255_9ldiiw_00015,15,,Rue,du Couchant,12120,Salmiech,665414.42,6343017.81,IMB/12138/X/00G3,5,,Allée,du Couchant,12330,Marcillac-Vallon,656799.9558,6375267.246,0
+12255_9ldiiw_00062,62,,Rue,du Couchant,12120,Salmiech,665415.23,6343064.03,IMB/12255/X/00HZ,62,,Rue,du Couchant,12120,Salmiech,665427.5248,6343073.887,1
+12094_lioj83_00004,4,,Place,de l’Église Saint Georges,12140,Entraygues-sur-Truyère,665433.96,6394044.06,IMB/12094/X/00D9,4,,Place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665431.4496,6394048.347,1
+12094_lioj83_00003,3,,Place,de l’Église Saint Georges,12140,Entraygues-sur-Truyère,665438.14,6394054.7,IMB/12094/X/00D8,3,,Place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665437.1487,6394059.588,1
+12094_lioj83_00005,5,,Place,de l’Église Saint Georges,12140,Entraygues-sur-Truyère,665448.25,6394032.76,IMB/12094/X/00DA,5,,Place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665449.3872,6394031.112,1
+12094_lioj83_00001,1,,Place,de l’Église Saint Georges,12140,Entraygues-sur-Truyère,665457.37,6394047.04,IMB/12094/X/00G4,1,,Place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665460.1956,6394048.794,1
+12165_x68qxc_00054,54,,Impasse,de Carles,12330,Muret-le-Château,665457.58,6376672.86,IMB/12165/X/002C,54,,Impasse,de Carles,12330,Muret-le-Château,665466.7906,6376654.986,1
+12094_lioj83_00002_bis,2,bis,Place,de l’Église Saint Georges,12140,Entraygues-sur-Truyère,665459.66,6394060.47,IMB/12094/X/00DO,2,B,Place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665462.4771,6394081.324,1
+12094_lioj83_00002,2,,Place,de l’Église Saint Georges,12140,Entraygues-sur-Truyère,665467.23,6394052.87,IMB/12094/X/00DB,2,,Place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665468.7668,6394053.488,1
+12298_0049_00004,4,,Rue,du Château,12580,Villecomtal,665467.75,6382189.87,IMB/12298/X/00FI,10,,Rue,du Château,12580,Villecomtal,665474.5623,6382163.226,0
+12073_0130_00006,6,,rue,des Lacs,12120,Comps-la-Grand-Ville,665471.79,6348080.72,IMB/12043/X/00BD,16,,allee,de Campmas,12450,Calmont,662158.2495,6352699.757,0
+12298_0049_00005,5,,Rue,du Château,12580,Villecomtal,665479.95,6382183.03,IMB/12298/X/00FJ,6,,Rue,du Château,12580,Villecomtal,665469.5514,6382179.415,0
+12298_0049_00003,3,,Rue,du Château,12580,Villecomtal,665480.16,6382192.25,IMB/12253/X/00OX,3,,Rue,du Château,12410,Salles-Curan,683061.4829,6342634.236,0
+12298_0049_00002,2,,Rue,du Château,12580,Villecomtal,665501.89,6382243.56,IMB/12253/X/00P0,2,,Rue,du Château,12410,Salles-Curan,683080.4327,6342630.54,0
+12298_0049_00002,2,,rue,du Château,12580,Villecomtal,665501.89,6382243.56,IMB/12003/X/002X,77,,chemin,de Brayes,12220,Les Albres,634130.3586,6381285.078,0
+12298_0049_00001,1,,Rue,du Château,12580,Villecomtal,665505.73,6382219.65,IMB/12228/X/008L,1,,Rue,du Château,12480,St-Izaire,677497.1112,6319635.526,0
+12073_0130_00007,7,,rue,des Lacs,12120,Comps-la-Grand-Ville,665525.49,6348025.99,IMB/12073/X/002X,7,,rue,des Lacs,12120,Comps-la-Grand-Ville,665534.5152,6348035.369,1
+12165_x68qxc_00134,134,,Impasse,de Carles,12330,Muret-le-Château,665527.13,6376638.15,IMB/12165/X/002D,134,,Impasse,de Carles,12330,Muret-le-Château,665501.6864,6376632.414,1
+12165_x68qxc_00129,129,,Impasse,de Carles,12330,Muret-le-Château,665528.78,6376649.7,IMB/12165/X/002E,129,,Impasse,de Carles,12330,Muret-le-Château,665593.6813,6376674.598,1
+12165_x68qxc_00143,143,,Impasse,de Carles,12330,Muret-le-Château,665541.59,6376636.07,IMB/12165/X/002F,143,,Impasse,de Carles,12330,Muret-le-Château,665566.676,6376632.807,1
+12165_x68qxc_00202,202,,Impasse,de Carles,12330,Muret-le-Château,665566.67,6376584.06,IMB/12165/X/002G,202,,Impasse,de Carles,12330,Muret-le-Château,665561.4212,6376565.077,1
+12165_x68qxc_00241,241,,Impasse,de Carles,12330,Muret-le-Château,665596.22,6376563.46,IMB/12165/X/002H,241,,Impasse,de Carles,12330,Muret-le-Château,665626.9015,6376597.694,1
+12255_0104_00052,52,,place,des Jeux,12120,Salmiech,665627.56,6342975.1,IMB/12057/X/007C,2,,cite,Beauséjour,12120,Cassagnes-Bégonhès,662219.124,6341209.479,0
+12073_0130_00019,19,,rue,des Lacs,12120,Comps-la-Grand-Ville,665643.02,6348072.45,IMB/12073/X/0039,19,,rue,des Lacs,12120,Comps-la-Grand-Ville,665630.6979,6348068.526,1
+12255_0094_00025,25,,Rue,de la Haie Coloree,12120,Salmiech,665700.24,6343079.36,IMB/12057/X/006P,25,,rue ,du Centre,12120,Cassagnes-Bégonhès,662358.6805,6341131.853,0
+12255_0094_00025,25,,rue,de la Haie Coloree,12120,Salmiech,665700.24,6343079.36,IMB/12255/X/009C,25,,rue,de la Haie Colorée,12120,Salmiech,665688.2895,6343074.481,1
+12255_0094_00007,7,,Rue,de la Haie Coloree,12120,Salmiech,665713.37,6343068.07,IMB/12011/X/008R,7,,,Bellevue,12120,Arvieu,678074.263,6344512.847,0
+12255_0094_00020,20,,Rue,de la Haie Coloree,12120,Salmiech,665713.61,6343083.4,IMB/12255/X/00AC,20,,rue ,de la Haie Colorée,12120,Salmiech,665731.4954,6343092.219,1
+12255_0064_00044,44,,Avenue,Georges Desirat,12120,Salmiech,665868.52,6342516.49,IMB/12255/X/004W,49,,Avenue,Georges Désirât,12120,Salmiech,665858.5508,6342504.441,0
+12255_0064_00020,20,,Avenue,Georges Desirat,12120,Salmiech,665889.32,6342504.16,IMB/12013/X/015X,10,,Plan,Georges Brassens,12110,Aubin,640054.6784,6383084.368,0
+12255_ddz8la_00006,6,,Avenue,Jean Yves Bonnet,12120,Salmiech,665903.01,6342477.64,IMB/12255/X/008U,81,,Avenue,Jean-Yves Bonnet,12120,Salmiech,665980.1332,6342465.786,0
+12255_0064_00002,2,,Avenue,Georges Desirat,12120,Salmiech,665906.13,6342492.73,IMB/12255/X/005Q,2,,Avenue,Georges Désirât,12120,Salmiech,665913.2947,6342498.376,1
+12255_ddz8la_00014,14,,Avenue,Jean Yves Bonnet,12120,Salmiech,665911.39,6342475.26,IMB/12255/X/005P,14,,Avenue,Jean-Yves Bonnet,12120,Salmiech,665910.3318,6342471.538,1
+12255_ddz8la_00031,31,,Avenue,Jean Yves Bonnet,12120,Salmiech,665933.01,6342480.37,IMB/12255/X/008Y,31,,Place,Justin Labit,12120,Salmiech,667097.1948,6344912.497,0
+12255_ddz8la_00065,65,,Avenue,Jean Yves Bonnet,12120,Salmiech,665963.32,6342466.87,IMB/12255/X/00IA,65,,rue,du Couchant,12120,Salmiech,665398.0407,6343083.707,0
+12255_ddz8la_00241,241,,Avenue,Jean Yves Bonnet,12120,Salmiech,666122.9,6342510.45,IMB/12255/X/0001,241,,Avenue,Jean-Yves Bonnet,12120,Salmiech,666135.6341,6342530.802,1
+12080_0049_00010,10,,route,de Paulet,12550,Coupiac,666136.01,6317355.15,IMB/12080/X/0083,10,,route,de Paulet,12550,Coupiac,666130.7829,6317366.952,1
+12255_ddz8la_00329,329,,Avenue,Jean Yves Bonnet,12120,Salmiech,666198.78,6342555.38,IMB/12255/X/0066,31,,Avenue,Jean-Yves Bonnet,12120,Salmiech,665950.9401,6342478.559,0
+12165_cc1cth_00200,200,,route,du Chateau,12330,Muret-le-Château,666204.42,6377039.72,IMB/12064/X/004P,3496,,route,de Bonneval,12500,Le Cayrol,683602.4677,6384752.1,0
+12165_cc1cth_00668,668,,route,du Chateau,12330,Muret-le-Château,666313.66,6377080.79,IMB/12094/X/00G3,1,,place,de l'Église Saint-Georges,12140,Entraygues-sur-Truyère,665469.9646,6394045.046,0
+12048_5jrkoq_01294,1294,,route,d’Entraygues,12460,Campouriez,666629.23,6396850.43,IMB/12048/X/001E,1294,,route,d'Entraygues,12460,Campouriez,666624.4402,6396862.477,1
+12298_0241_00797,797,,route,de Ségonzac,12580,Villecomtal,666632.07,6381213.25,IMB/12298/X/001C,797,,route,de Segonzac,12580,Villecomtal,666633.301,6381226.215,1
+12298_0241_01868,1868,,route,de Ségonzac,12580,Villecomtal,666863.05,6381601.15,IMB/12298/X/003A,1868,,route,de Segonzac,12580,Villecomtal,666855.0545,6381590.983,1
+12152_sckxv3_00423,423,,chemin,de Mejanes,12380,Montfranc,666866.48,6303458.18,IMB/12124/X/0047,1104,,route,de Thubies,12500,Lassouts,684019.9718,6377484.698,0
+12283_uus99s_00691,691,,route,de Lagrandville,12290,Trémouilles,666934.06,6349760.71,IMB/12203/X/008W,10,,rue,du Ségala,12250,Roquefort-sur-Soulzon,696678.2726,6318982.715,0
+12048_8hhnwi_00386,386,,route,du Truc,12460,Campouriez,667381.98,6397043.07,IMB/12048/X/006K,386,,route,du Truc,12460,Campouriez,667386.8335,6397031.078,1
+12049_0022_00799,799,,route,de Lunel,12580,Campuac,667500.2,6386195.79,IMB/12300/X/035A,7,,rue,des Potiers,12200,Villefranche-de-Rouergue,622747.7108,6361512.077,0
+12049_b328_00017,17,,lotissement,le Pouget,12580,Campuac,667887.29,6385826.22,IMB/12049/X/0084,17,,lotissement,le Pouget,12580,Campuac,667880.0722,6385815.417,1
+12283_qr459q_00215,215,,route,de l’Andorre,12290,Trémouilles,667988.52,6348953.47,IMB/12063/X/002I,17,,chemin,des Agastous,12230,La Cavalerie,712695.2238,6323509.233,0
+12102_0031_00015,15,,rue,des Faneurs,12450,Flavin,668054.38,6354586.36,IMB/12198/X/0090,1,,rue,de l'Hom,12240,Rieupeyroux,639186.5025,6356740.459,0
+12102_0027_00021,21,,cite,la Croix de Laumet,12450,Flavin,668057.53,6354388.81,IMB/12200/X/00HI,2,,rue,du Pâlie,12640,Rivière-sur-Tarn,710349.7234,6343248.724,0
+12102_0027_00003,3,,cite,la Croix de Laumet,12450,Flavin,668129.51,6354403.67,IMB/12208/X/01ZS,23,,rue,des Bains,12400,St-Affrique,691356.2618,6317945.279,0
+12248_0068_00001,1,,route,de Guergues,12380,Saint-Sernin-sur-Rance,668143.18,6309659.21,IMB/12056/X/01UQ,176,,rue,de la Fontaine Romaine,12160,Baraqueville,656200.4426,6354453.581,0
+12102_0044_00001,1,,rue,du Moissonneur,12450,Flavin,668150.49,6354749.74,IMB/12102/X/00K2,1,,rue,du Moissonneur,12450,Flavin,668161.6102,6354743.107,1
+12255_0172_00081,81,,Chemin,de Revol,12120,Salmiech,668258.59,6344734.17,IMB/12011/X/00JT,43,,Impasse,de Revols,12120,Arvieu,668851.0293,6343619.451,0
+12102_0051_00001,1,,cite,du Planol,12450,Flavin,668312.42,6354484.18,IMB/12258/X/00C4,12,,rue,des Bruyères,12440,La Salvetat-Peyralès,636308.1347,6346987.376,0
+12255_0172_00441,441,,Chemin,de Revol,12120,Salmiech,668320.75,6344394.67,IMB/12255/X/00DX,441,,Chemin,de Revol,12120,Salmiech,668328.1195,6344400.499,1
+12255_0172_00452,452,,Chemin,de Revol,12120,Salmiech,668331.42,6344387.95,IMB/12255/X/00DY,452,,Chemin,de Revol,12120,Salmiech,668339.989,6344386.413,1
+12248_0090_00050,50,,avenue,de Saint-affrique,12380,Saint-Sernin-sur-Rance,668486.53,6309680.05,IMB/12131/X/00JP,35,,rue,de la Pareau,12740,La Loubière,671036.315,6365292.886,0
+12102_0062_00013,13,,rue,des Sources,12450,Flavin,668620.26,6354510.19,IMB/12208/X/026F,4,,rue,du Docteur Valentin,12400,St-Affrique,690558.9323,6317789.354,0
+12102_wr6c8u_00004,4,,lotissement,du Lavoir de Vernieres,12450,Flavin,668661.1,6354570.98,IMB/12171/X/00JX,453,,route,du Malpas,12330,Nauviale,654574.881,6378993.854,0
+12102_0076_00005,5,,rue,la Souquette,12450,Flavin,668688.93,6353987.8,IMB/12102/X/00RV,5,,rue,la Souquette,12450,Flavin,668692.9165,6354000.155,1
+12102_wr6c8u_00024,24,,lotissement,du Lavoir de Vernieres,12450,Flavin,668708.02,6354714.5,IMB/12234/X/006J,2809,,route,du Piboul,12120,Ste-Juliette-sur-Viaur,659050.3775,6346649.153,0
+12102_0065_00022,22,,cite,du Stade,12450,Flavin,668755.92,6354768.15,IMB/12225/X/00DY,5,,rue,des Assalisses,12100,St-Georges-de-Luzençon,698479.5777,6329373.95,0
+12103_0067_00808,808,,route,des Tours,12140,Florentin-la-Capelle,668926.89,6393037.03,IMB/12103/X/002M,808,,route,des Tours,12140,Florentin-la-Capelle,668923.6237,6393049.53,1
+12283_ybcauw_00010,10,,rue,de Lafounal,12290,Trémouilles,669250.73,6349282.82,IMB/12283/X/000S,577,,route,de Catusse,12290,Trémouilles,669279.7759,6349813.584,0
+12283_qehrq2_00245,245,,rue,de la Chataigneraie,12290,Trémouilles,669333.06,6349394.62,IMB/12283/X/001F,245,,rue,de la Châtaigneraie,12290,Trémouilles,669340.1594,6349405.434,1
+12255_0090_00039,39,,rue,du Gua,12120,Salmiech,669357.54,6345981.74,IMB/12255/X/00D0,39,,rue,du Gua,12120,Salmiech,669366.4688,6345991.162,1
+12125_lfn6xf_00070,70,,rue,du Gourp,12380,Laval-Roquecezière,670063.49,6301947.01,IMB/12064/X/0013,19,,impasse,de la Caylie,12500,Le Cayrol,683247.6069,6385325.572,0
+12103_0061_01211,1211,,route,des Falguieres,12140,Florentin-la-Capelle,670176.08,6393589.8,IMB/12103/X/004C,1211,,route,des Falguières,12140,Florentin-la-Capelle,670181.6039,6393601.596,1
+12125_uqz1zf_00578,578,,route,du Rouquairol,12380,Laval-Roquecezière,670213.73,6300798.26,IMB/12242/X/005J,14,,rue,de la Mairie,12200,St-Rémy,623528.0633,6366901.1,0
+12131_0110_00008,8,,rue,de Garacel,12740,La Loubière,670452.2,6367611.68,IMB/12131/X/007Z,8,,rue,de Garacel,12740,La Loubière,670440.0967,6367616.372,1
+12255_sls8i7_00016,16,,Place,Marcelle Loubiere,12120,Salmiech,670652.85,6346632.96,IMB/12255/X/00CB,16,,place,Marcelle Loubière,12120,Salmiech,670646.562,6346629.744,1
+12283_00rpp4_00300,300,,,Les Planets,12290,Trémouilles,670729.79,6349764.95,IMB/12208/X/026M,19,,rue,du Docteur Valentin,12400,St-Affrique,690504.8788,6317865.372,0
+12131_0564_00171,171,,rue,de la Tour,12740,La Loubière,670868.85,6365496.79,IMB/12013/X/01EE,14,,rue,du Colonel Fabien,12110,Aubin,641584.7268,6381511.515,0
+12131_0564_00186,186,,rue,de la Tour,12740,La Loubière,670876.17,6365477.87,IMB/12246/X/0078,32,,route,de Decazeville,12300,St-Santin,640967.3231,6394756.456,0
+12277_265k8v_00042,42,,rue,du Couderc,12600,Taussac,670983.15,6415721.32,IMB/12050/X/009F,4,,rue,du Couvent,12290,Canet-de-Salars,680445.6586,6348545.794,0
+12048_7i1929_00041,41,,rue,des Chenes Verts,12460,Campouriez,671066.62,6397881.47,IMB/12052/X/01NV,54,,rue,Vincent Auriol,12700,Capdenac-Gare,627115.066,6385441.649,0
+12131_0046_00003,3,,rue,du Comtal,12740,La Loubière,671068.28,6367842.32,IMB/12068/X/00CV,49,,place,de l'Église,12240,Colombiès,647271.1179,6360989.241,0
+12131_0562_00108,108,,rue,de la Pareau,12740,La Loubière,671105.98,6365248.51,IMB/12131/X/00JL,108,,rue,de la Pareau,12740,La Loubière,671095.8145,6365240.437,1
+12131_0043_00006,6,,impasse,du Combal,12740,La Loubière,671300.9,6367566.42,IMB/12131/X/008C,6,,impasse,du Combal,12740,La Loubière,671287.9036,6367565.713,1
+12118_0125_00001,1,,rue,de la Gozonne,12600,Lacroix-Barrez,671392.41,6409282.44,IMB/12118/X/0031,1,,rue,de la Gozonne,12600,Lacroix-Barrez,671379.4862,6409281.55,1
+12151_0020_00009,9,,rue,de l'école,12460,Montézic,671475.82,6401206.35,IMB/12300/X/07GI,37,,route,de la Gasse,12200,Villefranche-de-Rouergue,624014.3114,6361188.518,0
+12131_0060_00012,12,,impasse,des Epis,12740,La Loubière,671488.18,6367701.87,IMB/12189/X/0001,1154,,route,du Peyrol,12240,Pradinas,642918.8741,6349496.533,0
+12151_0005_00003,3,,chemin,de la Bezardie,12460,Montézic,671545.35,6401395.09,IMB/12280/X/003O,4,,lieu dit,Jou,12600,Thérondels,680672.7479,6418002.214,0
+12277_83rd9g_00238,238,,route,du Menut,12600,Taussac,671924.12,6414354.61,IMB/12102/X/00I7,10,,lotissement,du Lavoir de Vernières,12450,Flavin,668655.4175,6354623.04,0
+12131_0570_00137,137,,rue,du Haut Village,12740,La Loubière,672249.8,6364580.7,IMB/12131/X/00K0,137,,rue,du Haut Village,12740,La Loubière,672237.1542,6364583.476,1
+12131_0525_00024,24,,Impasse,de la Baryte,12740,La Loubière,672292.34,6362807.16,IMB/12131/X/00NL,24,,Impasse,de la Baryte,12740,La Loubière,672308.9524,6362786.65,1
+12131_0525_00114,114,,Impasse,de la Baryte,12740,La Loubière,672334.86,6362743.54,IMB/12131/X/00O5,114,,Impasse,de la Baryte,12740,La Loubière,672333.5393,6362740.489,1
+12131_0525_00148,148,,Impasse,de la Baryte,12740,La Loubière,672337.89,6362708.08,IMB/12131/X/00O7,148,,Impasse,de la Baryte,12740,La Loubière,672320.3934,6362721.618,1
+12131_0525_00081,81,,Impasse,de la Baryte,12740,La Loubière,672339.86,6362775.95,IMB/12131/X/00NP,81,,Impasse,de la Baryte,12740,La Loubière,672350.7902,6362772.312,1
+12131_0014_00254,254,,rue,des Baissassous,12740,La Loubière,672808.26,6367298.66,IMB/12028/X/005T,17,,rue,de la Guiraldie,12300,Boisse-Penchot,636900.8036,6387836.069,0
+12131_0036_00222,222,,chemin,de Cayssac,12740,La Loubière,672858.14,6367045.82,IMB/12131/X/00FP,222,,chemin,du Cayssac,12740,La Loubière,672846.4103,6367040.198,1
+12011_3bjv7m_00068,68,,route,du Gazet,12120,Arvieu,672918.61,6343364.46,IMB/12189/X/0060,1084,,route,de Pradinas,12240,Pradinas,641004.291,6350107.571,0
+12131_0554_02042,2042,,route,des Naucelats,12740,La Loubière,672978.87,6363241.76,IMB/12033/X/016G,2,,passage,des Rosiers,12340,Bozouls,678814.5718,6371189.796,0
+12172_99aej5_00040,40,,place,du Couderc,12190,Le Nayrac,673103.92,6390532.18,IMB/12076/X/00UY,4,,chemin,de Batiste,12320,Conques-en-Rouergue,654018.0875,6389748.034,0
+12131_0036_00677,677,,chemin,de Cayssac,12740,La Loubière,673125.05,6366847.6,IMB/12270/X/03L1,4,,impasse,du Tivoli,12150,Sévérac d'Aveyron,705844.1294,6357858.729,0
+12164_0360_00022,22,,,Grand Rue,12600,Mur-de-Barrez,673150.03,6416238.98,IMB/12013/X/0150,3,,place,de la République,12110,Aubin,641437.0727,6381268.803,0
+12172_am4qwo_00074,74,,rue,du Couderc,12190,Le Nayrac,673155.88,6390550.28,IMB/12283/X/0042,8,,route,des Carrières,12290,Trémouilles,671573.8778,6349509.054,0
+12131_0036_00717,717,,Chemin,de Cayssac,12740,La Loubière,673162.02,6366832.11,IMB/12131/X/000A,717,,Chemin,du Cayssac,12740,La Loubière,673161.3749,6366838.995,1
+12164_0040_00002,2,,rue,de la Berque,12600,Mur-de-Barrez,673176.11,6416385.48,IMB/12223/X/005U,3,,lieu dit,la Croix Rouge,12420,Argences en Aubrac,681932.5114,6407042.748,0
+12129_h8xumz_00013,13,,lieu dit,Thouels,12430,Lestrade-et-Thouels,673205.56,6327343.63,IMB/12129/X/008P,13,,lieu dit,Thouels,12430,Lestrade-et-Thouels,673217.7042,6327339.192,1
+12131_0036_00769,769,,Chemin,de Cayssac,12740,La Loubière,673208.2,6366810.25,IMB/12131/X/0001,769,,Chemin,du Cayssac,12740,La Loubière,673208.1427,6366820.459,1
+12277_3labir_00083,83,,rue,du Puech de Lestrade,12600,Taussac,673215.16,6413591.09,IMB/12198/X/002X,1,,place,de la Vierge,12240,Rieupeyroux,639168.9715,6356753.743,0
+12131_0036_00781,781,,Chemin,de Cayssac,12740,La Loubière,673217.08,6366802.33,IMB/12131/X/000L,781,,Chemin,du Cayssac,12740,La Loubière,673216.7916,6366814.222,1
+12131_0036_00791,791,,Chemin,de Cayssac,12740,La Loubière,673227.59,6366800.51,IMB/12131/X/000K,791,,Chemin,du Cayssac,12740,La Loubière,673227.7605,6366823.691,1
+12277_fetlh3_00319,319,,rue,du Tillou,12600,Taussac,673229.18,6414206.26,IMB/12208/X/00EV,9,,boulevard,Charles de Gaulle,12400,St-Affrique,690800.1076,6317743.357,0
+12172_rby001_00169,169,,impasse,des Artisans,12190,Le Nayrac,673538.96,6390100.67,IMB/12076/X/0061,6,,route,de Contensous,12320,Conques-en-Rouergue,648445.8037,6390054.781,0
+12209_b292_00006,6,,lotissement,Beau Soleil,12460,Saint-Amans-des-Cots,673547.66,6398465.54,IMB/12043/X/00MA,118,,rue,des Pionniers,12450,Calmont,663423.3957,6349972.137,0
+12001_0007_00002,2,,rue,Jean Boudou,12630,Agen-d'Aveyron,673913.37,6362104.23,IMB/12280/X/003J,1,,lieu dit,Gorse,12600,Thérondels,680998.2046,6420364.421,0
+12001_0012_00003,3,,impasse,Emma Calve,12630,Agen-d'Aveyron,673940.07,6362179.22,IMB/12205/X/002Y,30,,route,de la Sicardié,12200,La Rouquette,621092.1008,6357979.736,0
+12283_8o0cb6_00010,10,,rue,des Viviers,12290,Trémouilles,674150.38,6348580.46,IMB/12172/X/00H2,131,,rue,du Couderc,12190,Le Nayrac,673174.3411,6390504.976,0
+12250_4jogoo_00002,2,,lieu dit,La Bouscarie,12460,Saint-Symphorien-de-Thénières,674396.46,6404487.55,IMB/12250/X/001O,2,,lieu dit,la Bouscarié,12460,St-Symphorien-de-Thénières,674408.1445,6404493.272,1
+12001_0068_00004,4,,impasse,des Clauzades,12630,Agen-d'Aveyron,674456.56,6361772.06,IMB/12205/X/0066,222,,rue,des Buis,12200,La Rouquette,617632.4553,6360503.856,0
+12001_0033_00011,11,,rue,de la Milhau,12630,Agen-d'Aveyron,674608.84,6362117.5,IMB/12001/X/00CX,11,,rue,de la Milhau,12630,Agen-d'Aveyron,674620.0812,6362123.843,1
+12250_ymk9cp_00001,1,,place,de l’Église,12460,Saint-Symphorien-de-Thénières,674625.49,6404427.86,IMB/12013/X/008K,39,,avenue,du Lycée,12110,Aubin,639542.2343,6381557.042,0
+12172_0043_00726,726,,route,de la Montagne de Prat,12190,Le Nayrac,674742.84,6390353.74,IMB/12172/X/00M0,726,,route,de la Montagne de Prat,12190,Le Nayrac,674747.036,6390366.076,1
+12103_0080_00375,375,,rue,du Lac de la Selve,12140,Florentin-la-Capelle,674838.67,6394692,IMB/12103/X/0019,375,,rue,du Lac de la Selve,12140,Florentin-la-Capelle,674835.4403,6394704.511,1
+12037_0045_00004,4,,avenue,de Brousse,12480,Broquiès,675518.97,6322983.91,IMB/12037/X/0005,4,,avenue,de Brousse,12480,Broquiès,675531.6775,6322986.543,1
+12006_b167_00002,2,,mas,Nespoulous,12430,Alrance,675665.43,6335026.71,IMB/12203/X/009E,5,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696964.4242,6319477.315,0
+12037_0100_00010,10,,avenue,de Saint - Affrique,12480,Broquiès,675738.19,6322992.95,IMB/12120/X/007J,4,,impasse,des Églantiers,12310,Laissac-Sévérac l'Église,686520.9274,6364419.583,0
+12157_a310_00018,18,,lotissement,le Hameau du Causse 3,12630,Montrozier,675739.19,6366763.21,IMB/12208/X/01X1,5,,rue,de Provence,12400,St-Affrique,689705.5764,6317999.336,0
+12006_hg5ju1_00002,2,,lieu dit,la Vacaresse,12430,Alrance,676144.69,6335053.55,IMB/12006/X/00BA,2,,lieu dit,la Vacaresse,12430,Alrance,676132.8704,6335058.907,1
+12157_0610_00065,65,,route,de Rodez,12630,Montrozier,676479.47,6365671.93,IMB/12225/X/009H,13,,route,de Linas,12100,St-Georges-de-Luzençon,699021.3765,6330559.684,0
+12299_0024_00024,24,,Chemin,de la Carral,12430,Villefranche-de-Panat,676497.28,6331368.14,IMB/12008/X/0001,1,,Chemin,de la Carrière,12390,Anglars-St-Félix,641301.2653,6369759.877,0
+12036_cqnd4s_00006,6,,lieu dit,Bonan,12600,Brommat,676530.42,6411820.25,IMB/12036/X/005H,6,,lieu dit,Bonan,12600,Brommat,676541.8843,6411814.086,1
+12157_0015_00825,825,,route,d’Agen,12630,Montrozier,676798.26,6366124.56,IMB/12224/X/02CU,12,,rue,Riviè,12130,St-Geniez-d'Olt-et-d'Aubrac,698018.3711,6374216.493,0
+12079_0208_00412,412,,route,du Soulies,12190,Coubisou,677071.33,6384496.02,IMB/12079/X/00GZ,412,,route,du Soulies,12190,Coubisou,677083.9426,6384498.775,1
+12079_0040_00514,514,,route,du Carbonnier,12190,Coubisou,677311.73,6384011.83,IMB/12079/X/003E,514,,route,du Carbonnier,12190,Coubisou,677324.4086,6384014.491,1
+12079_0043_00083,83,,rue,de la Carriere,12190,Coubisou,677392.11,6386435.46,IMB/12079/X/00GT,83,,rue,de la Carrière,12190,Coubisou,677399.252,6386446.283,1
+12033_0116_00002,2,,rue,du Vieux Pont,12340,Bozouls,677466.67,6374442.66,IMB/12033/X/01GG,2,,rue,du Vieux Pont,12340,Bozouls,677459.3691,6374431.947,1
+12079_0069_00258,258,,route,de Coubisou,12190,Coubisou,677670.36,6383079.55,IMB/12223/X/00MV,5,,cote,du Triadou,12420,Argences en Aubrac,680568.6169,6413051.141,0
+12250_eo0olo_00002,2,,lieu dit,Le Charlet,12460,Saint-Symphorien-de-Thénières,677752.03,6403419.94,IMB/12250/X/0019,2,,lieu dit,le Charlet,12460,St-Symphorien-de-Thénières,677739.5097,6403416.805,1
+12033_0101_00019,19,,rue,les Teulieres,12340,Bozouls,677785.78,6375220.35,IMB/12200/X/00EY,1,,rue,Anne Marie Roudil,12640,Rivière-sur-Tarn,710511.7241,6343349.724,0
+12280_85w4c9_00002,2,,lieu dit,Septfonds,12600,Thérondels,677929.83,6421168.63,IMB/12105/X/001R,176,,impasse,du Pré Blanc,12270,La Fouillade,622368.5101,6346864.704,0
+12157_0400_00185,185,,route,de Laissac,12630,Montrozier,678046.92,6367045.45,IMB/12157/X/00CW,185,,route,de Laissac,12630,Montrozier,676835.1015,6366304.05,1
+12157_0400_00835,835,,route,de Laissac,12630,Montrozier,678046.92,6367045.45,IMB/12098/X/00LM,8,,rue,François d'Estaing,12190,Estaing,673908.7109,6384328.376,0
+12011_sl068o_00011,11,,chemin,des Caumettes,12120,Arvieu,678055.79,6343894.35,IMB/12220/X/0017,1,,place,Poussaranquette,12230,Ste-Eulalie-de-Cernon,710852.175,6320363.895,0
+12033_0032_00004,4,,rue,Etienne Bastide,12340,Bozouls,678227.54,6375014.51,IMB/12102/X/00IR,20,,lotissement,du Lavoir de Vernières,12450,Flavin,668681.8381,6354723.648,0
+12033_0115_00017,17,,rue,Henri Vernhes,12340,Bozouls,678273.68,6375292.74,IMB/12033/X/004U,17,,rue,Henri Vernhes,12340,Bozouls,678261.1837,6375289.111,1
+12033_0041_00013,13,,rue,des Grillons,12340,Bozouls,678287.23,6375001.42,IMB/12224/X/00WE,11,,rue,du Stade,12130,St-Geniez-d'Olt-et-d'Aubrac,698523.5698,6374328.409,0
+12033_0171_00004,4,,rue,du Monteil,12340,Bozouls,678289.23,6371553.38,IMB/12079/X/006C,93,,chemin,des Babielles,12190,Coubisou,677688.3263,6385131.747,0
+12033_0125_00009,9,,rue,Henri Canonge,12340,Bozouls,678344.21,6375080.21,IMB/12094/X/0131,429,,route,de Banroques,12140,Entraygues-sur-Truyère,663094.1744,6394507.6,0
+12033_0014_00001,1,,rue,du Causse Comtal,12340,Bozouls,678353.21,6374622.5,IMB/12033/X/01F6,1,,rue,du Causse Comtal,12340,Bozouls,678353.1165,6374635.478,1
+12033_0049_00005,5,,rue,des Jardins,12340,Bozouls,678357.59,6374692.8,IMB/12002/X/0054,9,,plan,du Foirail,12520,Aguessac,707776.1234,6339758.206,0
+12033_0151_00009,9,,rue,Joseph Sarrois,12340,Bozouls,678385.6,6375343.45,IMB/12171/X/006I,2595,,route,de Leguens,12330,Nauviale,653276.1356,6378965.74,0
+12033_0030_00007,7,,impasse,Elie Plegat,12340,Bozouls,678477.43,6375079.19,IMB/12033/X/014R,7,,impasse,Elie Plégat,12340,Bozouls,678477.2526,6375092.194,1
+12253_rr1y39_00009,9,,route,de l’Égalité,12410,Salles-Curan,678715.27,6341814.16,IMB/12034/X/004D,1633,,route,de Loudes,12350,Brandonnet,630652.5669,6367151.575,0
+12079_0116_00026,26,,route,de Galamans,12190,Coubisou,678962.15,6381959.37,IMB/12095/X/001E,797,,route,de la Fage,12390,Escandolières,646807.3429,6374777.021,0
+12253_ogty0m_00004,4,,route,des Genêts,12410,Salles-Curan,679694.05,6343326.03,IMB/12253/X/01PS,4,,route,des Genêts,12410,Salles-Curan,681247.5485,6343379.705,1
+12096_1200_00001_a,1,a,avenue,de Saint-Pierre,12500,Espalion,679798.33,6380635.72,IMB/12096/X/0085,1,a,avenue,de Saint-Pierre,12500,Espalion,680900.1402,6380120.614,1
+12096_1200_00009_bis,9,b,avenue,de Saint-Pierre,12500,Espalion,679798.33,6380635.72,IMB/12210/X/007T,620,,route,de la Fouillade,12270,St-André-de-Najac,623053.2442,6344609.526,0
+12025_59m2ga_00013,13,,lieu dit,le Peyssel,12370,Belmont-sur-Rance,679913.6,6304029.49,IMB/12095/X/000S,44,,impasse,des Noyers,12390,Escandolières,649318.346,6373974.789,0
+12050_0060_00024,24,,rue,du Couderc,12290,Canet-de-Salars,679998.74,6348505.1,IMB/12050/X/006F,24,,rue,du Couderc,12290,Canet-de-Salars,679989.1265,6348513.883,1
+12096_rn39p0_00012,12,,rue,de la Garde,12500,Espalion,680027.64,6381945.33,IMB/12096/X/015C,12,,rue,de la Lande,12500,Espalion,680880.202,6380346.361,1
+12096_rn39p0_00010,10,,rue,de la Garde,12500,Espalion,680061.72,6381995.77,IMB/12096/X/0156,10,,rue,de la Lande,12500,Espalion,680948.5692,6380327.843,1
+12253_l1ft8x_00081,81,,route,du Charrouzech,12410,Salles-Curan,680075.5,6344255.4,IMB/12057/X/005H,3,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662249.4648,6341190.613,0
+12253_l1ft8x_00081,81,,route,du Charrouzech,12410,Salles-Curan,680075.5,6344255.4,IMB/12056/X/02MV,41,,route,de Vors,12160,Baraqueville,654855.7164,6353328.91,0
+12096_rn39p0_00004,4,,rue,de la Garde,12500,Espalion,680184.46,6381890.85,IMB/12096/X/0159,4,,rue,de la Lande,12500,Espalion,680962.364,6380391.725,1
+12096_rn39p0_00002,2,,rue,de la Garde,12500,Espalion,680207.17,6381885.67,IMB/12096/X/015B,2,,rue,de la Lande,12500,Espalion,680949.687,6380411.972,1
+12096_rn39p0_00001,1,,rue,de la Garde,12500,Espalion,680238.29,6381853.24,IMB/12096/X/0158,1,,rue,de la Lande,12500,Espalion,680989.9489,6380409.745,1
+12096_a045_00001,1,,lotissement,les Peupliers,12500,Espalion,680304.28,6381159.43,IMB/12206/X/007N,43,,rue,de la Sole,12220,Roussennac,640850.4187,6373160.755,0
+12223_k0wldb_00006,6,,rue,de la Combrie,12420,Argences en Aubrac,680451.52,6407240.54,IMB/12223/X/00GI,6,,rue,de la Combrie,12420,Argences en Aubrac,680441.01,6407248.11,1
+12096_0040_00040,40,,route,d'Alayrac,12500,Espalion,680808.79,6381369.37,IMB/12300/X/0106,12,,avenue,du Ségala,12200,Villefranche-de-Rouergue,623217.9803,6361354.161,0
+12280_0120_00008,8,,rue,Pierre et Marie Curie,12600,Thérondels,680824.93,6421719.84,IMB/12255/X/007S,244,,rue,Henri Saurel,12120,Salmiech,665137.8147,6342605.365,0
+12096_0620_00055,55,,boulevard,Joseph Poulenc,12500,Espalion,680958.73,6380111.45,IMB/12096/X/00BD,55,,boulevard,Joseph Poulenc,12500,Espalion,680969.1609,6380103.789,1
+12096_0360_00025,25,,avenue,d'Estaing,12500,Espalion,681016.12,6380798.44,IMB/12096/X/0018,25,,avenue,d'Estaing,12500,Espalion,681011.1029,6380786.468,1
+12096_0160_00014,14,,rue,Camille Violand,12500,Espalion,681016.62,6380461.96,IMB/12096/X/010H,14,,rue,Camille Violand,12500,Espalion,681025.9796,6380470.961,1
+12280_8c8fe4_00001,1,,lieu dit,Secroup,12600,Thérondels,681047.27,6419804.78,IMB/12252/X/001O,1077,,route,de la Mothe,12260,Salles-Courbatiès,628654.5681,6374597.164,0
+12096_0360_00003,3,,avenue,d'Estaing,12500,Espalion,681273.03,6380636.04,IMB/12096/X/001Y,3,,avenue,d'Estaing,12500,Espalion,681260.0901,6380637.006,1
+12096_0480_00039,39,,avenue,de la Gare,12500,Espalion,681287.73,6380129.67,IMB/12096/X/004A,39,,avenue,de la Gare,12500,Espalion,681300.1964,6380126.217,1
+12096_0840_00013,13,,rue,de Perse,12500,Espalion,681290.78,6380192.87,IMB/12096/X/0169,13,,rue,de Perse,12500,Espalion,681283.4039,6380203.483,1
+12096_1265_00004,4,,rue,du Soleil Levant,12500,Espalion,681292.7,6379955.15,IMB/12026/X/000R,48,,impasse,du Fourniol,12310,Bertholène,682844.5919,6367956.211,0
+12096_a007_00020,20,,lotissement,les Hauts de Calières,12500,Espalion,681323.87,6381081.89,IMB/12197/X/00WF,10,,rue,des de Panât,12170,Réquista,662911.6282,6325866.628,0
+12096_a007_00022,22,,lotissement,les Hauts de Calières,12500,Espalion,681338.39,6381103.51,IMB/12096/X/00TI,22,,lotissement,les Hauts de Calière,12500,Espalion,681351.3192,6381104.321,1
+12096_0660_00022,22,,avenue,de Laguiole,12500,Espalion,681358.51,6380841.51,IMB/12096/X/0056,22,,avenue,de Laguiole,12500,Espalion,681358.5668,6380854.504,1
+12223_4i1veq_00002,2,,impasse,de la Deveze de Vic,12420,Argences en Aubrac,681408.2,6411725.18,IMB/12244/X/00ET,5,,impasse,de Comberoubi,12490,St-Rome-de-Tarn,692788.0754,6327020.177,0
+12096_0420_00003,3,,rue,de la Fontsange,12500,Espalion,681434.09,6379955.61,IMB/12100/X/00C1,48,,rue,de Borredon,12300,Firmi,645123.0735,6383396.403,0
+12096_0420_00005,5,,rue,de la Fontsange,12500,Espalion,681445.58,6379943.69,IMB/12157/X/00I0,40,,rue,des Écoles,12630,Montrozier,676687.7378,6366219.854,0
+12096_0420_00007,7,,rue,de la Fontsange,12500,Espalion,681454.61,6379935.34,IMB/12049/X/007R,23,,route,de Polissal,12580,Campuac,667045.9212,6384959.631,0
+12096_0420_00009,9,,rue,de la Fontsange,12500,Espalion,681463.72,6379925.65,IMB/12168/X/00IK,18,,rue,du Faubourg Bas,12230,Nant,724382.3311,6324658.676,0
+12096_0420_00002,2,,rue,de la Fontsange,12500,Espalion,681605.01,6379754.05,IMB/12168/X/00JC,18,,rue,du Faubourg Haut,12230,Nant,724019.5805,6324928.221,0
+12096_0420_00004,4,,rue,de la Fontsange,12500,Espalion,681629.91,6379735.65,IMB/12026/X/00GV,1280,,rue,de la Mine,12310,Bertholène,681043.4083,6365003.857,0
+12096_0420_00006,6,,rue,de la Fontsange,12500,Espalion,681672.49,6379727.64,IMB/12168/X/00IX,29,,rue,du Faubourg Bas,12230,Nant,724377.9079,6324712.139,0
+12280_sqycr6_00002,2,,lieu dit,Banes,12600,Thérondels,681689.1,6421023.4,IMB/12280/X/002E,2,,lieu dit,Banes,12600,Thérondels,681680.4424,6421033.009,1
+12064_0030_00530,530,,route,du Baures,12500,Le Cayrol,681861.44,6388306.42,IMB/12052/X/01NS,44,,rue,Vincent Auriol,12700,Capdenac-Gare,627175.3152,6385599.97,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12119/X/00BD,12,,rue,Marcellin Cazes,12210,Laguiole,687327.0143,6398576.677,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12282/X/003X,7,,residence,les Faysses,12250,Tournemire,701858.5404,6318228.599,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12057/X/000N,8,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662247.3647,6341216.504,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12033/X/00EO,6,,rue,Marc André Fabre,12340,Bozouls,677827.2457,6374780.125,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12131/X/0026,14,,chemin,de la Bourgade,12740,La Loubière,670550.3503,6367863.699,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12305/X/00CT,28,,rue,de Cérons,12110,Viviez,639057.756,6383399.381,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12169/X/00AC,11,,avenue,de Sauveterre de Rouergue,12800,Naucelle,647065.5206,6345065.067,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12301/X/0190,24,,faubourg,du Grès,12260,Villeneuve,623252.6239,6371171.837,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12089/X/01FF,55,b,rue,Edouard Vaillant,12300,Decazeville,639601.0179,6384676.335,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12052/X/00ZQ,3,,rue,des Oeillets,12700,Capdenac-Gare,627226.1456,6385784.763,0
+12253_4e04kw_00080,80,,route,de Saint-Martin,12410,Salles-Curan,681922.82,6342467.44,IMB/12270/X/03L5,30,,avenue,de Paris,12150,Sévérac d'Aveyron,705202.8862,6358820.189,0
+12096_0541_00018,18,,rue,les Hauts du Roc,12500,Espalion,681962.21,6380535.49,IMB/12208/X/00PR,72,,chemin,de la Croix de Montels,12400,St-Affrique,689908.1766,6318003.773,0
+12253_4e04kw_00028,28,,route,de Saint-Martin,12410,Salles-Curan,682044.02,6343419.45,IMB/12253/X/00RQ,28,,route,de Saint-Martin,12410,Salles-Curan,682040.6415,6343406.954,1
+12096_1120_00034,34,,avenue,de Saint-Côme,12500,Espalion,682136.58,6380399.91,IMB/12052/X/01KI,34,,rue,Roger Salengro,12700,Capdenac-Gare,627434.6672,6385513.479,0
+12096_1120_00052,52,,avenue,de Saint-Côme,12500,Espalion,682257.02,6380301.7,IMB/12052/X/00M7,14,,lotissement,le Ségala,12700,Capdenac-Gare,627355.6289,6386011.217,0
+12096_0376_00003_c,3,c,rue,de Flaujac,12500,Espalion,682528.39,6380233.85,IMB/12210/X/002Y,660,,route,de Laguepie,12270,St-André-de-Najac,622841.9184,6343760.591,0
+12253_0090_00016,16,,chemin,de la Fourniserie,12410,Salles-Curan,682642.23,6342495.42,IMB/12253/X/01PC,16,,chemin,de la Fourniserie,12410,Salles-Curan,682638.7928,6342507.896,1
+12253_gz6m5l_00009,9,,rue,du Lavoir,12410,Salles-Curan,682860.11,6342502.49,IMB/12253/X/004F,9,,rue,du Lavoir,12410,Salles-Curan,682859.596,6342489.523,1
+12096_0423_00015,15,,rue,du Barri,12500,Espalion,683135.02,6380918.91,IMB/12303/X/001C,35,,place,de Bel Air,12310,Vimenet,694114.9015,6366565.374,0
+12026_0129_00034,34,,impasse,des Souches,12310,Bertholène,683214.8,6366027.84,IMB/12026/X/00F3,34,,impasse,des Souches,12310,Bertholène,683215.1816,6366040.798,1
+12253_qcbga8_00003,3,,lieu dit,Marragou,12410,Salles-Curan,683351.05,6342697.71,IMB/12138/X/009J,14,,avenue,de Malviès,12330,Marcillac-Vallon,657537.7558,6375070.335,0
+12253_qcbga8_00005,5,,lieu dit,Marragou,12410,Salles-Curan,683369.27,6342693.78,IMB/12253/X/016W,5,,lieu dit,Marragou,12410,Salles-Curan,685131.6231,6342475.365,1
+12253_qcbga8_00004,4,,lieu dit,Marragou,12410,Salles-Curan,683425.98,6342673.74,IMB/12253/X/01N9,4,,lieu dit,Marragou,12410,Salles-Curan,682159.6203,6341748.058,1
+12026_0030_00012,12,,ruelle,des Cedres,12310,Bertholène,683430.36,6365036.79,IMB/12026/X/002V,12,,ruelle,des Cèdres,12310,Bertholène,683421.3542,6365046.163,1
+12064_0013_00032,32,,route,de l’Aubrac,12500,Le Cayrol,683530.72,6387677.21,IMB/12300/X/021R,4,,cote,de Graves,12200,Villefranche-de-Rouergue,622224.2187,6362969.451,0
+12106_lv1tyf_00152,152,,rue,Maurice Anglade,12340,Gabriac,683620.44,6372491.68,IMB/12060/X/001M,51,,impasse,du Bosc,12800,Castelmary,641043.6899,6340824.296,0
+12273_0023_00001,1,,route,du Champ Grand,12210,Soulages-Bonneval,683681.9,6397498.63,IMB/12273/X/002V,1,,route,du Champ Grand,12210,Soulages-Bonneval,683669.6687,6397502.964,1
+12223_llzq7e_00003,3,,rue,Alexis Monteil,12420,Argences en Aubrac,684271.48,6409710.9,IMB/12223/X/008U,3,,rue,Alexis Monteil,12420,Argences en Aubrac,684272.1308,6409723.824,1
+12216_0419_00011,11,,avenue,de Saint Geniez,12500,Saint-Côme-d'Olt,685032.06,6379574.31,IMB/12273/X/002Z,3,,rue,de la Fage,12210,Soulages-Bonneval,683850.7665,6397332.412,0
+12120_0095_00005,5,,impasse,des Bruyères,12310,Laissac-Sévérac l'Église,685369.2,6364769.25,IMB/12224/X/011S,13,,rue,Serpantie,12130,St-Geniez-d'Olt-et-d'Aubrac,698064.2651,6373596.694,0
+12120_0095_00001,1,,impasse,des Bruyères,12310,Laissac-Sévérac l'Église,685375.97,6364801.45,IMB/12120/X/0076,1,,impasse,des Bruyères,12310,Laissac-Sévérac l'Église,685383.9378,6364811.731,1
+12120_0120_00003,3,,impasse,du Crès,12310,Laissac-Sévérac l'Église,685399.78,6364591.32,IMB/12120/X/0094,3,,impasse,du Crès,12310,Laissac-Sévérac l'Église,685411.9392,6364595.738,1
+12120_0051_00421,421,,avenue,de Rodez,12310,Laissac-Sévérac l'Église,685448.03,6364683.19,IMB/12286/X/00EP,101,,rue,du Mas de Gantou,12400,Vabres-l'Abbaye,686636.7719,6316007.614,0
+12120_0048_00002,2,,rue,du Pendelys,12310,Laissac-Sévérac l'Église,685491.33,6364665.65,IMB/12120/X/00NZ,2,,rue,du Pendelys,12310,Laissac-Sévérac l'Église,685481.9442,6364656.738,1
+12216_0251_00010,10,,rue,des Ginestes,12500,Saint-Côme-d'Olt,685838.87,6379608.1,IMB/12189/X/003A,268,,route,de la Bessière,12240,Pradinas,641111.3439,6352390.232,0
+12286_0109_00305,305,,avenue,Montplaisir,12400,Vabres-l'Abbaye,686586.86,6316384.29,IMB/12286/X/003L,305,,avenue,Montplaisir,12400,Vabres-l'Abbaye,686581.7043,6316372.415,1
+12286_0105_00127,127,,rue,du Mas de Gantou,12400,Vabres-l'Abbaye,686648.63,6315980.03,IMB/12253/X/007P,10,,rue,du 19 Mars 1962,12410,Salles-Curan,682860.3372,6342429.238,0
+12286_0075_00001,1,,rue,des Genets,12400,Vabres-l'Abbaye,686653.74,6316460.37,IMB/12280/X/0016,7,,village,de Ladinhac,12600,Thérondels,677917.0669,6419950.464,0
+12286_0095_00017,17,,rue,des Jardins,12400,Vabres-l'Abbaye,686818.57,6316041.23,IMB/12286/X/016L,17,,rue,des Jardins,12400,Vabres-l'Abbaye,686816.3342,6316028.509,1
+12286_0105_00556,556,,rue,du Mas de Gantou,12400,Vabres-l'Abbaye,686902.78,6315960.61,IMB/12105/X/00AC,5,,rue,du Cavagnal,12270,La Fouillade,623225.4566,6348122.399,0
+12266_n1qmnr_00501,501,,route,des Abiouradous,12290,Ségur,686914.31,6356642.99,IMB/12120/X/005X,10,,chemin,des Pesquiés,12310,Laissac-Sévérac l'Église,687671.9202,6362646.742,0
+12286_0140_00210,210,,rue,du Pesquie,12400,Vabres-l'Abbaye,687084.06,6316116.02,IMB/12286/X/00BU,210,,rue,du Pesquié,12400,Vabres-l'Abbaye,687079.7957,6316128.295,1
+12286_0056_00012,12,,rue,des Espalies,12400,Vabres-l'Abbaye,687104.12,6316184.98,IMB/12101/X/00A1,294,,route,de la Garrigal,12300,Flagnac,640444.938,6389584.315,0
+12119_o6r0um_00004,4,,rue,Marcellin Cazes,12210,Laguiole,687456.72,6398405.64,IMB/12254/X/00VG,94,,rue,du Couvent,12330,Salles-la-Source,661924.3061,6368060.445,0
+12120_0288_00320,320,,rue,du Ségala,12310,Laissac-Sévérac l'Église,687676.4,6363088.61,IMB/12120/X/00QQ,320,,rue,du Ségala,12310,Laissac-Sévérac l'Église,687680.9195,6363100.737,1
+12120_0274_00087,87,,rue,du Ladou,12310,Laissac-Sévérac l'Église,687685.91,6362617.45,IMB/12120/X/00NK,87,,rue,du Ladou,12310,Laissac-Sévérac l'Église,687677.9141,6362627.74,1
+12120_0288_00271,271,,rue,du Ségala,12310,Laissac-Sévérac l'Église,687703.5,6363053.12,IMB/12052/X/010X,15,,rue,du 19 Mars 1962,12700,Capdenac-Gare,627658.436,6385547.679,0
+12120_0283_00175,175,,rue,du Portalet,12310,Laissac-Sévérac l'Église,687753.51,6362910.49,IMB/12120/X/00P6,175,,rue,du Portalet,12310,Laissac-Sévérac l'Église,687743.9192,6362901.743,1
+12120_0283_00105,105,,rue,du Portalet,12310,Laissac-Sévérac l'Église,687776.99,6362897.78,IMB/12120/X/00P5,105,,rue,du Portalet,12310,Laissac-Sévérac l'Église,687777.9213,6362910.737,1
+12307_0079_01316,1316,,route,de la Loubiere,12410,Curan,687836.8,6345263.79,IMB/12052/X/01GR,16,,rue,Paul Bert,12700,Capdenac-Gare,627078.9518,6386483.787,0
+12119_0392_00017,17,,rue,Val d’Aubrac,12210,Laguiole,688037.41,6398032.73,IMB/12119/X/00M0,17,,rue,Val d'Aubrac,12210,Laguiole,688027.4918,6398024.333,1
+12119_a010_00006,6,,residence,du Clos,12210,Laguiole,688139.49,6398119.18,IMB/12203/X/00A4,8,,rue,Saint-Privât,12250,Roquefort-sur-Soulzon,696801.0754,6319367.625,0
+12223_5in80c_00015,15,,rue,du Moulin de Vedrines,12420,Argences en Aubrac,688284.27,6411335.4,IMB/12189/X/004O,1474,,route,de Peyrou,12240,Pradinas,642591.6909,6347353.396,0
+12307_0130_00042,42,,place,du Vioulou,12410,Curan,688370.92,6344634.62,IMB/12252/X/0055,1079,,route,de Maillergues,12260,Salles-Courbatiès,626280.0161,6376355.395,0
+12061_wahds3_00012,12,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688550.22,6379174.56,IMB/12062/X/0029,2410,,Route,de Bouloc,12620,Castelnau-Pégayrols,693585.4606,6339855.155,0
+12061_wahds3_00024,24,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688562.37,6379166.87,IMB/12062/X/002A,1878,,Route,de Bouloc,12620,Castelnau-Pégayrols,694115.0772,6339859.872,0
+12061_wahds3_00032,32,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688571.75,6379170.41,IMB/12062/X/002B,1874,,Route,de Bouloc,12620,Castelnau-Pégayrols,694141.6671,6339863.044,0
+12061_wahds3_00040,40,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688576.98,6379162.29,IMB/12062/X/002C,1873,,Route,de Bouloc,12620,Castelnau-Pégayrols,694070.4466,6339826.032,0
+12061_wahds3_00050,50,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688587.39,6379159.94,IMB/12062/X/002D,555,,Route,de Bouloc,12620,Castelnau-Pégayrols,693943.5043,6340327.389,0
+12061_wahds3_00088,88,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688622.98,6379150.21,IMB/12062/X/002G,1061,,Route,de Galinouse,12620,Castelnau-Pégayrols,691385.6197,6338395.063,0
+12061_wahds3_00104,104,,Route,de Mandailles,12500,Castelnau-de-Mandailles,688638.55,6379142.41,IMB/12062/X/002H,931,,Route,de Galinouse,12620,Castelnau-Pégayrols,691227.8339,6338381.448,0
+12266_o1rv7w_05078,5078,,route,du Haut Lévézou,12290,Ségur,689052.18,6349142.03,IMB/12266/X/00BH,5078,,route,du Haut Lévézou,12290,Ségur,687695.9753,6349129.452,1
+12208_0373_00007,7,,rue,Chantefriboule,12400,Saint-Affrique,689659.41,6317761.47,IMB/12208/X/01RS,7,,rue,Chantefriboule,12400,St-Affrique,689648.4405,6317754.569,1
+12208_0191_00038,38,,rue,Georges Brassens,12400,Saint-Affrique,689779.22,6318047.73,IMB/12268/X/004V,45,,place,Saint-Martin,12320,Sénergues,659174.135,6389687.616,0
+12208_0194_00016,16,,rue,Jacques Brel,12400,Saint-Affrique,689785.62,6318132.06,IMB/12120/X/00O4,8,,rue,du Pendelys,12310,Laissac-Sévérac l'Église,685533.9387,6364614.731,0
+12208_0191_00001,1,,rue,Georges Brassens,12400,Saint-Affrique,689823.57,6318073.11,IMB/12301/X/0003,16,,lotissement,la Marelle,12260,Villeneuve,623456.5024,6371306.514,0
+12061_fiqhs9_00013,13,,chemin,de la Calade,12500,Castelnau-de-Mandailles,689965.17,6384396.37,IMB/12053/X/003D,813,,route,de Graves,12260,La Capelle-Balaguier,614765.6268,6370814.312,0
+12296_0095_00019,19,,place,de l’Horloge,12490,Viala-du-Tarn,690174.25,6330334.8,IMB/12300/X/00NZ,14,,avenue,de Fondies,12200,Villefranche-de-Rouergue,622486.2683,6361355.604,0
+12208_1557_00002,2,,boulevard,de la Résistance,12400,Saint-Affrique,690181.66,6317796.53,IMB/12208/X/00H3,2,,boulevard,de la Résidence,12400,St-Affrique,691548.8344,6317095.244,1
+12044_0020_00027,27,,rue,du Barry,12360,Camarès,690239.3,6302858.99,IMB/12056/X/00LL,344,,avenue,de la Gare,12160,Baraqueville,654424.678,6352796.265,0
+12044_0100_00004,4,,avenue,de Brusque,12360,Camarès,690268.1,6302385.11,IMB/12044/X/0010,4,,avenue,de Brusque,12360,Camarès,690255.0731,6302384.795,1
+12044_0216_00013,13,,rue,des Genêts,12360,Camarès,690300.51,6303329.39,IMB/12300/X/07D1,52,b,route,de la Baume,12200,Villefranche-de-Rouergue,623939.8365,6361313.888,0
+12044_0216_00015,15,,rue,des Genêts,12360,Camarès,690314.54,6303346.6,IMB/12044/X/00FO,15,,rue,des Genêts,12360,Camarès,690310.0719,6303358.833,1
+12044_0216_00021,21,,rue,des Genêts,12360,Camarès,690363.95,6303408.97,IMB/12300/X/03OV,28,,rue,Sainte-Émilie de Rôdât,12200,Villefranche-de-Rouergue,622884.8394,6361616.384,0
+12208_0345_00028,28,,avenue,des Cazes,12400,Saint-Affrique,690373.1,6317961.25,IMB/12208/X/0050,28,,avenue,des Cazes,12400,St-Affrique,690368.6602,6317973.5,1
+12044_0216_00003,3,,rue,des Genêts,12360,Camarès,690388.22,6303289.7,IMB/12044/X/00FI,3,,rue,des Genêts,12360,Camarès,690396.3147,6303279.638,1
+12044_0290_00008,8,,rue,Jean Maroger,12360,Camarès,690388.98,6302196.9,IMB/12277/X/00A2,124,,chemin,des Montagnes,12600,Taussac,672091.9624,6412933.165,0
+12208_0854_00003,3,,rue,Jean Moulin,12400,Saint-Affrique,690435.73,6317657.36,IMB/12208/X/02I1,3,,rue,Jean Moulin,12400,St-Affrique,690441.0495,6317645.495,1
+12061_07jucp_00003,3,,Chemin,du Moulin,12500,Castelnau-de-Mandailles,690522.76,6378489.55,IMB/12062/X/00I0,17,,Rue,des Moulins,12620,Castelnau-Pégayrols,694608.6606,6336779.622,0
+12061_07jucp_00002,2,,Chemin,du Moulin,12500,Castelnau-de-Mandailles,690523.4,6378494.1,IMB/12062/X/005J,25,,Rue,des Moulins,12620,Castelnau-Pégayrols,694611.7308,6336787.119,0
+12061_07jucp_00001,1,,Chemin,du Moulin,12500,Castelnau-de-Mandailles,690543.3,6378511.96,IMB/12062/X/005I,14,,Rue,des Moulins,12620,Castelnau-Pégayrols,694629.6002,6336789.186,0
+12177_bypuyl_00123,123,,route,de la Combette,12310,Palmas d'Aveyron,690593.01,6368326.47,IMB/12300/X/016Z,14,,avenue,Vincent Cibiel,12200,Villefranche-de-Rouergue,622872.9956,6362173.901,0
+12061_ymyzhs_00010,10,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690692.56,6378813.44,IMB/12061/X/0038,10,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690688.8587,6378819.451,1
+12061_ymyzhs_00006,6,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690716.55,6378856.61,IMB/12061/X/003B,6,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690688.5705,6378864.689,1
+12061_ymyzhs_00011,11,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690718.95,6378814.95,IMB/12061/X/003K,11,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690718.0214,6378811.293,1
+12061_ymyzhs_00008,8,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690722.88,6378835.94,IMB/12061/X/0039,8,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690697.5643,6378832.985,1
+12061_ymyzhs_00009,9,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690741.17,6378839.69,IMB/12061/X/003U,9,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690739.2701,6378838.24,1
+12061_ymyzhs_00007,7,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690743.81,6378853.24,IMB/12061/X/003W,7,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690745.4251,6378850.484,1
+12061_ymyzhs_00005,5,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690748.51,6378858.46,IMB/12061/X/003V,5,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690750.7485,6378845.574,1
+12061_ymyzhs_00003,3,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690752.01,6378863.56,IMB/12061/X/003X,3,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690760.4937,6378866.291,1
+12061_wahds3_00002,2,,Route,de Mandailles,12500,Castelnau-de-Mandailles,690756.89,6378884.22,IMB/12062/X/0028,2546,,Route,de Bouloc,12620,Castelnau-Pégayrols,693469.2538,6339721.939,0
+12061_ymyzhs_00001,1,,Rue,Lou Calat,12500,Castelnau-de-Mandailles,690773.6,6378892.52,IMB/12061/X/003Z,1,,Rue,lou Calat,12500,Castelnau-de-Mandailles,690775.7679,6378889.899,1
+12044_0100_00044,44,,avenue,de Brusque,12360,Camarès,690774.14,6301469.8,IMB/12300/X/03MR,18,,rue,Robert Maurel,12200,Villefranche-de-Rouergue,622072.4687,6362246.59,0
+12061_wahds3_03742,3742,,route,de Mandailles,12500,Castelnau-de-Mandailles,690803.2,6378913.81,IMB/12044/X/000Y,3,,avenue,de Brusque,12360,Camarès,690287.0907,6302377.762,0
+12208_0880_00005,5,,rue,Kléber,12400,Saint-Affrique,690810.19,6317676.25,IMB/12208/X/02IW,5,,rue,Kléber,12400,St-Affrique,690816.995,6317687.305,1
+12061_wahds3_03768,3768,,route,de Mandailles,12500,Castelnau-de-Mandailles,690820.4,6378931.44,IMB/12036/X/001Y,30,,rue,de la Moulière,12600,Brommat,678883.1141,6417576.957,0
+12208_0840_00014,14,,rue,Jean-Jacques Rousseau,12400,Saint-Affrique,690828.13,6317587.89,IMB/12208/X/02HQ,14,,rue,Jean Jacques Rousseau,12400,St-Affrique,690835.5301,6317598.576,1
+12061_c6ocbt_00971,971,,route,de Cayrac,12500,Castelnau-de-Mandailles,690919.76,6382061.52,IMB/12061/X/00N6,971,,route,de Cayrac,12500,Castelnau-de-Mandailles,690925.5242,6382049.909,1
+12208_1540_00034,34,,boulevard,de la République,12400,Saint-Affrique,691063.99,6317614.44,IMB/12111/X/003F,14,,place,du Bout du Lieu,12390,Goutrens,649766.8429,6371971.899,0
+12107_718v88_00085,85,,impasse,du Four,12310,Gaillac-d'Aveyron,691169.17,6363960.8,IMB/12107/X/000I,85,,impasse,du Four,12310,Gaillac-d'Aveyron,691164.2068,6363972.768,1
+12208_0425_00673,673,,route,de Couat,12400,Saint-Affrique,691276.55,6316051.2,IMB/12208/X/01L1,673,,route,de Couat,12400,St-Affrique,691287.7188,6316044.543,1
+12107_95f85f_00302,302,,rue,Principale,12310,Gaillac-d'Aveyron,691297.28,6364121.82,IMB/12107/X/001J,302,,rue,Principale,12310,Gaillac-d'Aveyron,691308.2795,6364128.698,1
+12208_0659_00001,1,,rue,de la Gare,12400,Saint-Affrique,691313.52,6317310.86,IMB/12021/X/00D7,1,,moulin,Blanc,12240,Le Bas Ségala,634549.1479,6352895.711,0
+12208_1564_00008,8,,rue,des Rives,12400,Saint-Affrique,691400.75,6316760.83,IMB/12089/X/000M,13,,avenue,Cabrol,12300,Decazeville,640655.6794,6384775.093,0
+12208_1765_00012,12,,impasse,de la Sorgues,12400,Saint-Affrique,691402.68,6316647.49,IMB/12225/X/0089,4,,place,du Bouscaillou,12100,St-Georges-de-Luzençon,698649.9399,6329561.741,0
+12208_0780_00451,451,,avenue,Hippolyte Barascud,12400,Saint-Affrique,691405.66,6318075.21,IMB/12208/X/009G,451,,avenue,Hippolyte Barascud,12400,St-Affrique,691403.8076,6318088.062,1
+12208_0454_00172,172,,chemin,de la Croix Sainte Anne,12400,Saint-Affrique,691418.8,6316099.34,IMB/12208/X/00QM,172,,chemin,de la Croix Sainte-Anne,12400,St-Affrique,691409.7076,6316090.037,1
+12208_1555_00002,2,,boulevard,de la Résidence,12400,Saint-Affrique,691543.93,6317098.32,IMB/12208/X/00H7,2,,boulevard,de la Résistance,12400,St-Affrique,690207.2413,6317812.966,1
+12208_0391_00523,523,,chemin,des Combes,12400,Saint-Affrique,691543.98,6317673.45,IMB/12048/X/000R,41,,place,Saint-Géraud,12460,Campouriez,666635.7945,6396942.704,0
+12208_0110_00016,16,,rue,Basile Gavalda,12400,Saint-Affrique,691575.49,6317346.07,IMB/12203/X/003Z,6,,impasse,des Aumets,12250,Roquefort-sur-Soulzon,696756.1592,6318823.49,0
+12208_0475_00012,12,,rue,du Docteur Caussat,12400,Saint-Affrique,691592.03,6316568.68,IMB/12208/X/025W,12,,rue,du Docteur Caussat,12400,St-Affrique,691582.1602,6316577.184,1
+12044_wtkmtf_00285,285,,chemin,de Rodières,12360,Camarès,691655.75,6300527.35,IMB/12056/X/01PX,48,,place,Monseigneur Séguy,12160,Baraqueville,659559.8408,6357571.444,0
+12208_1344_00014,14,,voie,de la Passerelle,12400,Saint-Affrique,691708.82,6316488.41,IMB/12208/X/005Z,14,,voie,de la Passerelle,12400,St-Affrique,690776.0474,6317898.101,1
+12244_0105_00005,5,,rue,du Lévèjac,12490,Saint-Rome-de-Tarn,691897.64,6327649.98,IMB/12043/X/00DB,64,,impasse,du Puits,12450,Calmont,661900.2416,6353062.826,0
+12208_1301_00028,28,,impasse,du Moulin de Madame,12400,Saint-Affrique,691983.73,6316449.17,IMB/12052/X/01OS,35,,rue,Voltaire,12700,Capdenac-Gare,627003.3125,6385857.472,0
+12244_0174_00005,5,,rue,de Prat de Barres,12490,Saint-Rome-de-Tarn,692075.2,6327437.2,IMB/12083/X/00HE,70,,rue,Jules Guesde,12110,Cransac,641971.2562,6381189.664,0
+12061_4qpf5p_00078,78,,chemin,de Roumegous,12500,Castelnau-de-Mandailles,692269.14,6379549.9,IMB/12037/X/000X,8,,avenue,de Saint-Affrique,12480,Broquiès,675718.26,6322966.691,0
+12244_0198_00635,635,,avenue,Saint-Ferréols,12490,Saint-Rome-de-Tarn,692277.45,6327353.39,IMB/12244/X/006E,635,,avenue,Saint-Ferreols,12490,St-Rome-de-Tarn,692290.1702,6327350.761,1
+12124_ygi9mm_04774,4774,,route,de Saint Saby,12500,Lassouts,692311.94,6376986.13,IMB/12299/X/00D7,7,,rue,des Pénitents Blancs,12430,Villefranche-de-Panat,676572.6993,6331233.241,0
+12244_0062_00048,48,,rue,des Cyprés,12490,Saint-Rome-de-Tarn,692323.09,6327316.34,IMB/12244/X/006L,48,,rue,des Cyprès,12490,St-Rome-de-Tarn,692320.3223,6327303.675,1
+12244_0183_00030,30,,impasse,du Relais,12490,Saint-Rome-de-Tarn,692424.77,6327235,IMB/12244/X/00EX,30,,impasse,du Relais,12490,St-Rome-de-Tarn,692425.3871,6327222.061,1
+12062_bkl7xu_00376,376,,route,du sahut,12620,Castelnau-Pégayrols,692427.55,6337372.59,IMB/12094/X/00FQ,11,,impasse,du Château,12140,Entraygues-sur-Truyère,665424.7488,6394011.838,0
+12244_a094_00002,2,,lotissement,Saint Ferréols,12490,Saint-Rome-de-Tarn,692472.71,6327109.94,IMB/12244/X/00FL,2,,lotissement,Saint-Ferreols,12490,St-Rome-de-Tarn,692483.7193,6327116.736,1
+12107_to9hjq_00009,9,,place,de l’Ancien Four,12310,Gaillac-d'Aveyron,692481.38,6361938.13,IMB/12107/X/006N,9,,place,de l'Ancien Four,12310,Gaillac-d'Aveyron,692487.7584,6361926.809,1
+12244_a094_00004,4,,lotissement,Saint Ferréols,12490,Saint-Rome-de-Tarn,692506.89,6327143.57,IMB/12244/X/00F4,4,,lotissement,Saint-Ferreols,12490,St-Rome-de-Tarn,692496.892,6327135.246,1
+12303_0066_00193,193,,rue,de la Gardette,12310,Vimenet,693928.2,6366991.51,IMB/12303/X/003S,193,,rue,de la Gardette,12310,Vimenet,693920.8585,6366980.871,1
+12303_0044_00012,12,,place,du Cayre,12310,Vimenet,694205.54,6366598.66,IMB/12303/X/001N,12,,place,du Cayre,12310,Vimenet,694216.0963,6366606.23,1
+12107_0nnxsl_00002,2,,rue,de la Voie Ferree,12310,Gaillac-d'Aveyron,694208.91,6361859.31,IMB/12107/X/003I,2,,rue,de la Voie Ferrée,12310,Gaillac-d'Aveyron,694214.3874,6361871.058,1
+12039_jqn8vi_00126,126,,chemin,de la barraque,12360,Brusque,694246.36,6295951.5,IMB/12061/X/0075,107,,route,de Castelnau,12500,Castelnau-de-Mandailles,688658.3447,6379196.507,0
+12009_uf4vb6_00008,8,,sentier,des Cretes,12360,Arnac-sur-Dourdou,694327.56,6291898.08,IMB/12009/X/002O,8,,sentier,des Crêtes,12360,Arnac-sur-Dourdou,694327.557,6291911.003,1
+12062_mxokdp_00065,65,,lotissement,le chant du sol,12620,Castelnau-Pégayrols,694356.86,6336717.06,IMB/12298/X/003N,2,,lieu dit,le Garric,12580,Villecomtal,666979.2433,6381758.514,0
+12303_0092_00011,11,,rue,de la Pierre Levee,12310,Vimenet,694357.38,6366638.07,IMB/12303/X/0047,11,,rue,de la Pierre Levée,12310,Vimenet,694357.9342,6366651.029,1
+12303_0092_00079,79,,rue,de la Pierre Levee,12310,Vimenet,694423.79,6366618.91,IMB/12044/X/006W,23,,,Grand Rue,12360,Camarès,690189.9461,6302608.353,0
+12107_onn5tr_00024,24,,impasse,des Porches,12310,Gaillac-d'Aveyron,694437.79,6361821.22,IMB/12107/X/00B4,24,,impasse,des Porches,12310,Gaillac-d'Aveyron,694447.2313,6361830.114,1
+12039_4e9m91_00426,426,,chemin,de viales,12360,Brusque,694527.42,6297984,IMB/12039/X/008T,426,,chemin,de Viales,12360,Brusque,694516.1674,6297977.423,1
+12062_nrr6d1_01579,1579,,route,de rouviac,12620,Castelnau-Pégayrols,694615.94,6338548.94,IMB/12056/X/00Q5,222,,rue,des Cazalets,12160,Baraqueville,654088.1385,6352506.614,0
+12187_kwhzek_01293,1293,,route,du Serre,12470,Prades-d'Aubrac,694709.81,6382125.05,IMB/12187/X/002Q,1293,,route,du Serre,12470,Prades-d'Aubrac,694699.357,6382117.386,1
+12062_j4e79s_02697,2697,,route,de roquetaillaide,12620,Castelnau-Pégayrols,694779.5,6335205.56,IMB/12255/X/00CQ,2139,,route,des Lacs,12120,Salmiech,670625.4002,6346697.085,0
+12187_cynfd3_00004,4,,rue,de la Calade,12470,Prades-d'Aubrac,694964.76,6381529.99,IMB/12224/X/00GE,11,,place,du Général de Gaulle,12130,St-Geniez-d'Olt-et-d'Aubrac,697986.4007,6373942.572,0
+12187_tukoxw_00004,4,,place,Saint Laurent,12470,Prades-d'Aubrac,695184.2,6381612.13,IMB/12187/X/003K,4,,place,Saint-Laurent,12470,Prades-d'Aubrac,695187.8841,6381624.553,1
+12039_m1ytm2_00080,80,,impasse,des jardins,12360,Brusque,695205.38,6299077.38,IMB/12286/X/00BA,11,,rue,des Condamines,12400,Vabres-l'Abbaye,686463.0253,6316104.32,0
+12009_xge3xi_01745,1745,,route,de Brusque,12360,Arnac-sur-Dourdou,695625,6292126.21,IMB/12056/X/00JJ,243,,rue,des Cazalets,12160,Baraqueville,654117.161,6352534.142,0
+12039_0048_00135,135,,chemin,de la Dent de Saint-Jean,12360,Brusque,695894.63,6296345.61,IMB/12039/X/0092,135,,chemin,de la Dent de Saint-Jean,12360,Brusque,695894.7464,6296358.621,1
+12039_0093_00325,325,,avenue,du Midi,12360,Brusque,695962.28,6296725.07,IMB/12194/X/00C3,77,,place,du Castel,12800,Quins,647196.3358,6349766.787,0
+12294_0028_00008,8,,Rue,du Château,12780,Vézins-de-Lévézou,696185.33,6353366.02,IMB/12294/X/009I,3,,Rue,du Château,12780,Vézins-de-Lévézou,696208.8182,6353321.756,0
+12294_0028_00007,7,,Rue,du Château,12780,Vézins-de-Lévézou,696198.88,6353337.35,IMB/12294/X/009H,1,,Rue,du Château,12780,Vézins-de-Lévézou,696212.8199,6353311.762,0
+12294_0028_00006,6,,Rue,du Château,12780,Vézins-de-Lévézou,696199.52,6353341.35,IMB/12294/X/009G,0,,Rue,du Château,12780,Vézins-de-Lévézou,696162.8107,6353368.758,0
+12039_fzphpr_02455,2455,,chemin,de Moulergues,12360,Brusque,696407.39,6297752.07,IMB/12039/X/002E,2455,,chemin,de Moulergues,12360,Brusque,696395.0512,6297747.917,1
+12224_lxqsfe_00005,5,,Chateau,de la Falque,12130,Saint Geniez d'Olt et d'Aubrac,696722.73,6373747.02,IMB/12224/X/005L,5,,Château,de la Falque,12130,St-Geniez-d'Olt-et-d'Aubrac,696722.7305,6373746.948,1
+12187_bbmcbr_04192,4192,,route,des Crouzets,12470,Prades-d'Aubrac,696754.32,6381297.32,IMB/12056/X/00OU,194,,rue,du Vergnol,12160,Baraqueville,655554.4704,6351191.938,0
+12224_lxqsfe_00003,3,,Chateau,de la Falque,12130,Saint Geniez d'Olt et d'Aubrac,696797.74,6373884.95,IMB/12224/X/005J,3,,Château,de la Falque,12130,St-Geniez-d'Olt-et-d'Aubrac,696797.7399,6373884.77,1
+12224_lxqsfe_00001,1,,Chateau,de la Falque,12130,Saint Geniez d'Olt et d'Aubrac,696808.74,6373933.04,IMB/12224/X/005M,1,,Château,de la Falque,12130,St-Geniez-d'Olt-et-d'Aubrac,696808.7443,6373932.78,1
+12224_lxqsfe_00014,14,,Chateau,de la Falque,12130,Saint Geniez d'Olt et d'Aubrac,696826.33,6373629.55,IMB/12224/X/005K,14,,Château,de la Falque,12130,St-Geniez-d'Olt-et-d'Aubrac,696826.2969,6373629.4,1
+12224_lxqsfe_00006,6,,Chateau,de la Falque,12130,Saint Geniez d'Olt et d'Aubrac,696857.47,6373857.04,IMB/12224/X/005I,6,,Château,de la Falque,12130,St-Geniez-d'Olt-et-d'Aubrac,696857.4178,6373857.094,1
+12224_lxqsfe_00004,4,,Chateau,de la Falque,12130,Saint Geniez d'Olt et d'Aubrac,696859.47,6373884.03,IMB/12224/X/005H,4,,Château,de la Falque,12130,St-Geniez-d'Olt-et-d'Aubrac,696859.4212,6373883.8,1
+12203_0122_00011,11,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696926.48,6318820.48,IMB/12136/X/00JX,1,,impasse,des Cerisiers,12350,Maleville,625710.3295,6367198.256,0
+12203_0122_00013,13,,rue,Robert Migairou,12250,Roquefort-sur-Soulzon,696953.03,6318793.69,IMB/12119/X/00FM,11,,rue,de la Violette,12210,Laguiole,687856.7671,6398432.379,0
+12187_k3byb2_00498,498,,route,du Monteil,12470,Prades-d'Aubrac,696977.27,6382916.68,IMB/12032/X/0013,769,,route,de Cussan,12160,Boussac,650707.5533,6357101.554,0
+12239_0034_00003,3,,impasse,de l’Etoile,12130,Saint-Martin-de-Lenne,697133.53,6370729.47,IMB/12239/X/00GJ,3,,impasse,de l'Étoile,12130,St-Martin-de-Lenne,697123.3297,6370737.436,1
+12239_0111_00017,17,,rue,Tour de Ronde,12130,Saint-Martin-de-Lenne,697138.19,6370140.48,IMB/12239/X/00EH,17,,rue,Tour de Ronde,12130,St-Martin-de-Lenne,697137.707,6370153.42,1
+12239_0117_00014,14,,route,des Vignes,12130,Saint-Martin-de-Lenne,697378.03,6370891.22,IMB/12033/X/01H3,6,,rue,Eugène Vieillescazes,12340,Bozouls,678288.5613,6374514.581,0
+12224_0680_00001,1,,rue,de la Salle,12130,Saint Geniez d'Olt et d'Aubrac,697421.87,6373958.31,IMB/12169/X/00AG,19,,avenue,de Sauveterre de Rouergue,12800,Naucelle,646991.8613,6345203.937,0
+12224_0040_00130,130,,rue,d'Auronne,12130,Saint Geniez d'Olt et d'Aubrac,697444.97,6373659.37,IMB/12224/X/00MB,130,,rue,d'Auronne,12130,St-Geniez-d'Olt-et-d'Aubrac,697438.4633,6373670.593,1
+12224_0405_00020,20,,rue,des Planhes,12130,Saint Geniez d'Olt et d'Aubrac,697524.9,6374389.73,IMB/12224/X/00SV,20,,rue,des Planhes,12130,St-Geniez-d'Olt-et-d'Aubrac,697537.6222,6374387.033,1
+12224_0540_00006,6,,rue,de la Rivière,12130,Saint Geniez d'Olt et d'Aubrac,697680.16,6374149.83,IMB/12224/X/00P3,6,,rue,de la Rivière,12130,St-Geniez-d'Olt-et-d'Aubrac,697671.1512,6374140.568,1
+12224_0220_00021,21,,rue,de l'Hotêl de Ville,12130,Saint Geniez d'Olt et d'Aubrac,697882.91,6374080.22,IMB/12224/X/00ME,21,,rue,de l'Hôtel de Ville,12130,St-Geniez-d'Olt-et-d'Aubrac,697893.8623,6374087.221,1
+12224_0682_00012,12,,rue,Sannié,12130,Saint Geniez d'Olt et d'Aubrac,698230.33,6374137.33,IMB/12001/X/007N,5,,impasse,Emma Calvé,12630,Agen-d'Aveyron,673928.4297,6362202.59,0
+12225_0115_00008,8,,place,du Lèvezou,12100,Saint-Georges-de-Luzençon,698412.97,6329420.5,IMB/12225/X/008J,8,,place,du Lévézou,12100,St-Georges-de-Luzençon,698403.7941,6329429.583,1
+12225_0025_00004,4,,rue,des Assalisses,12100,Saint-Georges-de-Luzençon,698512.8,6329420.04,IMB/12120/X/003B,688,,avenue,de Séverac,12310,Laissac-Sévérac l'Église,686538.9301,6364241.737,0
+12225_0025_00015,15,,rue,des Assalisses,12100,Saint-Georges-de-Luzençon,698551.11,6329500.25,IMB/12225/X/00E7,15,,rue,des Assalisses,12100,St-Georges-de-Luzençon,698542.6022,6329510.01,1
+12225_0187_00015,15,,rue,du Terrefort,12100,Saint-Georges-de-Luzençon,698634.62,6329987.33,IMB/12232/X/003H,41,,route,de Gauty,12250,St-Jean-et-St-Paul,700203.7362,6314265.369,0
+12225_0187_00014,14,,rue,du Terrefort,12100,Saint-Georges-de-Luzençon,698698.07,6329994.2,IMB/12015/X/003C,1723,,route,des Salettes,12120,Auriac-Lagast,666843.8547,6337668.378,0
+12225_0170_00001_bis,1,b,avenue,du Pre de Vabre,12100,Saint-Georges-de-Luzençon,698755.16,6329443.43,IMB/12221/X/0021,195,,route,des Hermies Hautes,12320,St-Félix-de-Lunel,662548.9796,6384191.611,0
+12225_0170_00009,9,,avenue,du Pre de Vabre,12100,Saint-Georges-de-Luzençon,698788.01,6329455.09,IMB/12089/X/002E,46,,avenue,de Fareyres,12300,Decazeville,641200.2952,6385732.087,0
+12225_0130_00002,2,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,698940.41,6329106.96,IMB/12094/X/00JF,1,,rue,du Moulin,12140,Entraygues-sur-Truyère,665422.3032,6394160.615,0
+12225_0130_00003,3,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,698952.99,6329099.84,IMB/12057/X/000K,2,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662343.0879,6341300.824,0
+12225_0130_00005,5,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,698959.31,6329098.07,IMB/12168/X/00JP,25,,rue,du Faubourg Haut,12230,Nant,723974.7114,6324924.114,0
+12225_0130_00006,6,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,698979.1,6329089.84,IMB/12198/X/01K0,2,,hameau,le Garric,12240,Rieupeyroux,637161.3316,6352165.612,0
+12225_0130_00010,10,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,698992,6329087.17,IMB/12098/X/00LL,10,,rue,François d'Estaing,12190,Estaing,673903.9222,6384341.034,0
+12225_0130_00001,1,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,698994.09,6329095.95,IMB/12198/X/00JW,1,,chemin,de la Bade,12240,Rieupeyroux,639190.7382,6356395.759,0
+12225_0130_00008,8,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,699022.77,6329079.61,IMB/12200/X/00YG,24,,,Boyne,12640,Rivière-sur-Tarn,712429.5429,6344923.449,0
+12225_0130_00012,12,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,699041.44,6329078.05,IMB/12011/X/00RA,179,,route,de la Gineste,12120,Arvieu,670037.7043,6342417.099,0
+12225_0130_00012,12,,chemin,des Mines,12100,Saint-Georges-de-Luzençon,699041.44,6329078.05,IMB/12225/X/0038,12,,chemin,des Mines,12100,St-Georges-de-Luzençon,699034.1075,6329067.39,1
+12225_0178_00006,6,,rue,du Soleirol,12100,Saint-Georges-de-Luzençon,699077.21,6329359.04,IMB/12225/X/00KV,6,,rue,du Soleirol,12100,St-Georges-de-Luzençon,699087.9357,6329366.273,1
+12225_0210_00004,4,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699126.72,6329918.24,IMB/12225/X/003Q,4,,chemin,des Vignes,12100,St-Georges-de-Luzençon,699122.6654,6329905.902,1
+12225_0210_00006,6,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699133.76,6329883.02,IMB/12168/X/00IV,25,,rue,du Faubourg Bas,12230,Nant,724365.496,6324725.79,0
+12225_0210_00001,1,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699138.81,6329901.02,IMB/12084/X/002Y,6,,avenue,des Comtes d'Armagnac,12100,Creissels,704865.6847,6331838.835,0
+12225_0210_00003,3,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699144.9,6329873.13,IMB/12185/X/0013,14,,avenue,de Millau,12290,Pont-de-Salars,678859.2307,6353042.05,0
+12225_0210_00008,8,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699150.26,6329864.02,IMB/12159/X/004N,1194,,chemin,de Ponganières,12200,Morlhon-le-Haut,625280.5537,6357291.511,0
+12225_0210_00012,12,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699154.59,6329826.68,IMB/12057/X/000L,4,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662329.6621,6341284.274,0
+12225_0210_00010,10,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699164.12,6329831.68,IMB/12030/X/002P,5,,rue,du Poujol,12300,Bouillac,633797.2502,6387213.953,0
+12225_0210_00005,5,,chemin,des Vignes,12100,Saint-Georges-de-Luzençon,699179.82,6329858.12,IMB/12258/X/007U,1,,,le Rivet,12440,La Salvetat-Peyralès,636800.2103,6344377.343,0
+12232_lgks4r_00230,230,,rue,de Massergues,12250,Saint-Jean-et-Saint-Paul,700023.44,6315928.08,IMB/12102/X/00LU,11,,lotissement,du Pré d'Hyars,12450,Flavin,668677.3324,6354427.84,0
+12282_0094_00005,5,,rue,Jean Pierre Langlois,12250,Tournemire,701329.61,6319106.55,IMB/12282/X/007J,5,,rue,Jean-Pierre Langlois,12250,Tournemire,701337.8004,6319116.648,1
+12187_k83yi2_00156,156,,route,du Hameau de Bois d’Aubrac,12470,Prades-d'Aubrac,701414.98,6387427.91,IMB/12187/X/0093,156,,route,du Hameau du Bois d'Aubrac,12470,Prades-d'Aubrac,701420.8428,6387416.409,1
+12147_r3baqu_02460,2460,,route,de saint félix de sorgues,12360,Montagnol,701476.35,6305786.31,IMB/12021/X/00GV,3,,moulin,Blanc,12240,Le Bas Ségala,634477.369,6352851.557,0
+12055_ulzcf8_00077,77,,rue,de Montadette,12130,La Capelle-Bonance,702387.1,6374236.4,IMB/12111/X/006N,663,,impasse,de la Gralière,12390,Goutrens,650609.9261,6373758.097,0
+12270_0274_00033,33,,rue,de la Crouzette,12150,Sévérac d'Aveyron,702506.32,6359916.03,IMB/12270/X/0178,33,,rue,de la Crouzette,12150,Sévérac d'Aveyron,702495.3551,6359922.927,1
+12084_0063_00007,7,,impasse,de la Courade,12100,Creissels,703857.67,6331292.43,IMB/12084/X/008L,7,,impasse,de la Courade,12100,Creissels,703848.6901,6331301.837,1
+12084_0082_00002,2,,rue,Georgette Julie,12100,Creissels,703945.53,6331284.15,IMB/12084/X/00KW,2,,rue,Georgette Julie,12100,Creissels,703958.5503,6331284.257,1
+12084_0085_00002_b,2,b,avenue,Jean Monnet,12100,Creissels,704029.83,6331849.51,IMB/12168/X/00HC,16,,rue,de la Rouquette,12230,Nant,724111.1955,6324962.301,0
+12270_0193_00019,19,,route,des Pompes,12150,Sévérac d'Aveyron,704520.55,6358571.27,IMB/12270/X/0102,19,,route,des Pompes,12150,Sévérac d'Aveyron,705713.674,6357703.025,1
+12270_0184_00023,23,,avenue,Pasteur,12150,Sévérac d'Aveyron,704751.28,6358651.65,IMB/12270/X/008Y,23,,avenue,Pasteur,12150,Sévérac d'Aveyron,704757.0735,6358663.25,1
+12270_0191_00007,7,,rue,Philemon Milhau,12150,Sévérac d'Aveyron,704802.01,6358110.55,IMB/12026/X/00BW,53,,impasse,des Chênes,12310,Bertholène,681659.1839,6366410.447,0
+12270_0035_00019,19,,avenue,des Calquières,12150,Sévérac d'Aveyron,704813.61,6357756.39,IMB/12270/X/0042,19,,avenue,des Calquières,12150,Sévérac d'Aveyron,704825.7471,6357761.136,1
+12084_0180_00018,18,,rue,du Pourtalou,12100,Creissels,704957.09,6331923.5,IMB/12208/X/0087,650,,avenue,Georges Pompidou,12400,St-Affrique,689597.4605,6317970.108,0
+12270_0087_00006,6,,rue,Emile Zola,12150,Sévérac d'Aveyron,705029.67,6357356.96,IMB/12105/X/00C2,513,,route,de Seillols,12270,La Fouillade,621500.5453,6349045.706,0
+12270_0166_00008,8,,avenue,Jean Moulin,12150,Sévérac d'Aveyron,705105,6357904.93,IMB/12270/X/0081,8,,avenue,Jean Moulin,12150,Sévérac d'Aveyron,705092.1377,6357906.232,1
+12270_0207_00001_bis,1,b,rue,de la Tricouse,12150,Sévérac d'Aveyron,705140.93,6358931.46,IMB/12103/X/001H,1017,,route,des Falguières,12140,Florentin-la-Capelle,670295.5066,6393435.657,0
+12084_b002_00004,4,,avenue,Charles de Gaulle,12100,Creissels,705213.87,6332081.7,IMB/12033/X/01G7,1,,rue,du Tioulas,12340,Bozouls,678825.8894,6371243.049,0
+12270_0182_00040,40,,avenue,de Paris,12150,Sévérac d'Aveyron,705242.41,6358873.22,IMB/12168/X/00IO,11,,rue,du Faubourg Bas,12230,Nant,724329.641,6324765.803,0
+12084_b004_00016_bis,16,b,avenue,Marc Corneillan,12100,Creissels,705267.23,6332243.52,IMB/12084/X/005X,16,b,avenue,Marc Corneillan,12100,Creissels,705273.5637,6332232.192,1
+12084_b088_00004,4,,rue,de l'Abbé Fabre,12100,Creissels,705281.29,6332089.31,IMB/12300/X/02C8,5,,place,de la Fontaine,12200,Villefranche-de-Rouergue,623238.0664,6361865.325,0
+12084_b089_00030,30,,rue,de la Gayonne,12100,Creissels,705312.11,6332010.56,IMB/12225/X/008G,5,,place,du Lévézou,12100,St-Georges-de-Luzençon,698458.6167,6329410.41,0
+12084_b004_00020,20,,avenue,Marc Corneillan,12100,Creissels,705313.73,6332271.22,IMB/12084/X/0060,20,,avenue,Marc Corneillan,12100,Creissels,705317.1237,6332258.737,1
+12084_b094_00010,10,,rue,Emma Calvé,12100,Creissels,705372.27,6332172.61,IMB/12084/X/00K9,10,,rue,Emma Calvé,12100,Creissels,705380.7886,6332162.747,1
+12084_b094_00015,15,,rue,Emma Calvé,12100,Creissels,705462.12,6332175.35,IMB/12084/X/00KE,15,,rue,Emma Calvé,12100,Creissels,705474.0053,6332180.632,1
+12270_0182_00002,2,,avenue,de Paris,12150,Sévérac d'Aveyron,705468.68,6358923.74,IMB/12300/X/07MG,654,,rue,Roger Cavaignac,12200,Villefranche-de-Rouergue,622443.0538,6363643.579,0
+12270_0150_00039,39,,avenue,du Général de Gaulle,12150,Sévérac d'Aveyron,705487.58,6357827.15,IMB/12305/X/006J,28,,avenue,Jean Jaurès,12110,Viviez,637745.9157,6384361.857,0
+12232_ap9eal_00092,92,,chemin,des Grottes,12250,Saint-Jean-et-Saint-Paul,705618.13,6314816.4,IMB/12232/X/005M,92,,chemin,des Grottes,12250,St-Jean-et-St-Paul,705629.8722,6314821.981,1
+12270_0036_00004,4,,impasse,des Causses,12150,Sévérac d'Aveyron,705656.5,6358016.27,IMB/12270/X/00JD,4,,impasse,des Causses,12150,Sévérac d'Aveyron,705650.7998,6358027.853,1
+12232_5k9v68_00023,23,,rue,du Puech de l’Eglise,12250,Saint-Jean-et-Saint-Paul,705658.48,6314683.21,IMB/12208/X/02O6,17,,rue,Saint-Vincent,12400,St-Affrique,692073.0233,6316509.102,0
+12270_0160_00003,3,,avenue,des Gorges du Tarn,12150,Sévérac d'Aveyron,705922.17,6358006.74,IMB/12002/X/006A,10,,route,des Gorges du Tarn,12520,Aguessac,707889.6253,6339621.615,0
+12145_0960_00001,1,,Avenue,Edouard Alfred Martel,12100,Millau,706556.87,6334692.06,IMB/12001/X/002N,3,,Rue,de la Châtaigneraie,12630,Agen-d'Aveyron,675020.3689,6361967.626,0
+12145_0960_00003,3,,Avenue,Edouard Alfred Martel,12100,Millau,706561.42,6334709.73,IMB/12096/X/00VO,10,,Place,Jean-Baptiste Cayron,12500,Espalion,681182.8829,6380507.343,0
+12145_0960_00005,5,,Avenue,Edouard Alfred Martel,12100,Millau,706564.6,6334729.62,IMB/12096/X/00VQ,14,,Place,Jean-Baptiste Cayron,12500,Espalion,681172.9452,6380517.148,0
+12145_0960_00007,7,,Avenue,Edouard Alfred Martel,12100,Millau,706574.72,6334775.29,IMB/12145/X/06CW,45,,Impasse,des Hauts de Souloumiac,12100,Millau,705596.3622,6331959.312,0
+12145_0960_00009,9,,Avenue,Edouard Alfred Martel,12100,Millau,706578.38,6334790.85,IMB/12145/X/06CY,97,,Impasse,des Hauts de Souloumiac,12100,Millau,705665.0949,6331997.473,0
+12145_0960_00002,2,,Avenue,Edouard Alfred Martel,12100,Millau,706578.69,6334728.63,IMB/12001/X/002O,6,,Chemin,de la Roque,12630,Agen-d'Aveyron,674796.2043,6362040.442,0
+12145_0960_00011,11,,Avenue,Edouard Alfred Martel,12100,Millau,706583.48,6334813.52,IMB/12145/X/06CZ,90,,Impasse,des Hauts de Souloumiac,12100,Millau,705658.4738,6331950.377,0
+12145_0960_00004,4,,Avenue,Edouard Alfred Martel,12100,Millau,706588.41,6334773.64,IMB/12096/X/00VP,12,,Place,Jean-Baptiste Cayron,12500,Espalion,681176.4819,6380513.611,0
+12145_0960_00006,6,,Avenue,Edouard Alfred Martel,12100,Millau,706590.87,6334788.09,IMB/12096/X/00VR,18,,Place,Jean-Baptiste Cayron,12500,Espalion,681156.5528,6380532.76,0
+12145_0960_00008,8,,Avenue,Edouard Alfred Martel,12100,Millau,706595.57,6334813.09,IMB/12145/X/06CX,71,,Impasse,des Hauts de Souloumiac,12100,Millau,705617.2008,6332012.552,0
+12145_0960_00012,12,,Avenue,Edouard Alfred Martel,12100,Millau,706606.88,6334867.88,IMB/12145/X/06D0,0,,,les Combes Hautes,12100,Millau,705994.528,6331855.005,0
+12002_2rjm3p_00001,1,,,Lestrade,12520,Aguessac,707034.22,6340144.44,IMB/12002/X/00E7,9,,,Lestrade,12520,Aguessac,707334.1621,6340070.005,0
+12002_2rjm3p_00003,3,,,Lestrade,12520,Aguessac,707034.22,6340144.44,IMB/12002/X/00E9,11,,,Lestrade,12520,Aguessac,707323.5101,6340053.112,0
+12002_2rjm3p_00005,5,,,Lestrade,12520,Aguessac,707034.22,6340144.44,IMB/12002/X/00EB,13,,,Lestrade,12520,Aguessac,707294.1145,6340024.08,0
+12002_2rjm3p_00007,7,,,Lestrade,12520,Aguessac,707034.22,6340144.44,IMB/12002/X/00ED,15,,,Lestrade,12520,Aguessac,707200.4161,6340071.114,0
+12002_2rjm3p_00002,2,,,Lestrade,12520,Aguessac,707180.19,6340071.95,IMB/12002/X/00E8,10,,,Lestrade,12520,Aguessac,707297.4129,6340069.276,0
+12002_2rjm3p_00004,4,,,Lestrade,12520,Aguessac,707212.22,6340109.98,IMB/12002/X/00EA,12,,,Lestrade,12520,Aguessac,707280.5171,6340041.717,0
+12002_2rjm3p_00006,6,,,Lestrade,12520,Aguessac,707235.31,6340131.45,IMB/12002/X/00EC,14,,,Lestrade,12520,Aguessac,707145.6733,6340110.427,0
+12002_2rjm3p_00008,8,,,Lestrade,12520,Aguessac,707249.6,6340147.46,IMB/12002/X/00EE,16,,,Lestrade,12520,Aguessac,707312.4874,6340085.812,0
+12002_ntujmi_00011,11,,Avenue,de la Brezegue,12520,Aguessac,707253.05,6340212.46,IMB/12001/X/002M,5,,Rue,de la Châtaigneraie,12630,Agen-d'Aveyron,675011.1767,6361943.727,0
+12002_0103_00009_f,9,f,rue,de Lestrade,12520,Aguessac,707363.02,6340073.93,IMB/12002/X/008B,9,f,rue,de Lestrade,12520,Aguessac,707372.3206,6340064.908,1
+12002_ntujmi_00009,9,,Avenue,de la Brezegue,12520,Aguessac,707417.22,6340100.66,IMB/12001/X/002J,1,,Rue,de la Châtaigneraie,12630,Agen-d'Aveyron,674995.6728,6362000.801,0
+12002_ntujmi_00007,7,,Avenue,de la Brezegue,12520,Aguessac,707468.68,6340074.17,IMB/12001/X/002H,4,,Rue,Maréchal Alphonse Juin,12630,Agen-d'Aveyron,674921.9503,6361787.633,0
+12002_ntujmi_00007,7,,Avenue,de la Brezegue,12520,Aguessac,707468.68,6340074.17,IMB/12002/X/000F,7,,Avenue,de la Brézègue,12520,Aguessac,707455.6789,6340052.147,1
+12002_ntujmi_00005,5,,Avenue,de la Brezegue,12520,Aguessac,707539.48,6339989.37,IMB/12001/X/001D,3,,Impasse,de la Parro,12630,Agen-d'Aveyron,674977.3671,6361487.464,0
+12002_ntujmi_00005,5,,Avenue,de la Brezegue,12520,Aguessac,707539.48,6339989.37,IMB/12002/X/000G,8,,Avenue,de la Brézègue,12520,Aguessac,707621.4141,6339977.802,0
+12002_ntujmi_00005,5,,Avenue,de la Brezegue,12520,Aguessac,707539.48,6339989.37,IMB/12002/X/000D,5,,Avenue,de la Brézègue,12520,Aguessac,707522.7033,6339984.888,1
+12002_ntujmi_00003,3,,Avenue,de la Brezegue,12520,Aguessac,707569.07,6339992.18,IMB/12001/X/000H,14,,Chemin,de Cantaserp,12630,Agen-d'Aveyron,673441.2317,6362121.773,0
+12002_ntujmi_00003,3,,Avenue,de la Brezegue,12520,Aguessac,707569.07,6339992.18,IMB/12002/X/000T,3,,Avenue,des Causses,12520,Aguessac,707818.9126,6339406.888,0
+12002_ntujmi_00010,10,,Avenue,de la Brezegue,12520,Aguessac,707597.48,6339983.33,IMB/12001/X/002L,2,,Rue,de la Châtaigneraie,12630,Agen-d'Aveyron,674967.2233,6361944.097,0
+12002_ntujmi_00008,8,,Avenue,de la Brezegue,12520,Aguessac,707613.33,6339972.91,IMB/12001/X/002I,14,,Chemin,de la Roque,12630,Agen-d'Aveyron,674980.0848,6362047.886,0
+12002_ntujmi_00008,8,,Avenue,de la Brezegue,12520,Aguessac,707613.33,6339972.91,IMB/12002/X/000G,8,,Avenue,de la Brézègue,12520,Aguessac,707621.4141,6339977.802,1
+12002_0048_00002,2,,rue,du Bosquet,12520,Aguessac,707629.77,6339736.39,IMB/12002/X/00BS,2,,rue,du Bosquet,12520,Aguessac,707642.4846,6339738.874,1
+12002_ntujmi_00006,6,,Avenue,de la Brezegue,12520,Aguessac,707641.81,6339964.94,IMB/12001/X/001E,1,,Impasse,de la Parro,12630,Agen-d'Aveyron,674945.7634,6361452.435,0
+12002_ntujmi_00006,6,,Avenue,de la Brezegue,12520,Aguessac,707641.81,6339964.94,IMB/12002/X/000E,6,,Avenue,de la Brézègue,12520,Aguessac,707641.3732,6339974.157,1
+12002_ntujmi_00004,4,,Avenue,de la Brezegue,12520,Aguessac,707643.81,6339963.28,IMB/12001/X/000I,16,,Chemin,de Cantaserp,12630,Agen-d'Aveyron,673431.8547,6362075.898,0
+12002_ntujmi_00004,4,,Avenue,de la Brezegue,12520,Aguessac,707643.81,6339963.28,IMB/12002/X/000F,7,,Avenue,de la Brézègue,12520,Aguessac,707455.6789,6340052.147,0
+12002_ntujmi_00001,1,,Avenue,de la Brezegue,12520,Aguessac,707676.49,6339929.43,IMB/12001/X/0006,3,,Chemin,de Campan,12630,Agen-d'Aveyron,673813.5324,6361963.794,0
+12002_ntujmi_00001,1,,Avenue,de la Brezegue,12520,Aguessac,707676.49,6339929.43,IMB/12002/X/0009,2,B,Avenue,de la Brézègue,12520,Aguessac,707704.08,6339961.13,0
+12002_ntujmi_00002,2,,Avenue,de la Brezegue,12520,Aguessac,707691.12,6339931.67,IMB/12001/X/0007,9,,Chemin,de Campan,12630,Agen-d'Aveyron,673709.752,6361977.655,0
+12002_ntujmi_00002,2,,Avenue,de la Brezegue,12520,Aguessac,707691.12,6339931.67,IMB/12002/X/000A,2,T,Avenue,de la Brézègue,12520,Aguessac,707675.5002,6339976.686,0
+12002_ntujmi_00002,2,,avenue,de la Brezegue,12520,Aguessac,707691.12,6339740.77,IMB/12002/X/0008,2,,avenue,de la Brézègue,12520,Aguessac,707686.9834,6.34E+06,1
+12002_0puwwe_00001,1,,Plan,du Foirail,12520,Aguessac,707758.86,6339740.77,IMB/12001/X/0001,4,,Impasse,de la Baraque Basse,12630,Agen-d'Aveyron,674438.0998,6361510.983,0
+"12002_0091_00001	",1,,rue,"des Glycines	",12520,Aguessac,707819.56,6339740.77,"IMB/12002/X/00D9	",1,,rue,du Viaduc,12520,Aguessac,707877.8412,"6.339822e+06	",0
+12002_0230_00009,9,,rue,"du Viaduc	",12520,Aguessac,707824.39,6339740.77,"IMB/12002/X/0083	",9,,rue,de la Plume,12520,"Aguessac	",707922.4661,"6.339761e+06	",0
+12002_0052_00026,26,,avenue,"des Causses	",12520,Aguessac,707846.4,6339740.77,"IMB/12002/X/001C	",26,,avenue,"des Causses	",12520,Aguessac,707853.7263,"6.339653e+06	",1
+12002_0085_00003,3,,rue,de la Gare,12520,Aguessac,707847.9,6339341.46,IMB/12281/X/008S,1474,,route,du Rouergue,12200,Toulonjac,620244.2367,6365317.935,0
+12002_0085_00009,9,,rue,de la Gare,12520,Aguessac,707857.23,6339299.25,IMB/12296/X/00BB,19,,place,de l'Horloge,12490,Viala-du-Tarn,690184.2739,6330342.578,0
+12002_0049_00001,1,,Rue,de la Calade,12520,Aguessac,707862.11,6339740.77,"IMB/12002/X/00CQ	",1,,rue,"du Soleil Levant	",12520,Aguessac,707582.0624,6.34E+06,0
+12002_0230_00008,8,,rue,du Viaduc,12520,Aguessac,707863.76,6339835.67,IMB/12002/X/00DH,8,,rue,du Viaduc,12520,Aguessac,707871.8573,6339845.849,1
+12002_0085_00008,8,,Rue,de la Gare,12520,Aguessac,707890.41,6338996.76,"IMB/12002/X/00CC	",8,,rue,du Clapas,12520,Aguessac,707592.294,"6.339709e+06	",0
+12002_0085_00002,2,,rue,de la Gare,12520,Aguessac,707894.52,6339158.42,IMB/12002/X/007G,2,,rue,de la Gare,12520,Aguessac,707888.1193,6339147.195,1
+12178_0077_00004,4,,route,de Millau Plage,12520,Paulhe,708025.42,6337056.95,IMB/12178/X/0036,4,,route,de Millau Plage,12520,Paulhe,708259.7168,6339030.224,1
+12178_0077_00006,6,,route,de Millau Plage,12520,Paulhe,708054.64,6337115.76,IMB/12178/X/0037,6,,route,de Millau Plage,12520,Paulhe,708250.7484,6339056.573,1
+12122_0022_00368,368,,route,du Cernon,12230,Lapanouse-de-Cernon,708574.66,6321823.72,IMB/12122/X/0043,368,,route,du Cernon,12230,Lapanouse-de-Cernon,709422.8944,6322741.845,1
+12122_0022_00368,368,,route,du Cernon,12230,Lapanouse-de-Cernon,708574.66,6321823.72,IMB/12122/X/0045,368,,route,du Cernon,12230,Lapanouse-de-Cernon,709492.7928,6322738.258,1
+12122_0022_00368,368,,route,du Cernon,12230,Lapanouse-de-Cernon,708574.66,6321823.72,IMB/12122/X/0044,368,,route,du Cernon,12230,Lapanouse-de-Cernon,709466.3449,6322800.418,1
+12200_0050_00026,26,,rue,de l'Eglise,12640,Rivière-sur-Tarn,710486.42,6343377.85,IMB/12200/X/00GR,26,,rue,de l'Église,12640,Rivière-sur-Tarn,710491.7221,6343389.722,1
+12200_0070_00061,61,,route,des Gorges du Tarn,12640,Rivière-sur-Tarn,710556.77,6343280.64,IMB/12157/X/00GK,45,,route,du Pont Vieux,12630,Montrozier,676696.0666,6366233.74,0
+12063_0470_00075,75,,avenue,du 122e régiment d'infanterie,12230,La Cavalerie,712748.5,6323353.42,IMB/12203/X/001P,47,,avenue,de Lauras,12250,Roquefort-sur-Soulzon,698612.7434,6320098.548,0
+12063_0400_00001,1,,rue,du parrouget,12230,La Cavalerie,712771.99,6323360.03,IMB/12168/X/00IS,17,,rue,du Faubourg Bas,12230,Nant,724344.7227,6324750.091,0
+12063_0400_00005,5,,rue,du parrouget,12230,La Cavalerie,712787.53,6323366.17,IMB/12198/X/01MN,2,b,route,de Rodez,12240,Rieupeyroux,639906.8897,6356839.781,0
+12063_0560_00006,6,,route,de la Tune,12230,La Cavalerie,712897.5,6323156.39,IMB/12127/X/00JB,774,,route,de Grazelles,12170,Lédergues,656042.8028,6331625.17,0
+12063_0466_00016,16,,route,de redoules,12230,La Cavalerie,713384.44,6324301.85,IMB/12148/X/000D,28,,avenue,de la Résistance,12220,Montbazens,638425.8581,6376139.159,0
+12063_0466_00014,14,,route,de redoules,12230,La Cavalerie,713384.44,6324301.85,IMB/12057/X/00EK,1,,rue,de la Côte Vieille,12120,Cassagnes-Bégonhès,662295.9981,6341233.418,0
+12063_0466_00012,12,,route,de redoules,12230,La Cavalerie,713384.44,6324301.85,IMB/12102/X/00J5,2,,avenue,du Lévézou,12450,Flavin,668608.8136,6354217.926,0
+12063_0466_00010,10,,route,de redoules,12230,La Cavalerie,713384.44,6324301.85,IMB/12300/X/028I,9,,impasse,Sainte-Marguerite,12200,Villefranche-de-Rouergue,623160.5837,6362827.861,0
+12115_0180_00001,1,,route,du Grand Chemin,12230,L'Hospitalet-du-Larzac,715689.81,6319547.18,IMB/12208/X/01O7,41,,route,du Roc Blanc,12400,St-Affrique,690445.9396,6317374.591,0
+12211_zrldw3_00239,239,,chemin,de la Combe,12720,Saint-André-de-Vézines,720160.31,6338639.48,IMB/12061/X/005E,634,,chemin,des Vignes,12500,Castelnau-de-Mandailles,688437.4694,6381316.697,0
+12211_t5h9by_00261,261,,route,de Roquesaltes,12720,Saint-André-de-Vézines,720487.49,6338992.73,IMB/12211/X/004E,261,,route,de Roquesaltes,12720,St-André-de-Vézines,720498.9155,6338986.708,1
+12211_3j09xd_00044,44,,traverse,de l’Eglise,12720,Saint-André-de-Vézines,720643.72,6339310.66,IMB/12211/X/002S,44,,traverse,de l'Église,12720,St-André-de-Vézines,720636.3029,6339321.33,1
+12168_0069_00039,39,,rue,du Faubourg Haut,12230,Nant,723923.94,6324943.13,IMB/12224/X/02EZ,37,b,rue,Riviè,12130,St-Geniez-d'Olt-et-d'Aubrac,698013.6838,6374308.692,0
+12168_0069_00037,37,,rue,du Faubourg Haut,12230,Nant,723933.57,6324940.28,IMB/12148/X/00L3,3,,lieu dit,les Cabanous,12220,Montbazens,638832.9081,6373606.927,0
+12168_0069_00035,35,,rue,du Faubourg Haut,12230,Nant,723944.01,6324936.87,IMB/12167/X/00FR,1,,rue,du Château,12270,Najac,618207.9219,6347176.11,0
+12168_0061_00003,3,,place,du Claux,12230,Nant,724149.74,6324893.77,IMB/12296/X/007W,6678,,route,des Raspes,12490,Viala-du-Tarn,684981.1992,6330198.998,0
+12168_0067_00037,37,,rue,du Faubourg Bas,12230,Nant,724384.32,6324687.78,IMB/12118/X/002T,2,,allee,de la Fage,12600,Lacroix-Barrez,671339.8853,6409483.61,0
+12168_0067_00039,39,,rue,du Faubourg Bas,12230,Nant,724387.39,6324681.45,IMB/12057/X/0060,1,,route,de Pelegry,12120,Cassagnes-Bégonhès,662144.0417,6341330.959,0
+12168_0067_00020,20,,rue,du Faubourg Bas,12230,Nant,724393.59,6324655.14,IMB/12258/X/00AQ,6,,,Roumegous,12440,La Salvetat-Peyralès,633253.0411,6345245.795,0
+12168_ip2tbt_00009,9,,,la Mouline,12230,Nant,724439.03,6324534.43,IMB/12064/X/004S,3496,,route,de Bonneval,12500,Le Cayrol,683925.8304,6384933.338,0
+12065_0062_00029,14,,Ruelle,Des pinces,81100,Albi des St Germain,882621.11,8840779.56,IMB/12065/X/0081,14,,Ruelle,Des pinces,83100,Saint-Germain,892621.11,8940779.56,0
