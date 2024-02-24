@@ -1,10 +1,10 @@
-# src/DataPreprocessor.py
+# src/utils/DataPreprocessor.py
 import pandas as pd
 from unidecode import unidecode
 from tqdm import tqdm
 
 
-from AddressParsing import AddressParsing
+from utils.AddressParsing import AddressParsing
 
 class DataPreprocessor:
     def __init__(self):

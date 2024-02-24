@@ -4,7 +4,7 @@ warnings.filterwarnings('ignore')
 
 import pandas as pd
 import os
-from DataPreprocessor import DataPreprocessor
+from utils.DataPreprocessor import DataPreprocessor
 from Blocking import Blocking
 from Filtering import Filtering
 from Matching import Matching
