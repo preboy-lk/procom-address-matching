@@ -40,8 +40,8 @@ class DataPreprocessor:
 
             nom_colonnes = {'id': 'IdentifiantImmeuble','numero' : 'NumeroVoieImmeuble','rep' : 'ComplementNumeroVoieImmeuble','TypeVoie' : 'TypeVoieImmeuble','NomVoieReste' : 'NomVoieImmeuble','code_postal' : 'CodePostalImmeuble','nom_commune' : 'CommuneImmeuble','x' : 'CoordonneeImmeubleX','y' : 'CoordonneeImmeubleY'}
             ban_reduced = ban_reduced.rename(columns=nom_colonnes)
-            ipe_reduced.to_csv('dataset/ipe_reduced')
-            ban_reduced.to_csv('dataset/ban_reduced')
+            ipe_reduced.to_csv('dataset/ipe_reduced.csv')
+            ban_reduced.to_csv('dataset/ban_reduced.csv')
             print("Dataset saved successfully")
         except Exception as e:
             print(f"Fail to save dataset: {e}")
