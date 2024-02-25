@@ -30,8 +30,8 @@ python -u main.py algo1
 Replace algo1 with algo2 if you want to run the second algorithm. </br>
 For detailed usage and demonstration, refer to the Jupyter notebooks provided in the notebooks directory.
 ## Workflow
-![alt text](https://github.com/preboy-lk/procom-address-matching/tree/main/diagrams/Algo1.png?raw=true)
-![alt text](https://github.com/preboy-lk/procom-address-matching/tree/main/diagrams/Algo2.png?raw=true)
+![alt text](https://github.com/preboy-lk/procom-address-matching/tree/main/diagrams/Algo1.png)
+![alt text](https://github.com/preboy-lk/procom-address-matching/tree/main/diagrams/Algo2.png)
 ## Requirements
 - Python 3.x
 - Other dependencies as specified in requirements.txt
