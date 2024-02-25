@@ -22,8 +22,6 @@ class Algorithm2:
         C = block.block()
 
         step_2 = Model()
-
-        #step_3 = Predict()
         D = step_2.predict(C)
 
         match_table = D[D['predicted_labels'] == 1]
@@ -35,6 +33,6 @@ class Algorithm2:
         E = match_table1.drop_duplicates(subset='r_IdentifiantImmeuble', keep='first')
 
         print('From IPE Dataset with : ' , A.shape[0] , '    rows and BAN Dataset with : ', B.shape[0], '   rows we found ', len(E) , ' matching adresses')
-        #E.to_csv('../results/matched_address_BAN_IPE_UsingML.csv')
+        E.to_csv('../results/matched_address_BAN_IPE_UsingML.csv')
         print('Done')
 

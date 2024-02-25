@@ -13,8 +13,6 @@ class Model:
         self.block = Blocking()
         self.run()
 
-    def get_table_feature(self):
-        return self.match_f
     def run(self):
         self.training_set_preprocessing()
         self.split_dataset_BAN_IPE()
@@ -119,9 +117,9 @@ class Model:
     
     def get_feature_for_matching(self):
         match_f = em.get_features_for_matching(self.A,self.B, validate_inferred_attr_types = False)
-        em.add_blackbox_feature(match_f,'real_distance',self.real_distance)
         feature_to_remain = [6,13,23,26,38,54]
         match_f.drop([i for i in range(match_f.shape[0]) if i not in feature_to_remain],inplace=True)
+        em.add_blackbox_feature(match_f,'real_distance',self.real_distance)
         #match_f.to_csv('../model/cfg.csv', index = False)
         return match_f
     
@@ -146,7 +144,6 @@ class Model:
         return np.sqrt((ltuple['CoordonneeImmeubleX']-rtuple['CoordonneeImmeubleX'])**2+(ltuple['CoordonneeImmeubleY']-rtuple['CoordonneeImmeubleY'])**2)
 
     def predict(self, C):
-        H = em.extract_feature_vecs(C, feature_table=self.match_f)
-        print(H.columns)
+        H = em.extract_feature_vecs(C, feature_table= self.match_f)
         pred_table = self.dt.predict(table=H, exclude_attrs=['_id', 'l_IdentifiantImmeuble', 'r_IdentifiantImmeuble'], target_attr='predicted_labels', append=True, inplace=True)
         return pred_table

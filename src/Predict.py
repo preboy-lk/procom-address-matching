@@ -4,10 +4,14 @@ import pandas as pd
 import py_entitymatching as em
 from Model import Model
 from Blocking import Blocking
+from Model import Model
 
 class Predict:
     def __init__(self):
-        self.feature_table = pd.read_csv('../model/cfg.csv')
+        with open('../model/cfg.pkl', 'rb') as f:
+            self.feature_table = pickle.load(f)
+        self.feature_method = Model()
+        em.add_blackbox_feature(self.feature_table,'real_distance',self.feature_method.real_distance)
 
         model_file = '../model/matching_model.pkl'
         try:
