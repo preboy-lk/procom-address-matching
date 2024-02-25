@@ -43,7 +43,7 @@ The simplest kind of record linkage, called deterministic or rules-based record 
 
 # Machine Learning
 In recent years, a variety of machine learning techniques have been used in record linkage. Higher accuracy can often be achieved by using various other machine learning techniques, including a single-layer perceptron, random forest, and SVM. In conjunction with distributed technologies, accuracy and scale for record linkage can be improved further. 
-![alt text](https://github.com/preboy-lk/procom-address-matching/blob/main/diagrams/Algo2.png)
+![alt text](https://github.com/preboy-lk/procom-address-matching/blob/main/diagrams/Algo2.png) </br> 
 In this method, we add some new steps to take:
 - Data Labelling: After preprocessing the two datasets, we will join them together and label them to create the dataset for training ML model. This step will be done manually or using a rules-based method.
 - Train/test splitting: To split the dataset into 2 sets, one for training and one for evaluation.
