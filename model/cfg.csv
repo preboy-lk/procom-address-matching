@@ -1,0 +1,22 @@
+feature_name,left_attribute,right_attribute,left_attr_tokenizer,right_attr_tokenizer,simfunction,function,function_source,is_auto_generated
+NumeroVoieImmeuble_NumeroVoieImmeuble_exm,NumeroVoieImmeuble,NumeroVoieImmeuble,,,exact_match,<function NumeroVoieImmeuble_NumeroVoieImmeuble_exm at 0x000001A300EED480>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def NumeroVoieImmeuble_NumeroVoieImmeuble_exm(ltuple, rtuple):
+    return exact_match(ltuple[""NumeroVoieImmeuble""], rtuple[""NumeroVoieImmeuble""])",True
+ComplementNumeroVoieImmeuble_ComplementNumeroVoieImmeuble_mel,ComplementNumeroVoieImmeuble,ComplementNumeroVoieImmeuble,,,monge_elkan,<function ComplementNumeroVoieImmeuble_ComplementNumeroVoieImmeuble_mel at 0x000001A300EED870>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def ComplementNumeroVoieImmeuble_ComplementNumeroVoieImmeuble_mel(ltuple, rtuple):
+    return monge_elkan(ltuple[""ComplementNumeroVoieImmeuble""], rtuple[""ComplementNumeroVoieImmeuble""])",True
+TypeVoieImmeuble_TypeVoieImmeuble_lev_sim,TypeVoieImmeuble,TypeVoieImmeuble,,,lev_sim,<function TypeVoieImmeuble_TypeVoieImmeuble_lev_sim at 0x000001A300EEDE10>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def TypeVoieImmeuble_TypeVoieImmeuble_lev_sim(ltuple, rtuple):
+    return lev_sim(ltuple[""TypeVoieImmeuble""], rtuple[""TypeVoieImmeuble""])",True
+NomVoieImmeuble_NomVoieImmeuble_jac_qgm_3_qgm_3,NomVoieImmeuble,NomVoieImmeuble,qgm_3,qgm_3,jaccard,<function NomVoieImmeuble_NomVoieImmeuble_jac_qgm_3_qgm_3 at 0x000001A300EEDFC0>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def NomVoieImmeuble_NomVoieImmeuble_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""NomVoieImmeuble""]), qgm_3(rtuple[""NomVoieImmeuble""])) ",True
+CommuneImmeuble_CommuneImmeuble_jac_qgm_3_qgm_3,CommuneImmeuble,CommuneImmeuble,qgm_3,qgm_3,jaccard,<function CommuneImmeuble_CommuneImmeuble_jac_qgm_3_qgm_3 at 0x000001A300EEE680>,"from py_entitymatching.feature.simfunctions import *
+from py_entitymatching.feature.tokenizers import *
+def CommuneImmeuble_CommuneImmeuble_jac_qgm_3_qgm_3(ltuple, rtuple):
+    return jaccard(qgm_3(ltuple[""CommuneImmeuble""]), qgm_3(rtuple[""CommuneImmeuble""])) ",True
+real_distance,,,,,,<bound method Model.real_distance of <Model.Model object at 0x000001A300EE9090>>,,False

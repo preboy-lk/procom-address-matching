@@ -9,8 +9,8 @@ from utils.AddressParsing import AddressParsing
 class DataPreprocessor:
     def __init__(self):
         # We take ban-adresses-12 as it is the department 12, which is contained in ipe AXTD region
-        self.ipe = pd.read_csv('dataset/IPE-AXTD.csv', delimiter=";")
-        self.ban = pd.read_csv('dataset/BAN-address-12.csv', delimiter=";")
+        self.ipe = pd.read_csv('../dataset/IPE-AXTD.csv', delimiter=";")
+        self.ban = pd.read_csv('../dataset/BAN-address-12.csv', delimiter=";")
         self.address_parser = AddressParsing()
         self.run()
     
@@ -40,8 +40,8 @@ class DataPreprocessor:
 
             nom_colonnes = {'id': 'IdentifiantImmeuble','numero' : 'NumeroVoieImmeuble','rep' : 'ComplementNumeroVoieImmeuble','TypeVoie' : 'TypeVoieImmeuble','NomVoieReste' : 'NomVoieImmeuble','code_postal' : 'CodePostalImmeuble','nom_commune' : 'CommuneImmeuble','x' : 'CoordonneeImmeubleX','y' : 'CoordonneeImmeubleY'}
             ban_reduced = ban_reduced.rename(columns=nom_colonnes)
-            ipe_reduced.to_csv('dataset/ipe_reduced.csv')
-            ban_reduced.to_csv('dataset/ban_reduced.csv')
+            ipe_reduced.to_csv('../dataset/ipe_reduced.csv', index = False)
+            ban_reduced.to_csv('../dataset/ban_reduced.csv', index = False)
             print("Dataset saved successfully")
         except Exception as e:
             print(f"Fail to save dataset: {e}")

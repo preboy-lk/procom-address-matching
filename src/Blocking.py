@@ -2,7 +2,7 @@
 import py_entitymatching as em
 
 class Blocking:
-    def __init__(self, A,B):
+    def __init__(self, A = None , B = None):
         """
         We compare certain columns strictly --> blocking technique
         Íf there is no strict correspondence on each of these columns between the 2 addresses compared, we consider that they are not the same addresses.
@@ -15,14 +15,15 @@ class Blocking:
         Args:
             - A,B (Dataframe): 2 Dataframes that need to make the comparison
         """
-        self.A = A
-        self.B = B
-        em.set_key(self.A, 'IdentifiantImmeuble')
-        em.set_key(self.B, 'IdentifiantImmeuble')
+        if A is not None and B is not None:
+            self.A = A
+            self.B = B
+            em.set_key(self.A, 'IdentifiantImmeuble')
+            em.set_key(self.B, 'IdentifiantImmeuble')
 
-        self.A['ComplementNumeroVoieImmeuble'] = self.A['ComplementNumeroVoieImmeuble'].apply(self.complement_numero_voie)
-        self.B['ComplementNumeroVoieImmeuble'] = self.B['ComplementNumeroVoieImmeuble'].apply(self.complement_numero_voie)
-        self.create_column_for_blocking()
+            self.A['ComplementNumeroVoieImmeuble'] = self.A['ComplementNumeroVoieImmeuble'].apply(self.complement_numero_voie)
+            self.B['ComplementNumeroVoieImmeuble'] = self.B['ComplementNumeroVoieImmeuble'].apply(self.complement_numero_voie)
+            self.create_column_for_blocking()
 
     def complement_numero_voie(self, string):
         """
