@@ -30,7 +30,7 @@ python -u main.py algo1
 Replace algo1 with algo2 if you want to run the second algorithm. </br>
 For detailed usage and demonstration, refer to the Jupyter notebooks provided in the notebooks directory.
 ## Workflow
-# Rules - Based Method
+### Rules - Based Method
 The simplest kind of record linkage, called deterministic or rules-based record linkage, generates links based on the number of individual identifiers that match among the available data sets. Two records are said to match via a deterministic record linkage procedure if all or some identifiers (above a certain threshold) are identical. Deterministic record linkage is a good option when the entities in the data sets are identified by a common identifier, or when there are several representative identifiers whose quality of data is relatively high.
 ![alt text](https://github.com/preboy-lk/procom-address-matching/blob/main/diagrams/Algo1.png)
 - Data Pre-processing: In this step, we clean the data before entering the model by dealing with the missing values or reducing the columns,… With BAN, we created an algorithm to separate the road type and road name into 2 separate columns (because in the original data of BAN, they are not separated).
@@ -41,7 +41,7 @@ The simplest kind of record linkage, called deterministic or rules-based record 
 - Tuning rules: Selecting other comparison pairs or tuning the threshold of Fuzzy Logic.
 - Tuning block (optional): In case the above adjustments do not improve the performance of the model, we can re-tune the block.
 
-# Machine Learning
+### Machine Learning
 In recent years, a variety of machine learning techniques have been used in record linkage. Higher accuracy can often be achieved by using various other machine learning techniques, including a single-layer perceptron, random forest, and SVM. In conjunction with distributed technologies, accuracy and scale for record linkage can be improved further. 
 ![alt text](https://github.com/preboy-lk/procom-address-matching/blob/main/diagrams/Algo2.png) </br> 
 In this method, we add some new steps to take:
