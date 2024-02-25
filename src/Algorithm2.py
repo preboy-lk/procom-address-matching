@@ -1,13 +1,9 @@
 # src/Algorithm2.py
-
 import pandas as pd
-import numpy as np
 import os
-import pickle
 from utils.DataPreprocessor import DataPreprocessor
 from Blocking import Blocking
 from Model import Model
-from Predict import Predict
 
 class Algorithm2:
     def run(self):
