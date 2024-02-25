@@ -15,10 +15,19 @@ The objective of this research project is to devise an effective Machine Learnin
 # Clone the repository
 git clone https://github.com/preboy-lk/procom-address-matching.git
 
-# Navigate to the project directory
-cd procom-address-matching
+# Navigate to the 'src' directory of the project:
+cd procom-address-matching/src
+
+# Install the required packages using pip:
+pip install -r requirements.txt
 ```
 
 ## Usage
+To run the project, execute the following command from the 'src' directory:
+```bash
+python -u main.py algo1
+```
+Replace algo1 with algo2 if you want to run the second algorithm.
+For detailed usage and demonstration, refer to the Jupyter notebooks provided in the notebooks directory.
 ## Contributing
 ## License
