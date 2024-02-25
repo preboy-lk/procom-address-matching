@@ -2,6 +2,7 @@
 import warnings
 warnings.filterwarnings('ignore')
 
+import sys
 import pandas as pd
 import os
 from utils.DataPreprocessor import DataPreprocessor
@@ -9,7 +10,7 @@ from Blocking import Blocking
 from Filtering import Filtering
 from Matching import Matching
 
-def main():
+def main(argv, arc):
     #obj1 = AddressParsing()
     #obj2 = DataPreprocessor()
     dataset_path = ['dataset/ipe_reduced.csv', 'dataset/ban_reduced.csv']
